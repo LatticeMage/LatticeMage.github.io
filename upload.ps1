@@ -13,7 +13,7 @@ cd .\Knowledge\
 rmdir .git -force
 ./run.bat
 cd ..
-cp ./Knowledge.md .\Knowledge\
+cp ./Knowledge.md ./Knowledge/README.md
 git add .
 git commit -m "upload"
 git push
