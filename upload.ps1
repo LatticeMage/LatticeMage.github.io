@@ -12,6 +12,7 @@ cp ./run.bat .\Knowledge\
 cd .\Knowledge\
 rmdir .git -force
 ./run.bat
+cp ./Knowledge.md .\Knowledge\
 cd ..
 git add .
 git commit -m "upload"
