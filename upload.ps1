@@ -4,7 +4,7 @@ git remote set-url origin git@AAL:QuantumNecro/QuantumNecro.github.io.git
 
 git pull
 
-rm -R Knowledge
+rmdir -R Knowledge -force
 cp -r ..\Knowledge\ ./
 cp .\createTagMD.py .\Knowledge\
 cp .\moveRenameFile.py .\Knowledge\
