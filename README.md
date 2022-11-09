@@ -1,1 +1,3 @@
-# QuantumNecro.github.io
+# Wiki of PosetMage
+
+
