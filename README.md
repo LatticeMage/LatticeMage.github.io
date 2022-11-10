@@ -1,4 +1,4 @@
-# <img src="[/Icon/New/PosetMage_t.png](http://www.posetmage.com/Icon/New/QuantumNecro_t.png)" Height="32" /></p> PosetMage Wiki <img src="[/Icon/New/PosetMage_t.png](http://www.posetmage.com/Icon/New/QuantumNecro_t.png)" Height="32" /></p>
+# <img src="http://www.posetmage.com/Icon/New/QuantumNecro_t.png" Height="32" /> PosetMage Wiki <img src="http://www.posetmage.com/Icon/New/QuantumNecro_t.png" Height="32" />
 
 [About PosetMage](/Resume/)
 
