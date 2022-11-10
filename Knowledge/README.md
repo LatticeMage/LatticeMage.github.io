@@ -1,12 +1,12 @@
 # Knowledge
 
 * 知識庫上層目錄
-  * ACGN
-    * Anime
-    * Comic
-    * Galgame
-    * Game
-    * Novel
+  * [ACGN](./ACGN/)
+    * [Anime](./ACGN/Anime/)  
+    * [Comic](./ACGN/Comic/)  
+    * [Galgame](./ACGN/Galgame/)  
+    * [Game](./ACGN/Game/)  
+    * [Novel](./ACGN/Novel/)  
   * Art
     * Design
     * Drawing
