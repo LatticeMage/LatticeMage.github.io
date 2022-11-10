@@ -1,8 +1,10 @@
 # Wiki of PosetMage
 
-此站為PosetMage的分站，如果想要回到主站，請至[posetmage.com](https://posetmage.com)
+[About PosetMage](/Resume/)
 
-如果要查找知識庫請至[Knowledge](/Knowledge/)
+[知識庫](/Knowledge/)
 
-上課教材請至[Lecture]()
+[上課教材](/Lecture/)
+
+此站為PosetMage的wiki分站，如果想要回到主站，請至[posetmage.com](https://posetmage.com)
 
