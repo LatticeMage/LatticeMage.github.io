@@ -76,7 +76,10 @@
 	* [Investing](/Science/Economy/Investing)
 * Music
 	* [Instrument](/Art/Music/Instrument)
-	* [Music Theory](/Art/Music/Music%20Theory/Music%20Theory)
+	* [Music Theory](/Art/Music/Music%20Theory)
+* Adam Neely
+	* [Music Theory](/Art/Music/Music%20Theory)
+	* [Music Theroy YT](/Art/Youtuber/Music%20Theroy%20YT)
 * Music Theory
 	* [Bass Line](/Art/Music/Music%20Theory/Bass%20Line)
 	* [Chord Notation](/Art/Music/Music%20Theory/Chord%20Notation)
@@ -107,9 +110,6 @@
 * Wen吉他誌
 	* [Diatonic](/Art/Music/Music%20Theory/Diatonic)
 	* [Perform  YT](/Art/Youtuber/Perform%20%20YT)
-* Adam Neely
-	* [Music Theory](/Art/Music/Music%20Theory/Music%20Theory)
-	* [Music Theroy YT](/Art/Youtuber/Music%20Theroy%20YT)
 * Lunamos
 	* [ACGN YT](/Art/Youtuber/ACGN%20YT)
 * dogsama
