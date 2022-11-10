@@ -15,7 +15,6 @@
 	* [Game Designer](/ACGN/Game/Game%20Designer)
 	* [Game Designing](/ACGN/Game/Game%20Designing)
 	* [Rouguelike](/ACGN/Game/Rouguelike)
-	* [Galgame](/ACGN/Game/AVG/Galgame/Galgame)
 	* [GalgameMaker](/ACGN/Game/AVG/Galgame/GalgameMaker)
 	* [ELONA](/ACGN/Game/Rouguelike/ELONA)
 	* [Anthropotomy](/Art/Drawing/Anthropotomy)
@@ -86,10 +85,9 @@
 	* [Game Designer](/ACGN/Game/Game%20Designer)
 	* [Game Designing](/ACGN/Game/Game%20Designing)
 	* [ACGN YT](/Art/Youtuber/ACGN%20YT)
-* AVG
-	* [Galgame](/ACGN/Game/AVG/Galgame/Galgame)
-	* [GalgameMaker](/ACGN/Game/AVG/Galgame/GalgameMaker)
 * Galgame
+	* [GalgameMaker](/ACGN/Game/AVG/Galgame/GalgameMaker)
+* AVG
 	* [GalgameMaker](/ACGN/Game/AVG/Galgame/GalgameMaker)
 * Rouguelike
 	* [ELONA](/ACGN/Game/Rouguelike/ELONA)
