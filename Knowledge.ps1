@@ -1,6 +1,6 @@
 rmdir -R Knowledge -force
 
-Copy-Item -Path (Get-Item -Path "../Knowledge/" -Exclude ('git/*', 'vs/*', 'obsidian*')).FullName -Destination ./ -Recurse -Force
+Copy-Item -Path (Get-Item -Path "../Knowledge/" -Exclude ('git/*', 'vs/*', 'obsidian*')).FullName -Destination ./Knowledge -Recurse -Force
 
 cp -r  ./
 cp ./Converter/createTagMD.py .\Knowledge\
