@@ -1,8 +1,8 @@
 # 
 
-[Composition](./Composition/)  
-[Drawing](./Drawing/)  
-[General](./General/)  
-[Programming](./Programming/)  
 [README](./README/)  
 [Tags](./Tags/)  
+[作曲](./作曲/)  
+[程式](./程式/)  
+[繪圖](./繪圖/)  
+[通用](./通用/)  

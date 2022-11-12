@@ -1,4 +1,4 @@
-# General
+# 通用
 
 [HW XX課 YY-MM-DD](./HW XX課 YY-MM-DD/)  
 [講義 示範用講義](./講義 示範用講義/)  
