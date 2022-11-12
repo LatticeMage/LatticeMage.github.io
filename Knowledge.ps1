@@ -1,14 +1,13 @@
 rmdir -R Knowledge -force
-cp -r ../Knowledge/ ./
+
+Copy-Item -Path (Get-Item -Path "../Knowledge/" -Exclude ('git/*', 'vs/*', 'obsidian*')).FullName -Destination ./ -Recurse -Force
+
+cp -r  ./
 cp ./Converter/createTagMD.py .\Knowledge\
 cp ./Converter/moveRenameFile.py .\Knowledge\
 cp ./Converter/checkSubfolder.py .\Knowledge\
 cp ./Converter/run.bat .\Knowledge\
 cd ./Knowledge
-
-rmdir .git -force
-rmdir .vs -force
-rmdir .obsidian -force
 
 ./run.bat
 
