@@ -20,6 +20,16 @@
   * [youtubers](https://wiki.posetmage.com/Knowledge/Art/Youtuber/Art%20YT/)
   * [整理抖抖村](https://wiki.posetmage.com/Knowledge/Art/Drawing/%E6%8A%96%E6%8A%96%E6%9D%91/)
 
+##### tags: `_講義 繪畫`
+
+## 推薦課本
+https://www.eslite.com/product/1001116542609124
+
+
+線條
+https://www.youtube.com/watch?v=455OAQbNaBM
+
+
 ## 可能內容
 * 透視?
 * 速寫?

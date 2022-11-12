@@ -95,11 +95,14 @@ print("max is " + str(aaa))
 ## 筆記
 設定值為尋找最小時,設定範圍中最大(最大值+1),反之則相反(最小值-1)
 (range(10,30),5),10至30中抽區5組隨機數
+```
 AAA<Z  
 AAA=Z
-Z大於AAA,則下次回圈AAA=Z,以此類推.
+Z大於AAA,則下次回圈AAA = Z 以此類推
+```
 
 ## 取值 []
+
 ```
 import random
 
@@ -110,6 +113,7 @@ randomlist = random.sample(range(10, 30), 15)
 for z in range(15):
 	print(randomlist[z])
 ```
+
 ## 
 for z in range(15)
       print(randomlist[z])
