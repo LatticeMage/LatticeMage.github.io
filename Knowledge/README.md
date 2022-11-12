@@ -1,8 +1,5 @@
 # 
 
-[.git](./.git/)  
-[.obsidian](./.obsidian/)  
-[.vs](./.vs/)  
 [ACGN](./ACGN/)  
 [Art](./Art/)  
 [Language](./Language/)  
