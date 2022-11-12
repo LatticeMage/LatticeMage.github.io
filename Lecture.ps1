@@ -1,4 +1,4 @@
-rmdir -R Knowledge -force
+rmdir -R Lecture -force
 
 New-Item -ItemType Directory -Force -Path ./Knowledge # directory must exist
 Copy-Item ../Lecture/* ./Lecture -Exclude @(".git",".vs",".obsidian") -Recurse
