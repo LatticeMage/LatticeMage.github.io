@@ -1,3 +1,0 @@
-# AVG
-
-[Galgame](./Galgame/)  
