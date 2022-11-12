@@ -3,7 +3,7 @@ rmdir -R Lecture -force
 New-Item -ItemType Directory -Force -Path ./Knowledge # directory must exist
 Copy-Item ../Lecture/* ./Lecture -Exclude @(".git",".vs",".obsidian") -Recurse
 
-cp ./Converter/* .\Lecture\
+cp ./Converter/* ./Lecture/
 cd ./Lecture
 
 ./run.bat
