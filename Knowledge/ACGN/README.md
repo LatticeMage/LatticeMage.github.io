@@ -4,3 +4,4 @@
 [Comic](./Comic/)  
 [Game](./Game/)  
 [Novel](./Novel/)  
+[Game](./Game/)

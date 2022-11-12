@@ -1,16 +1,10 @@
-* ACGN
-	* [Anime](/ACGN/Anime)
-	* [Comic](/ACGN/Comic)
-	* [Game](/ACGN/Game)
-	* [Novel](/ACGN/Novel)
-	* [Game Designer](/ACGN/Game/Game%20Designer)
-	* [Game Designing](/ACGN/Game/Game%20Designing)
-	* [ACGN YT](/Art/Youtuber/ACGN%20YT)
+* Game
+	* [Game Classification](/ACGN/Game/Game%20Classification)
+	* [Rouguelike](/ACGN/Game/Rouguelike)
+	* [Arcanum](/Language/English/Vocabulary/Arcanum)
+	* [DungeonsAndDesktops](/Language/English/Vocabulary/DungeonsAndDesktops)
+	* [サノバウィッチ](/Language/Japanese/Vocabulary/サノバウィッチ)
 * 
-	* [Anime](/ACGN/Anime)
-	* [Comic](/ACGN/Comic)
-	* [Game](/ACGN/Game)
-	* [Novel](/ACGN/Novel)
 	* [Game Classification](/ACGN/Game/Game%20Classification)
 	* [Game Designer](/ACGN/Game/Game%20Designer)
 	* [Game Designing](/ACGN/Game/Game%20Designing)
@@ -24,6 +18,7 @@
 	* [CSPHotKey](/Art/Drawing/CSPHotKey)
 	* [Perspective](/Art/Drawing/Perspective)
 	* [抖抖村](/Art/Drawing/抖抖村)
+	* [Music Theory](/Art/Music/Music%20Theory)
 	* [Bass Line](/Art/Music/Music%20Theory/Bass%20Line)
 	* [Chord Notation](/Art/Music/Music%20Theory/Chord%20Notation)
 	* [Circle of fifths](/Art/Music/Music%20Theory/Circle%20of%20fifths)
@@ -65,12 +60,10 @@
 	* [Strength Training YT](/Art/Youtuber/Strength%20Training%20YT)
 	* [Strength Training YT](/Art/Youtuber/Strength%20Training%20YT)
 	* [Strength Training](/Science/Biology/Strength%20Training)
-* Game
-	* [Game Classification](/ACGN/Game/Game%20Classification)
-	* [Rouguelike](/ACGN/Game/Rouguelike)
-	* [Arcanum](/Language/English/Vocabulary/Arcanum)
-	* [DungeonsAndDesktops](/Language/English/Vocabulary/DungeonsAndDesktops)
-	* [サノバウィッチ](/Language/Japanese/Vocabulary/サノバウィッチ)
+* ACGN
+	* [Game Designer](/ACGN/Game/Game%20Designer)
+	* [Game Designing](/ACGN/Game/Game%20Designing)
+	* [ACGN YT](/Art/Youtuber/ACGN%20YT)
 * 綺麗 Game Thinkers
 	* [Game Designer](/ACGN/Game/Game%20Designer)
 	* [ACGN YT](/Art/Youtuber/ACGN%20YT)

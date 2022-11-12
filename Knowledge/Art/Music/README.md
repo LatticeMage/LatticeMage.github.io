@@ -1,3 +1,6 @@
 # Music
 
-[Music Theory](./Music%20Theory/)
+[Drum](./Drum/)
+[Instrument](./Instrument/)
+[Music Theory](./Music Theory/)
+[Websites](./Websites/)
