@@ -15,7 +15,7 @@ def check_subfolder(directory):
             with open(readmePath, "a",encoding="utf-8") as f:
                 for dir in directories:
                     f.write("\n")
-                    f.write("["+dir+"](./"+dir+"/)")
+                    f.write("["+dir+"](./"+dir+"/)  ")
         else:
             header = root.split(os.path.dirname(root))[1][1:]
             with open(readmePath, "w",encoding="utf-8") as f:
@@ -24,5 +24,6 @@ def check_subfolder(directory):
                 for dir in directories:
                     f.write("\n")
                     f.write("["+dir+"](./"+dir+"/)  ")
+
 if __name__ == '__main__':
     check_subfolder("./")
