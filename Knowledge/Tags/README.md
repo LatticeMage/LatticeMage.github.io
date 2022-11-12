@@ -68,6 +68,12 @@
 	* [Investing](/Science/Economy/Investing)
 	* [Investing2](/Science/Economy/Investing2)
 	* [Self-management](/Science/Economy/Self-management)
+	* [UBI](/Science/Economy/UBI)
+	* [Brain](/Science/Evolution/Brain)
+	* [Epigenetics](/Science/Evolution/Epigenetics)
+	* [Evolution](/Science/Evolution/Evolution)
+	* [Sleeping](/Science/Evolution/Sleeping)
+	* [WhyStudyHistory](/Science/Philosophy/WhyStudyHistory)
 * ACGN
 	* [Game Designer](/ACGN/Game/Game%20Designer)
 	* [Game Designing](/ACGN/Game/Game%20Designing)
