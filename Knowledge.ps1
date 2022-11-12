@@ -13,5 +13,5 @@ rmdir .obsidian -force
 ./run.bat
 
 cd ..
-cp ./Knowledge.md ./Knowledge/README.md
+
 
