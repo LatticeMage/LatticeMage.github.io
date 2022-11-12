@@ -8,4 +8,4 @@
 
 此站為PosetMage的wiki分站，如果想要回到主站，請至 [posetmage.com](https://posetmage.com)
 
-[About PosetMage](http://www.posetmage.com/Resume/)
+[About PosetMage](http://www.posetmage.com/resume/)
