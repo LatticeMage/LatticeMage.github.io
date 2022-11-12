@@ -1,4 +1,4 @@
 # Vocabulary
 
-[Arcanum](./Arcanum/)
-[DungeonsAndDesktops](./DungeonsAndDesktops/)
+[Arcanum](./Arcanum/)  
+[DungeonsAndDesktops](./DungeonsAndDesktops/)  

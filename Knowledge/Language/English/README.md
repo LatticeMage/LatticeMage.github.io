@@ -1,3 +1,3 @@
 # English
 
-[Vocabulary](./Vocabulary/)
+[Vocabulary](./Vocabulary/)  

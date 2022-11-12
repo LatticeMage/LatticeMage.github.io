@@ -1,4 +1,4 @@
 # Language
 
-[English](./English/)
-[Japanese](./Japanese/)
+[English](./English/)  
+[Japanese](./Japanese/)  

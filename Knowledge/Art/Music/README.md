@@ -1,6 +1,6 @@
 # Music
 
-[Drum](./Drum/)
-[Instrument](./Instrument/)
-[Music Theory](./Music Theory/)
-[Websites](./Websites/)
+[Drum](./Drum/)  
+[Instrument](./Instrument/)  
+[Music Theory](./Music Theory/)  
+[Websites](./Websites/)  

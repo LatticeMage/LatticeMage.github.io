@@ -23,6 +23,6 @@ def check_subfolder(directory):
                 f.write("\n")
                 for dir in directories:
                     f.write("\n")
-                    f.write("["+dir+"](./"+dir+"/)")
+                    f.write("["+dir+"](./"+dir+"/)  ")
 if __name__ == '__main__':
     check_subfolder("./")

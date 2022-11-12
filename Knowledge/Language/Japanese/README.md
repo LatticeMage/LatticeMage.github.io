@@ -1,3 +1,3 @@
 # Japanese
 
-[Vocabulary](./Vocabulary/)
+[Vocabulary](./Vocabulary/)  

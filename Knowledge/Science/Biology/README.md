@@ -1,3 +1,3 @@
 # Biology
 
-[Strength Training](./Strength Training/)
+[Strength Training](./Strength Training/)  
