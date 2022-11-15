@@ -51,6 +51,6 @@ if __name__ == '__main__':
                 path = path[1:-3].replace(" ", "%20")
                 path = path.replace("\\", "/")
                 title = "["+matchObj.group(2)+"]"
-                url = "\t* "+title+"("+path+")\n" 
+                url = "\t* "+title+"(" + "Knowledge/" +path+")\n" 
                 
                 f.write(url)
