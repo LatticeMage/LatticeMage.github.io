@@ -10,6 +10,11 @@
 	* [Game Designing](/Knowledge/ACGN/Game/Game%20Designing)
 	* [Rouguelike](/Knowledge/ACGN/Game/Rouguelike)
 	* [GalgameMaker](/Knowledge/ACGN/Game/AVG/Galgame/GalgameMaker)
+	* [Game Balancing](/Knowledge/ACGN/Game/Designer/Game%20Balancing)
+	* [Game Writer](/Knowledge/ACGN/Game/Designer/Game%20Writer)
+	* [Level Design](/Knowledge/ACGN/Game/Designer/Level%20Design)
+	* [Operator](/Knowledge/ACGN/Game/Designer/Operator)
+	* [System Designer](/Knowledge/ACGN/Game/Designer/System%20Designer)
 	* [Cult of the Lamb](/Knowledge/ACGN/Game/Rouguelike/Cult%20of%20the%20Lamb)
 	* [ELONA](/Knowledge/ACGN/Game/Rouguelike/ELONA)
 	* [ルナティックドーン](/Knowledge/ACGN/Game/Rouguelike/ルナティックドーン)
@@ -105,6 +110,12 @@
 	* [GalgameMaker](/Knowledge/ACGN/Game/AVG/Galgame/GalgameMaker)
 * AVG
 	* [GalgameMaker](/Knowledge/ACGN/Game/AVG/Galgame/GalgameMaker)
+* Game Designer
+	* [Game Balancing](/Knowledge/ACGN/Game/Designer/Game%20Balancing)
+	* [Game Writer](/Knowledge/ACGN/Game/Designer/Game%20Writer)
+	* [Level Design](/Knowledge/ACGN/Game/Designer/Level%20Design)
+	* [Operator](/Knowledge/ACGN/Game/Designer/Operator)
+	* [System Designer](/Knowledge/ACGN/Game/Designer/System%20Designer)
 * Rouguelike
 	* [Cult of the Lamb](/Knowledge/ACGN/Game/Rouguelike/Cult%20of%20the%20Lamb)
 	* [ELONA](/Knowledge/ACGN/Game/Rouguelike/ELONA)
