@@ -407,6 +407,7 @@
 	* [Strength Training](/Knowledge/Science/Biology/Strength%20Training)
 * SBD Taiwan 邱個
 	* [Strength Training YT](/Knowledge/Art/Youtuber/Strength%20Training%20YT)
+	* [Strength Training](/Knowledge/Science/Biology/Strength%20Training)
 	* [Investing2](/Knowledge/Science/Economy/Investing2)
 	* [Growing](/Knowledge/Science/Psychology/Growing)
 * 健人蓋伊
@@ -430,6 +431,8 @@
 * Physics
 	* [Strength Training](/Knowledge/Science/Biology/Strength%20Training)
 	* [ColorSpace](/Knowledge/Science/Physics/ColorSpace)
+* 營養師Ricky's Time
+	* [Strength Training](/Knowledge/Science/Biology/Strength%20Training)
 * 陳寗 NingSelect
 	* [Business Model](/Knowledge/Science/Economy/Business%20Model)
 	* [Investing](/Knowledge/Science/Economy/Investing)
