@@ -88,6 +88,7 @@
 	* [Evolution](/Knowledge/Science/Evolution/Evolution)
 	* [Sleeping](/Knowledge/Science/Evolution/Sleeping)
 	* [WhyStudyHistory](/Knowledge/Science/Philosophy/WhyStudyHistory)
+	* [Sport Psychology](/Knowledge/Science/Psychology/Sport%20Psychology)
 * ACGN
 	* [Game Designer](/Knowledge/ACGN/Game/Game%20Designer)
 	* [Game Designing](/Knowledge/ACGN/Game/Game%20Designing)
@@ -357,6 +358,7 @@
 	* [DID](/Knowledge/Science/Psychology/DID)
 	* [Emotional Blackmail](/Knowledge/Science/Psychology/Emotional%20Blackmail)
 	* [Growing](/Knowledge/Science/Psychology/Growing)
+	* [Sport Psychology](/Knowledge/Science/Psychology/Sport%20Psychology)
 * 維思維WeisWay
 	* [Psychology YT](/Knowledge/Art/Youtuber/Psychology%20YT)
 	* [DID](/Knowledge/Science/Psychology/DID)
@@ -432,6 +434,8 @@
 	* [Strength Training](/Knowledge/Science/Biology/Strength%20Training)
 	* [ColorSpace](/Knowledge/Science/Physics/ColorSpace)
 * 營養師Ricky's Time
+	* [Strength Training](/Knowledge/Science/Biology/Strength%20Training)
+* Sport Psychology
 	* [Strength Training](/Knowledge/Science/Biology/Strength%20Training)
 * 陳寗 NingSelect
 	* [Business Model](/Knowledge/Science/Economy/Business%20Model)
