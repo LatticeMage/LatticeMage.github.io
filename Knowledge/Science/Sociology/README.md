@@ -1,3 +1,0 @@
-# Sociology
-
-[Interview](./Interview/)  

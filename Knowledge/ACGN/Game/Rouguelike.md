@@ -1,0 +1,8 @@
+# Rouguelike
+
+---
+tags:
+  - [[Game]]
+  - [[]]
+---
+
