@@ -43,7 +43,7 @@ if __name__ == '__main__':
         pass
     with open("./Tags/README.md", "w",encoding="utf-8") as f:
         if '' in tags:
-            tags.remove('')
+            tags.pop('')
         else:
             pass
 
