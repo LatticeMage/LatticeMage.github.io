@@ -114,7 +114,7 @@
 	* [Diatonic](/Knowledge/Art/Music/Music%20Theory/Diatonic)
 * Wen吉他誌
 	* [Diatonic](/Knowledge/Art/Music/Music%20Theory/Diatonic)
-	* [Perform  YT](/Knowledge/Art/Youtuber/Perform%20%20YT)
+	* [Music Theroy YT](/Knowledge/Art/Youtuber/Music%20Theroy%20YT)
 * Lunamos
 	* [ACGN YT](/Knowledge/Art/Youtuber/ACGN%20YT)
 * dogsama
@@ -226,6 +226,15 @@
 	* [History YT](/Knowledge/Art/Youtuber/History%20YT)
 * Music Theroy
 	* [Music Theroy YT](/Knowledge/Art/Youtuber/Music%20Theroy%20YT)
+* 笑哈哈LOL
+	* [Music Theroy YT](/Knowledge/Art/Youtuber/Music%20Theroy%20YT)
+	* [Growing](/Knowledge/Science/Psychology/Growing)
+* 檸檬卷 Janet
+	* [Music Theroy YT](/Knowledge/Art/Youtuber/Music%20Theroy%20YT)
+	* [Growing](/Knowledge/Science/Psychology/Growing)
+* 成田工作室
+	* [Music Theroy YT](/Knowledge/Art/Youtuber/Music%20Theroy%20YT)
+	* [Growing](/Knowledge/Science/Psychology/Growing)
 * 理科生讲音乐
 	* [Music Theroy YT](/Knowledge/Art/Youtuber/Music%20Theroy%20YT)
 * Jacob Collier
@@ -239,21 +248,50 @@
 	* [Perform  YT](/Knowledge/Art/Youtuber/Perform%20%20YT)
 * Metal
 	* [Perform  YT](/Knowledge/Art/Youtuber/Perform%20%20YT)
-* 成田工作室
+* Yuki Matsui / 松井祐貴
 	* [Perform  YT](/Knowledge/Art/Youtuber/Perform%20%20YT)
-	* [Growing](/Knowledge/Science/Psychology/Growing)
-* Bai Tone白懂
+* Seiji Igusa
+	* [Perform  YT](/Knowledge/Art/Youtuber/Perform%20%20YT)
+* Satoshi Gogo
+	* [Perform  YT](/Knowledge/Art/Youtuber/Perform%20%20YT)
+* petterisariola
+	* [Perform  YT](/Knowledge/Art/Youtuber/Perform%20%20YT)
+* Jon Gomm
+	* [Perform  YT](/Knowledge/Art/Youtuber/Perform%20%20YT)
+* Tommy Emmanuel
+	* [Perform  YT](/Knowledge/Art/Youtuber/Perform%20%20YT)
+* 押尾コータロー
+	* [Perform  YT](/Knowledge/Art/Youtuber/Perform%20%20YT)
+* Masaaki Kishibe Guitar Channel
+	* [Perform  YT](/Knowledge/Art/Youtuber/Perform%20%20YT)
+* mikedawesofficial
+	* [Perform  YT](/Knowledge/Art/Youtuber/Perform%20%20YT)
+* Tobias Rauscher
+	* [Perform  YT](/Knowledge/Art/Youtuber/Perform%20%20YT)
+* Pierre Bensusan
+	* [Perform  YT](/Knowledge/Art/Youtuber/Perform%20%20YT)
+* Sungha Jung
+	* [Perform  YT](/Knowledge/Art/Youtuber/Perform%20%20YT)
+* Don Ross
+	* [Perform  YT](/Knowledge/Art/Youtuber/Perform%20%20YT)
+* Andy McKee
+	* [Perform  YT](/Knowledge/Art/Youtuber/Perform%20%20YT)
+* Chen Henry
+	* [Perform  YT](/Knowledge/Art/Youtuber/Perform%20%20YT)
+* Daniel Padim
+	* [Perform  YT](/Knowledge/Art/Youtuber/Perform%20%20YT)
+* Justin King
+	* [Perform  YT](/Knowledge/Art/Youtuber/Perform%20%20YT)
+* Luca Stricagnoli
+	* [Perform  YT](/Knowledge/Art/Youtuber/Perform%20%20YT)
+* Elena Yerevan
+	* [Perform  YT](/Knowledge/Art/Youtuber/Perform%20%20YT)
+* DEPAPEPE Official YouTube Channel
 	* [Perform  YT](/Knowledge/Art/Youtuber/Perform%20%20YT)
 * 董舜文的頻道
 	* [Perform  YT](/Knowledge/Art/Youtuber/Perform%20%20YT)
 * Animenz Piano Sheets
 	* [Perform  YT](/Knowledge/Art/Youtuber/Perform%20%20YT)
-* 笑哈哈LOL
-	* [Perform  YT](/Knowledge/Art/Youtuber/Perform%20%20YT)
-	* [Growing](/Knowledge/Science/Psychology/Growing)
-* 檸檬卷 Janet
-	* [Perform  YT](/Knowledge/Art/Youtuber/Perform%20%20YT)
-	* [Growing](/Knowledge/Science/Psychology/Growing)
 * Sumerian Records
 	* [Perform  YT](/Knowledge/Art/Youtuber/Perform%20%20YT)
 * Jared Dines
