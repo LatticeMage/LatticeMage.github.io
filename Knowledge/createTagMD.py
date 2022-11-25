@@ -44,9 +44,9 @@ if __name__ == '__main__':
     with open("./Tags/README.md", "w",encoding="utf-8") as f:
         if '' in tags:
             tags.remove('')
-        else
+        else:
             pass
-            
+
         for tag in tags:
             f.write("* "+tag+"\n")
             for path in tags[tag]:
