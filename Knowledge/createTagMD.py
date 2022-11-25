@@ -42,7 +42,7 @@ if __name__ == '__main__':
     except:
         pass
     with open("./Tags/README.md", "w",encoding="utf-8") as f:
-        tags.pop("")
+        tags.pop('')
         for tag in tags:
             f.write("* "+tag+"\n")
             for path in tags[tag]:
