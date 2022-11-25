@@ -1,9 +1,8 @@
-# Lecture
+# 
 
-git clone git@AAL:QuantumNecro/Lecture.git
-
-## License
-This work is dual-licensed under CC-BY-SA-4.0 and MIT.
-You need to use both them if you use this work.
-
-`SPDX-License-Identifier: CC-BY-SA-4.0 AND MIT`
+[README](./README/)  
+[Tags](./Tags/)  
+[作曲](./作曲/)  
+[程式](./程式/)  
+[繪圖](./繪圖/)  
+[通用](./通用/)  
