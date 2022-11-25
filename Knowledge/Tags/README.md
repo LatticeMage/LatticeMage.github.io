@@ -49,10 +49,10 @@
 	* [Chroma](/Knowledge/Art/Drawing/Chroma)
 	* [Copy](/Knowledge/Art/Drawing/Copy)
 	* [Croquis](/Knowledge/Art/Drawing/Croquis)
-	* [CSPHotKey](/Knowledge/Art/Drawing/CSPHotKey)
 	* [Perspective](/Knowledge/Art/Drawing/Perspective)
 	* [抖抖村](/Knowledge/Art/Drawing/抖抖村)
 	* [繪師](/Knowledge/Art/Drawing/繪師)
+	* [CSPHotKey](/Knowledge/Science/Technology/CSPHotKey)
 * Krenz's Artwork
 	* [Anthropotomy](/Knowledge/Art/Drawing/Anthropotomy)
 	* [Chroma](/Knowledge/Art/Drawing/Chroma)
@@ -85,6 +85,68 @@
 * Adam Neely
 	* [Music Theory](/Knowledge/Art/Music/Music%20Theory)
 	* [Music Theroy YT](/Knowledge/Art/Youtuber/Music%20Theroy%20YT)
+* Perform
+	* [Musician](/Knowledge/Art/Music/Musician)
+* Instrument
+	* [Musician](/Knowledge/Art/Music/Musician)
+* Metal
+	* [Musician](/Knowledge/Art/Music/Musician)
+* Yuki Matsui / 松井祐貴
+	* [Musician](/Knowledge/Art/Music/Musician)
+* Seiji Igusa
+	* [Musician](/Knowledge/Art/Music/Musician)
+* Satoshi Gogo
+	* [Musician](/Knowledge/Art/Music/Musician)
+* petterisariola
+	* [Musician](/Knowledge/Art/Music/Musician)
+* Jon Gomm
+	* [Musician](/Knowledge/Art/Music/Musician)
+* Tommy Emmanuel
+	* [Musician](/Knowledge/Art/Music/Musician)
+* 押尾コータロー
+	* [Musician](/Knowledge/Art/Music/Musician)
+* Masaaki Kishibe Guitar Channel
+	* [Musician](/Knowledge/Art/Music/Musician)
+* mikedawesofficial
+	* [Musician](/Knowledge/Art/Music/Musician)
+* Tobias Rauscher
+	* [Musician](/Knowledge/Art/Music/Musician)
+* Pierre Bensusan
+	* [Musician](/Knowledge/Art/Music/Musician)
+* Sungha Jung
+	* [Musician](/Knowledge/Art/Music/Musician)
+* Don Ross
+	* [Musician](/Knowledge/Art/Music/Musician)
+* Andy McKee
+	* [Musician](/Knowledge/Art/Music/Musician)
+* Chen Henry
+	* [Musician](/Knowledge/Art/Music/Musician)
+* Daniel Padim
+	* [Musician](/Knowledge/Art/Music/Musician)
+* Justin King
+	* [Musician](/Knowledge/Art/Music/Musician)
+* Luca Stricagnoli
+	* [Musician](/Knowledge/Art/Music/Musician)
+* Elena Yerevan
+	* [Musician](/Knowledge/Art/Music/Musician)
+* DEPAPEPE Official YouTube Channel
+	* [Musician](/Knowledge/Art/Music/Musician)
+* 董舜文的頻道
+	* [Musician](/Knowledge/Art/Music/Musician)
+* Animenz Piano Sheets
+	* [Musician](/Knowledge/Art/Music/Musician)
+* Sumerian Records
+	* [Musician](/Knowledge/Art/Music/Musician)
+* Jared Dines
+	* [Musician](/Knowledge/Art/Music/Musician)
+* Steve Terreberry
+	* [Musician](/Knowledge/Art/Music/Musician)
+* I Built The Sky
+	* [Musician](/Knowledge/Art/Music/Musician)
+* Andromida Official
+	* [Musician](/Knowledge/Art/Music/Musician)
+* DISMENTOPIA Taiwan
+	* [Musician](/Knowledge/Art/Music/Musician)
 * Music Theory
 	* [Bass Line](/Knowledge/Art/Music/Music%20Theory/Bass%20Line)
 	* [Chord Notation](/Knowledge/Art/Music/Music%20Theory/Chord%20Notation)
@@ -174,6 +236,7 @@
 	* [Game Theory](/Knowledge/Science/Economy/Game%20Theory)
 	* [Investing](/Knowledge/Science/Economy/Investing)
 	* [Investing2](/Knowledge/Science/Economy/Investing2)
+	* [Multiple Careers](/Knowledge/Science/Economy/Multiple%20Careers)
 	* [Self-management](/Knowledge/Science/Economy/Self-management)
 	* [UBI](/Knowledge/Science/Economy/UBI)
 * 老王看世界
@@ -242,68 +305,6 @@
 * Rick Beato
 	* [Music Theroy YT](/Knowledge/Art/Youtuber/Music%20Theroy%20YT)
 	* [Growing](/Knowledge/Science/Psychology/Growing)
-* Perform
-	* [Perform  YT](/Knowledge/Art/Youtuber/Perform%20%20YT)
-* Instrument
-	* [Perform  YT](/Knowledge/Art/Youtuber/Perform%20%20YT)
-* Metal
-	* [Perform  YT](/Knowledge/Art/Youtuber/Perform%20%20YT)
-* Yuki Matsui / 松井祐貴
-	* [Perform  YT](/Knowledge/Art/Youtuber/Perform%20%20YT)
-* Seiji Igusa
-	* [Perform  YT](/Knowledge/Art/Youtuber/Perform%20%20YT)
-* Satoshi Gogo
-	* [Perform  YT](/Knowledge/Art/Youtuber/Perform%20%20YT)
-* petterisariola
-	* [Perform  YT](/Knowledge/Art/Youtuber/Perform%20%20YT)
-* Jon Gomm
-	* [Perform  YT](/Knowledge/Art/Youtuber/Perform%20%20YT)
-* Tommy Emmanuel
-	* [Perform  YT](/Knowledge/Art/Youtuber/Perform%20%20YT)
-* 押尾コータロー
-	* [Perform  YT](/Knowledge/Art/Youtuber/Perform%20%20YT)
-* Masaaki Kishibe Guitar Channel
-	* [Perform  YT](/Knowledge/Art/Youtuber/Perform%20%20YT)
-* mikedawesofficial
-	* [Perform  YT](/Knowledge/Art/Youtuber/Perform%20%20YT)
-* Tobias Rauscher
-	* [Perform  YT](/Knowledge/Art/Youtuber/Perform%20%20YT)
-* Pierre Bensusan
-	* [Perform  YT](/Knowledge/Art/Youtuber/Perform%20%20YT)
-* Sungha Jung
-	* [Perform  YT](/Knowledge/Art/Youtuber/Perform%20%20YT)
-* Don Ross
-	* [Perform  YT](/Knowledge/Art/Youtuber/Perform%20%20YT)
-* Andy McKee
-	* [Perform  YT](/Knowledge/Art/Youtuber/Perform%20%20YT)
-* Chen Henry
-	* [Perform  YT](/Knowledge/Art/Youtuber/Perform%20%20YT)
-* Daniel Padim
-	* [Perform  YT](/Knowledge/Art/Youtuber/Perform%20%20YT)
-* Justin King
-	* [Perform  YT](/Knowledge/Art/Youtuber/Perform%20%20YT)
-* Luca Stricagnoli
-	* [Perform  YT](/Knowledge/Art/Youtuber/Perform%20%20YT)
-* Elena Yerevan
-	* [Perform  YT](/Knowledge/Art/Youtuber/Perform%20%20YT)
-* DEPAPEPE Official YouTube Channel
-	* [Perform  YT](/Knowledge/Art/Youtuber/Perform%20%20YT)
-* 董舜文的頻道
-	* [Perform  YT](/Knowledge/Art/Youtuber/Perform%20%20YT)
-* Animenz Piano Sheets
-	* [Perform  YT](/Knowledge/Art/Youtuber/Perform%20%20YT)
-* Sumerian Records
-	* [Perform  YT](/Knowledge/Art/Youtuber/Perform%20%20YT)
-* Jared Dines
-	* [Perform  YT](/Knowledge/Art/Youtuber/Perform%20%20YT)
-* Steve Terreberry
-	* [Perform  YT](/Knowledge/Art/Youtuber/Perform%20%20YT)
-* I Built The Sky
-	* [Perform  YT](/Knowledge/Art/Youtuber/Perform%20%20YT)
-* Andromida Official
-	* [Perform  YT](/Knowledge/Art/Youtuber/Perform%20%20YT)
-* DISMENTOPIA Taiwan
-	* [Perform  YT](/Knowledge/Art/Youtuber/Perform%20%20YT)
 * Psychology
 	* [Psychology YT](/Knowledge/Art/Youtuber/Psychology%20YT)
 	* [Investing2](/Knowledge/Science/Economy/Investing2)
@@ -416,6 +417,12 @@
 	* [Productivity Tools](/Knowledge/Science/Technology/Productivity%20Tools)
 * 在地上滾的工程師 Nic
 	* [Investing2](/Knowledge/Science/Economy/Investing2)
+* Yale Chen (陳頁真)
+	* [Multiple Careers](/Knowledge/Science/Economy/Multiple%20Careers)
+* Ms.Selena
+	* [Multiple Careers](/Knowledge/Science/Economy/Multiple%20Careers)
+* 90後創業家掃地僧
+	* [Multiple Careers](/Knowledge/Science/Economy/Multiple%20Careers)
 * 講日文的台灣女生 Tiffany
 	* [Self-management](/Knowledge/Science/Economy/Self-management)
 * Shawna 手写的小日常
@@ -447,6 +454,10 @@
 * 啾啾鞋
 	* [Growing](/Knowledge/Science/Psychology/Growing)
 * Technology
+	* [CSPHotKey](/Knowledge/Science/Technology/CSPHotKey)
+	* [eBook](/Knowledge/Science/Technology/eBook)
 	* [Productivity Tools](/Knowledge/Science/Technology/Productivity%20Tools)
+* DRM
+	* [eBook](/Knowledge/Science/Technology/eBook)
 * 科技旅人毛巾Vincent
 	* [Productivity Tools](/Knowledge/Science/Technology/Productivity%20Tools)
