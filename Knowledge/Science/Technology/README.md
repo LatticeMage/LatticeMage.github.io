@@ -2,5 +2,5 @@
 
 [CSPHotKey](./CSPHotKey/)  
 [eBook](./eBook/)  
-[MusicTrainingApps](./MusicTrainingApps/)  
+[Music Training Apps](./Music Training Apps/)  
 [Productivity Tools](./Productivity Tools/)  

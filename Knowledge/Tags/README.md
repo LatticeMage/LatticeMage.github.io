@@ -82,7 +82,7 @@
 * Music
 	* [Instrument](/Knowledge/Art/Music/Instrument)
 	* [Music Theory](/Knowledge/Art/Music/Music%20Theory)
-	* [MusicTrainingApps](/Knowledge/Science/Technology/MusicTrainingApps)
+	* [Music Training Apps](/Knowledge/Science/Technology/Music%20Training%20Apps)
 * Adam Neely
 	* [Music Theory](/Knowledge/Art/Music/Music%20Theory)
 	* [Music Theroy YT](/Knowledge/Art/Youtuber/Music%20Theroy%20YT)
@@ -459,7 +459,7 @@
 * Technology
 	* [CSPHotKey](/Knowledge/Science/Technology/CSPHotKey)
 	* [eBook](/Knowledge/Science/Technology/eBook)
-	* [MusicTrainingApps](/Knowledge/Science/Technology/MusicTrainingApps)
+	* [Music Training Apps](/Knowledge/Science/Technology/Music%20Training%20Apps)
 	* [Productivity Tools](/Knowledge/Science/Technology/Productivity%20Tools)
 * DRM
 	* [eBook](/Knowledge/Science/Technology/eBook)
