@@ -8,5 +8,4 @@
 [Investing](./Investing/)  
 [Investing2](./Investing2/)  
 [Multiple Careers](./Multiple Careers/)  
-[Self-management](./Self-management/)  
 [UBI](./UBI/)  

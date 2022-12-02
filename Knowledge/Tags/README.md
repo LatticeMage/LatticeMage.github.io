@@ -238,8 +238,8 @@
 	* [Investing](/Knowledge/Science/Economy/Investing)
 	* [Investing2](/Knowledge/Science/Economy/Investing2)
 	* [Multiple Careers](/Knowledge/Science/Economy/Multiple%20Careers)
-	* [Self-management](/Knowledge/Science/Economy/Self-management)
 	* [UBI](/Knowledge/Science/Economy/UBI)
+	* [Self-management](/Knowledge/Science/Psychology/Self-management)
 * 老王看世界
 	* [Economy YT](/Knowledge/Art/Youtuber/Economy%20YT)
 	* [Investing](/Knowledge/Science/Economy/Investing)
@@ -278,7 +278,7 @@
 	* [Economy YT](/Knowledge/Art/Youtuber/Economy%20YT)
 	* [Business Model](/Knowledge/Science/Economy/Business%20Model)
 	* [Investing2](/Knowledge/Science/Economy/Investing2)
-	* [Self-management](/Knowledge/Science/Economy/Self-management)
+	* [Self-management](/Knowledge/Science/Psychology/Self-management)
 * History
 	* [History YT](/Knowledge/Art/Youtuber/History%20YT)
 	* [WhyStudyHistory](/Knowledge/Science/Philosophy/WhyStudyHistory)
@@ -414,7 +414,7 @@
 	* [Investing2](/Knowledge/Science/Economy/Investing2)
 * 即凉Lion
 	* [Investing2](/Knowledge/Science/Economy/Investing2)
-	* [Self-management](/Knowledge/Science/Economy/Self-management)
+	* [Self-management](/Knowledge/Science/Psychology/Self-management)
 	* [Productivity Tools](/Knowledge/Science/Technology/Productivity%20Tools)
 * 在地上滾的工程師 Nic
 	* [Investing2](/Knowledge/Science/Economy/Investing2)
@@ -426,10 +426,6 @@
 	* [Multiple Careers](/Knowledge/Science/Economy/Multiple%20Careers)
 * 【官方】Iku老師的房間
 	* [Multiple Careers](/Knowledge/Science/Economy/Multiple%20Careers)
-* 講日文的台灣女生 Tiffany
-	* [Self-management](/Knowledge/Science/Economy/Self-management)
-* Shawna 手写的小日常
-	* [Self-management](/Knowledge/Science/Economy/Self-management)
 * Evolution
 	* [Brain](/Knowledge/Science/Evolution/Brain)
 	* [Epigenetics](/Knowledge/Science/Evolution/Epigenetics)
@@ -456,6 +452,10 @@
 	* [DID](/Knowledge/Science/Psychology/DID)
 * 啾啾鞋
 	* [Growing](/Knowledge/Science/Psychology/Growing)
+* 講日文的台灣女生 Tiffany
+	* [Self-management](/Knowledge/Science/Psychology/Self-management)
+* Shawna 手写的小日常
+	* [Self-management](/Knowledge/Science/Psychology/Self-management)
 * Technology
 	* [CSPHotKey](/Knowledge/Science/Technology/CSPHotKey)
 	* [eBook](/Knowledge/Science/Technology/eBook)
