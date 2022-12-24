@@ -1,3 +1,2 @@
-# ACGN
 
 [Game](./Game/)  

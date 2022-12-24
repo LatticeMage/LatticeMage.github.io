@@ -233,6 +233,7 @@
 	* [Economy YT](/Knowledge/Art/Youtuber/Economy%20YT)
 	* [Behavioral Finance](/Knowledge/Science/Economy/Behavioral%20Finance)
 	* [Business Model](/Knowledge/Science/Economy/Business%20Model)
+	* [Conpetitive Product Analysis](/Knowledge/Science/Economy/Conpetitive%20Product%20Analysis)
 	* [Financial Independence](/Knowledge/Science/Economy/Financial%20Independence)
 	* [Game Theory](/Knowledge/Science/Economy/Game%20Theory)
 	* [Investing](/Knowledge/Science/Economy/Investing)
@@ -313,6 +314,7 @@
 	* [DID](/Knowledge/Science/Psychology/DID)
 	* [Emotional Blackmail](/Knowledge/Science/Psychology/Emotional%20Blackmail)
 	* [Growing](/Knowledge/Science/Psychology/Growing)
+	* [Learning Ability](/Knowledge/Science/Psychology/Learning%20Ability)
 	* [Sport Psychology](/Knowledge/Science/Psychology/Sport%20Psychology)
 * 維思維WeisWay
 	* [Psychology YT](/Knowledge/Art/Youtuber/Psychology%20YT)
@@ -397,6 +399,9 @@
 	* [Investing](/Knowledge/Science/Economy/Investing)
 * Government
 	* [Company](/Knowledge/Science/Economy/Company)
+* AI
+	* [Conpetitive Product Analysis](/Knowledge/Science/Economy/Conpetitive%20Product%20Analysis)
+	* [HowToUseChatGPT](/Knowledge/Science/Technology/HowToUseChatGPT)
 * Mindset
 	* [Financial Independence](/Knowledge/Science/Economy/Financial%20Independence)
 	* [Investing](/Knowledge/Science/Economy/Investing)
@@ -464,7 +469,5 @@
 	* [Productivity Tools](/Knowledge/Science/Technology/Productivity%20Tools)
 * DRM
 	* [eBook](/Knowledge/Science/Technology/eBook)
-* AI
-	* [HowToUseChatGPT](/Knowledge/Science/Technology/HowToUseChatGPT)
 * 科技旅人毛巾Vincent
 	* [Productivity Tools](/Knowledge/Science/Technology/Productivity%20Tools)
