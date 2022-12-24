@@ -1,6 +1,5 @@
 # Technology
 
-[ChatGPT](./ChatGPT/)  
 [CSPHotKey](./CSPHotKey/)  
 [eBook](./eBook/)  
 [HowToUseChatGPT](./HowToUseChatGPT/)  
