@@ -384,6 +384,7 @@
 * Japanese
 	* [サノバウィッチ](/Knowledge/Language/Japanese/Vocabulary/サノバウィッチ)
 * Biology
+	* [Bimanual Coordination](/Knowledge/Science/Biology/Bimanual%20Coordination)
 	* [Strength Training](/Knowledge/Science/Biology/Strength%20Training)
 	* [Evolution](/Knowledge/Science/Evolution/Evolution)
 	* [ColorSpace](/Knowledge/Science/Physics/ColorSpace)
