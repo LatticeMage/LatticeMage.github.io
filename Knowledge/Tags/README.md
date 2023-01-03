@@ -413,6 +413,7 @@
 * Philosophy
 	* [Financial Independence](/Knowledge/Science/Economy/Financial%20Independence)
 	* [Investing2](/Knowledge/Science/Economy/Investing2)
+	* [Analytical](/Knowledge/Science/Philosophy/Analytical)
 	* [Overfitting](/Knowledge/Science/Philosophy/Overfitting)
 * Better Leaf 好葉
 	* [Financial Independence](/Knowledge/Science/Economy/Financial%20Independence)
