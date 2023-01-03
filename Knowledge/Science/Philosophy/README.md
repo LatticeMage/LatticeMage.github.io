@@ -1,3 +1,3 @@
 # Philosophy
 
-[WhyStudyHistory](./WhyStudyHistory/)  
+[Overfitting](./Overfitting/)  

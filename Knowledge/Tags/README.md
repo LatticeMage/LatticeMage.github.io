@@ -214,6 +214,7 @@
 	* [Competition YT](/Knowledge/Art/Youtuber/Competition%20YT)
 * 小六SixPoker
 	* [Competition YT](/Knowledge/Art/Youtuber/Competition%20YT)
+	* [Investing 3](/Knowledge/Science/Economy/Investing%203)
 	* [Investing](/Knowledge/Science/Economy/Investing)
 * 肉泥Ronnie
 	* [Competition YT](/Knowledge/Art/Youtuber/Competition%20YT)
@@ -236,6 +237,7 @@
 	* [Conpetitive Product Analysis](/Knowledge/Science/Economy/Conpetitive%20Product%20Analysis)
 	* [Financial Independence](/Knowledge/Science/Economy/Financial%20Independence)
 	* [Game Theory](/Knowledge/Science/Economy/Game%20Theory)
+	* [Investing 3](/Knowledge/Science/Economy/Investing%203)
 	* [Investing](/Knowledge/Science/Economy/Investing)
 	* [Investing2](/Knowledge/Science/Economy/Investing2)
 	* [Multiple Careers](/Knowledge/Science/Economy/Multiple%20Careers)
@@ -253,6 +255,7 @@
 * 窮奢極欲
 	* [Economy YT](/Knowledge/Art/Youtuber/Economy%20YT)
 	* [Financial Independence](/Knowledge/Science/Economy/Financial%20Independence)
+	* [Investing 3](/Knowledge/Science/Economy/Investing%203)
 	* [Investing2](/Knowledge/Science/Economy/Investing2)
 	* [UBI](/Knowledge/Science/Economy/UBI)
 * MoneyXYZ
@@ -261,6 +264,7 @@
 * Gooaye 股癌
 	* [Economy YT](/Knowledge/Art/Youtuber/Economy%20YT)
 	* [Financial Independence](/Knowledge/Science/Economy/Financial%20Independence)
+	* [Investing 3](/Knowledge/Science/Economy/Investing%203)
 	* [Investing](/Knowledge/Science/Economy/Investing)
 * All-In Podcast
 	* [Economy YT](/Knowledge/Art/Youtuber/Economy%20YT)
@@ -282,7 +286,7 @@
 	* [Self-management](/Knowledge/Science/Psychology/Self-management)
 * History
 	* [History YT](/Knowledge/Art/Youtuber/History%20YT)
-	* [WhyStudyHistory](/Knowledge/Science/Philosophy/WhyStudyHistory)
+	* [Overfitting](/Knowledge/Science/Philosophy/Overfitting)
 * 天狗衛視
 	* [History YT](/Knowledge/Art/Youtuber/History%20YT)
 * cheap
@@ -386,7 +390,6 @@
 * Biology
 	* [Bimanual Coordination](/Knowledge/Science/Biology/Bimanual%20Coordination)
 	* [Strength Training](/Knowledge/Science/Biology/Strength%20Training)
-	* [Evolution](/Knowledge/Science/Evolution/Evolution)
 	* [ColorSpace](/Knowledge/Science/Physics/ColorSpace)
 * Physics
 	* [Strength Training](/Knowledge/Science/Biology/Strength%20Training)
@@ -410,14 +413,15 @@
 * Philosophy
 	* [Financial Independence](/Knowledge/Science/Economy/Financial%20Independence)
 	* [Investing2](/Knowledge/Science/Economy/Investing2)
-	* [WhyStudyHistory](/Knowledge/Science/Philosophy/WhyStudyHistory)
+	* [Overfitting](/Knowledge/Science/Philosophy/Overfitting)
 * Better Leaf 好葉
 	* [Financial Independence](/Knowledge/Science/Economy/Financial%20Independence)
 	* [Investing2](/Knowledge/Science/Economy/Investing2)
+* Investing
+	* [Investing 3](/Knowledge/Science/Economy/Investing%203)
+	* [Investing2](/Knowledge/Science/Economy/Investing2)
 * 好棒Bump
 	* [Investing](/Knowledge/Science/Economy/Investing)
-* Investing
-	* [Investing2](/Knowledge/Science/Economy/Investing2)
 * 即凉Lion
 	* [Investing2](/Knowledge/Science/Economy/Investing2)
 	* [Self-management](/Knowledge/Science/Psychology/Self-management)
@@ -437,9 +441,7 @@
 	* [Epigenetics](/Knowledge/Science/Evolution/Epigenetics)
 	* [Sleeping](/Knowledge/Science/Evolution/Sleeping)
 * Learned Helplessness
-	* [WhyStudyHistory](/Knowledge/Science/Philosophy/WhyStudyHistory)
-* Overfitting
-	* [WhyStudyHistory](/Knowledge/Science/Philosophy/WhyStudyHistory)
+	* [Overfitting](/Knowledge/Science/Philosophy/Overfitting)
 * Programming
 	* [Copyright](/Knowledge/Science/Programming/Copyright)
 	* [GraphicAPIs](/Knowledge/Science/Programming/GraphicAPIs)
