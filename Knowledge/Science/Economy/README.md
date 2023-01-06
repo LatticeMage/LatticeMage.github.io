@@ -7,7 +7,7 @@
 [Financial Independence](./Financial Independence/)  
 [Game Theory](./Game Theory/)  
 [Investing](./Investing/)  
-[Investing 3](./Investing 3/)  
 [Investing2](./Investing2/)  
+[Investing3](./Investing3/)  
 [Multiple Careers](./Multiple Careers/)  
 [UBI](./UBI/)  

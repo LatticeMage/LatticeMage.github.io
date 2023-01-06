@@ -214,8 +214,8 @@
 	* [Competition YT](/Knowledge/Art/Youtuber/Competition%20YT)
 * 小六SixPoker
 	* [Competition YT](/Knowledge/Art/Youtuber/Competition%20YT)
-	* [Investing 3](/Knowledge/Science/Economy/Investing%203)
 	* [Investing](/Knowledge/Science/Economy/Investing)
+	* [Investing3](/Knowledge/Science/Economy/Investing3)
 * 肉泥Ronnie
 	* [Competition YT](/Knowledge/Art/Youtuber/Competition%20YT)
 	* [Investing](/Knowledge/Science/Economy/Investing)
@@ -237,9 +237,9 @@
 	* [Conpetitive Product Analysis](/Knowledge/Science/Economy/Conpetitive%20Product%20Analysis)
 	* [Financial Independence](/Knowledge/Science/Economy/Financial%20Independence)
 	* [Game Theory](/Knowledge/Science/Economy/Game%20Theory)
-	* [Investing 3](/Knowledge/Science/Economy/Investing%203)
 	* [Investing](/Knowledge/Science/Economy/Investing)
 	* [Investing2](/Knowledge/Science/Economy/Investing2)
+	* [Investing3](/Knowledge/Science/Economy/Investing3)
 	* [Multiple Careers](/Knowledge/Science/Economy/Multiple%20Careers)
 	* [UBI](/Knowledge/Science/Economy/UBI)
 	* [Self-management](/Knowledge/Science/Psychology/Self-management)
@@ -255,8 +255,8 @@
 * 窮奢極欲
 	* [Economy YT](/Knowledge/Art/Youtuber/Economy%20YT)
 	* [Financial Independence](/Knowledge/Science/Economy/Financial%20Independence)
-	* [Investing 3](/Knowledge/Science/Economy/Investing%203)
 	* [Investing2](/Knowledge/Science/Economy/Investing2)
+	* [Investing3](/Knowledge/Science/Economy/Investing3)
 	* [UBI](/Knowledge/Science/Economy/UBI)
 * MoneyXYZ
 	* [Economy YT](/Knowledge/Art/Youtuber/Economy%20YT)
@@ -264,8 +264,8 @@
 * Gooaye 股癌
 	* [Economy YT](/Knowledge/Art/Youtuber/Economy%20YT)
 	* [Financial Independence](/Knowledge/Science/Economy/Financial%20Independence)
-	* [Investing 3](/Knowledge/Science/Economy/Investing%203)
 	* [Investing](/Knowledge/Science/Economy/Investing)
+	* [Investing3](/Knowledge/Science/Economy/Investing3)
 * All-In Podcast
 	* [Economy YT](/Knowledge/Art/Youtuber/Economy%20YT)
 * 雷瑪莉歐
@@ -313,12 +313,14 @@
 	* [Growing](/Knowledge/Science/Psychology/Growing)
 * Psychology
 	* [Psychology YT](/Knowledge/Art/Youtuber/Psychology%20YT)
+	* [Emotion](/Knowledge/Science/Biology/Emotion)
 	* [Investing2](/Knowledge/Science/Economy/Investing2)
 	* [Bullying](/Knowledge/Science/Psychology/Bullying)
 	* [DID](/Knowledge/Science/Psychology/DID)
 	* [Emotional Blackmail](/Knowledge/Science/Psychology/Emotional%20Blackmail)
 	* [Growing](/Knowledge/Science/Psychology/Growing)
 	* [Learning Ability](/Knowledge/Science/Psychology/Learning%20Ability)
+	* [Motivation](/Knowledge/Science/Psychology/Motivation)
 	* [Sport Psychology](/Knowledge/Science/Psychology/Sport%20Psychology)
 * 維思維WeisWay
 	* [Psychology YT](/Knowledge/Art/Youtuber/Psychology%20YT)
@@ -389,6 +391,7 @@
 	* [サノバウィッチ](/Knowledge/Language/Japanese/Vocabulary/サノバウィッチ)
 * Biology
 	* [Bimanual Coordination](/Knowledge/Science/Biology/Bimanual%20Coordination)
+	* [Emotion](/Knowledge/Science/Biology/Emotion)
 	* [Strength Training](/Knowledge/Science/Biology/Strength%20Training)
 	* [ColorSpace](/Knowledge/Science/Physics/ColorSpace)
 * Physics
@@ -418,11 +421,11 @@
 * Better Leaf 好葉
 	* [Financial Independence](/Knowledge/Science/Economy/Financial%20Independence)
 	* [Investing2](/Knowledge/Science/Economy/Investing2)
-* Investing
-	* [Investing 3](/Knowledge/Science/Economy/Investing%203)
-	* [Investing2](/Knowledge/Science/Economy/Investing2)
 * 好棒Bump
 	* [Investing](/Knowledge/Science/Economy/Investing)
+* Investing
+	* [Investing2](/Knowledge/Science/Economy/Investing2)
+	* [Investing3](/Knowledge/Science/Economy/Investing3)
 * 即凉Lion
 	* [Investing2](/Knowledge/Science/Economy/Investing2)
 	* [Self-management](/Knowledge/Science/Psychology/Self-management)
