@@ -32,6 +32,8 @@
 	* [Level Design](/Knowledge/ACGN/Game/Designer/Level%20Design)
 	* [Operator](/Knowledge/ACGN/Game/Designer/Operator)
 	* [System Designer](/Knowledge/ACGN/Game/Designer/System%20Designer)
+* Game Design
+	* [GameFlow](/Knowledge/ACGN/Game/Designer/GameFlow)
 * Rouguelike
 	* [Cult of the Lamb](/Knowledge/ACGN/Game/Rouguelike/Cult%20of%20the%20Lamb)
 	* [ELONA](/Knowledge/ACGN/Game/Rouguelike/ELONA)
