@@ -434,6 +434,7 @@
 	* [Productivity Tools](/Knowledge/Science/Technology/Productivity%20Tools)
 * 在地上滾的工程師 Nic
 	* [Investing2](/Knowledge/Science/Economy/Investing2)
+	* [Career Planning](/Knowledge/Science/Sociology/Career%20Planning)
 * Yale Chen (陳頁真)
 	* [Multiple Careers](/Knowledge/Science/Economy/Multiple%20Careers)
 * Ms.Selena
