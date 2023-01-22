@@ -444,6 +444,22 @@
 	* [Multiple Careers](/Knowledge/Science/Economy/Multiple%20Careers)
 * 【官方】Iku老師的房間
 	* [Multiple Careers](/Knowledge/Science/Economy/Multiple%20Careers)
+* All-in
+	* [Startup](/Knowledge/Science/Economy/Startup)
+* Hedging
+	* [Startup](/Knowledge/Science/Economy/Startup)
+* Risk-taking
+	* [Startup](/Knowledge/Science/Economy/Startup)
+* Mental toughness
+	* [Startup](/Knowledge/Science/Economy/Startup)
+* Calculated risk-taking / strategic risk-taking 
+	* [Startup](/Knowledge/Science/Economy/Startup)
+* Entrepreneurship
+	* [Startup](/Knowledge/Science/Economy/Startup)
+* Economics
+	* [Startup](/Knowledge/Science/Economy/Startup)
+* Sociology
+	* [Startup](/Knowledge/Science/Economy/Startup)
 * Evolution
 	* [Brain](/Knowledge/Science/Evolution/Brain)
 	* [Epigenetics](/Knowledge/Science/Evolution/Epigenetics)
