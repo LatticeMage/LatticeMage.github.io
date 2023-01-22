@@ -322,6 +322,7 @@
 	* [Emotional Blackmail](/Knowledge/Science/Psychology/Emotional%20Blackmail)
 	* [Growing](/Knowledge/Science/Psychology/Growing)
 	* [Learning Ability](/Knowledge/Science/Psychology/Learning%20Ability)
+	* [Mental Toughness](/Knowledge/Science/Psychology/Mental%20Toughness)
 	* [Motivation](/Knowledge/Science/Psychology/Motivation)
 	* [Sport Psychology](/Knowledge/Science/Psychology/Sport%20Psychology)
 * 維思維WeisWay
