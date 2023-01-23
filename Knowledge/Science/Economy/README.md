@@ -5,7 +5,6 @@
 [Company](./Company/)  
 [Conpetitive Product Analysis](./Conpetitive Product Analysis/)  
 [Financial Independence](./Financial Independence/)  
-[Game Theory](./Game Theory/)  
 [Investing](./Investing/)  
 [Investing2](./Investing2/)  
 [Investing3](./Investing3/)  

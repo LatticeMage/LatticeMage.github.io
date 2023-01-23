@@ -79,8 +79,8 @@
 	* [Perspective](/Knowledge/Art/Drawing/Perspective)
 	* [Science YT](/Knowledge/Art/Youtuber/Science%20YT)
 	* [Behavioral Finance](/Knowledge/Science/Economy/Behavioral%20Finance)
-	* [Game Theory](/Knowledge/Science/Economy/Game%20Theory)
 	* [Investing](/Knowledge/Science/Economy/Investing)
+	* [Game Theory](/Knowledge/Science/Mathematics/Game%20Theory)
 * Music
 	* [Instrument](/Knowledge/Art/Music/Instrument)
 	* [Music Theory](/Knowledge/Art/Music/Music%20Theory)
@@ -238,7 +238,6 @@
 	* [Business Model](/Knowledge/Science/Economy/Business%20Model)
 	* [Conpetitive Product Analysis](/Knowledge/Science/Economy/Conpetitive%20Product%20Analysis)
 	* [Financial Independence](/Knowledge/Science/Economy/Financial%20Independence)
-	* [Game Theory](/Knowledge/Science/Economy/Game%20Theory)
 	* [Investing](/Knowledge/Science/Economy/Investing)
 	* [Investing2](/Knowledge/Science/Economy/Investing2)
 	* [Investing3](/Knowledge/Science/Economy/Investing3)
@@ -404,6 +403,7 @@
 	* [Strength Training](/Knowledge/Science/Biology/Strength%20Training)
 * Sport Psychology
 	* [Strength Training](/Knowledge/Science/Biology/Strength%20Training)
+	* [Game Theory](/Knowledge/Science/Mathematics/Game%20Theory)
 * 陳寗 NingSelect
 	* [Business Model](/Knowledge/Science/Economy/Business%20Model)
 	* [Investing](/Knowledge/Science/Economy/Investing)
@@ -426,6 +426,9 @@
 	* [Investing2](/Knowledge/Science/Economy/Investing2)
 * 好棒Bump
 	* [Investing](/Knowledge/Science/Economy/Investing)
+* Nash Equilibrium
+	* [Investing](/Knowledge/Science/Economy/Investing)
+	* [Game Theory](/Knowledge/Science/Mathematics/Game%20Theory)
 * Investing
 	* [Investing2](/Knowledge/Science/Economy/Investing2)
 	* [Investing3](/Knowledge/Science/Economy/Investing3)
@@ -464,6 +467,10 @@
 	* [Brain](/Knowledge/Science/Evolution/Brain)
 	* [Epigenetics](/Knowledge/Science/Evolution/Epigenetics)
 	* [Sleeping](/Knowledge/Science/Evolution/Sleeping)
+* Mathematics
+	* [Game Theory](/Knowledge/Science/Mathematics/Game%20Theory)
+* Mental Toughness
+	* [Game Theory](/Knowledge/Science/Mathematics/Game%20Theory)
 * Learned Helplessness
 	* [Overfitting](/Knowledge/Science/Philosophy/Overfitting)
 * Programming
