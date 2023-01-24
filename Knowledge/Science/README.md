@@ -1,12 +1,8 @@
 # Science
 
 [Biology](./Biology/)  
-[Economy](./Economy/)  
 [Evolution](./Evolution/)  
 [Mathematics](./Mathematics/)  
-[Philosophy](./Philosophy/)  
 [Physics](./Physics/)  
+[Physiology](./Physiology/)  
 [Programming](./Programming/)  
-[Psychology](./Psychology/)  
-[Sociology](./Sociology/)  
-[Technology](./Technology/)  

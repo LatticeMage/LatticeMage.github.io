@@ -1,9 +1,9 @@
 * Game
 	* [Game Classification](/Knowledge/ACGN/Game/Game%20Classification)
 	* [Rouguelike](/Knowledge/ACGN/Game/Rouguelike)
-	* [Arcanum](/Knowledge/Language/English/Vocabulary/Arcanum)
-	* [DungeonsAndDesktops](/Knowledge/Language/English/Vocabulary/DungeonsAndDesktops)
-	* [サノバウィッチ](/Knowledge/Language/Japanese/Vocabulary/サノバウィッチ)
+	* [Arcanum](/Knowledge/Humanities/Language/English/Vocabulary/Arcanum)
+	* [DungeonsAndDesktops](/Knowledge/Humanities/Language/English/Vocabulary/DungeonsAndDesktops)
+	* [サノバウィッチ](/Knowledge/Humanities/Language/Japanese/Vocabulary/サノバウィッチ)
 * ACGN
 	* [Game Designer](/Knowledge/ACGN/Game/Game%20Designer)
 	* [Game Designing](/Knowledge/ACGN/Game/Game%20Designing)
@@ -54,7 +54,7 @@
 	* [Perspective](/Knowledge/Art/Drawing/Perspective)
 	* [抖抖村](/Knowledge/Art/Drawing/抖抖村)
 	* [繪師](/Knowledge/Art/Drawing/繪師)
-	* [CSPHotKey](/Knowledge/Science/Technology/CSPHotKey)
+	* [CSPHotKey](/Knowledge/Technology/CSPHotKey)
 * Krenz's Artwork
 	* [Anthropotomy](/Knowledge/Art/Drawing/Anthropotomy)
 	* [Chroma](/Knowledge/Art/Drawing/Chroma)
@@ -62,8 +62,8 @@
 	* [Croquis](/Knowledge/Art/Drawing/Croquis)
 	* [Perspective](/Knowledge/Art/Drawing/Perspective)
 	* [Art YT](/Knowledge/Art/Youtuber/Art%20YT)
-	* [Business Model](/Knowledge/Science/Economy/Business%20Model)
-	* [Growing](/Knowledge/Science/Psychology/Growing)
+	* [Business Model](/Knowledge/Social%20Science/Economy/Business%20Model)
+	* [Growing](/Knowledge/Social%20Science/Psychology/Growing)
 * Color
 	* [Chroma](/Knowledge/Art/Drawing/Chroma)
 	* [ColorSpace](/Knowledge/Science/Physics/ColorSpace)
@@ -74,17 +74,17 @@
 	* [Perspective](/Knowledge/Art/Drawing/Perspective)
 	* [抖抖村](/Knowledge/Art/Drawing/抖抖村)
 	* [Art YT](/Knowledge/Art/Youtuber/Art%20YT)
-	* [Growing](/Knowledge/Science/Psychology/Growing)
+	* [Growing](/Knowledge/Social%20Science/Psychology/Growing)
 * 李永乐老师
 	* [Perspective](/Knowledge/Art/Drawing/Perspective)
 	* [Science YT](/Knowledge/Art/Youtuber/Science%20YT)
-	* [Behavioral Finance](/Knowledge/Science/Economy/Behavioral%20Finance)
-	* [Investing](/Knowledge/Science/Economy/Investing)
 	* [Game Theory](/Knowledge/Science/Mathematics/Game%20Theory)
+	* [Behavioral Finance](/Knowledge/Social%20Science/Economy/Behavioral%20Finance)
+	* [Investing](/Knowledge/Social%20Science/Economy/Investing)
 * Music
 	* [Instrument](/Knowledge/Art/Music/Instrument)
 	* [Music Theory](/Knowledge/Art/Music/Music%20Theory)
-	* [Music Training Apps](/Knowledge/Science/Technology/Music%20Training%20Apps)
+	* [Music Training Apps](/Knowledge/Technology/Music%20Training%20Apps)
 * Adam Neely
 	* [Music Theory](/Knowledge/Art/Music/Music%20Theory)
 	* [Music Theroy YT](/Knowledge/Art/Youtuber/Music%20Theroy%20YT)
@@ -216,14 +216,14 @@
 	* [Competition YT](/Knowledge/Art/Youtuber/Competition%20YT)
 * 小六SixPoker
 	* [Competition YT](/Knowledge/Art/Youtuber/Competition%20YT)
-	* [Investing](/Knowledge/Science/Economy/Investing)
-	* [Investing3](/Knowledge/Science/Economy/Investing3)
+	* [Investing](/Knowledge/Social%20Science/Economy/Investing)
+	* [Investing3](/Knowledge/Social%20Science/Economy/Investing3)
 * 肉泥Ronnie
 	* [Competition YT](/Knowledge/Art/Youtuber/Competition%20YT)
-	* [Investing](/Knowledge/Science/Economy/Investing)
+	* [Investing](/Knowledge/Social%20Science/Economy/Investing)
 * 艾倫去哪兒 Allengoaround
 	* [Competition YT](/Knowledge/Art/Youtuber/Competition%20YT)
-	* [Investing](/Knowledge/Science/Economy/Investing)
+	* [Investing](/Knowledge/Social%20Science/Economy/Investing)
 * 高川格
 	* [Competition YT](/Knowledge/Art/Youtuber/Competition%20YT)
 * 小小林圍棋
@@ -234,60 +234,51 @@
 	* [Competition YT](/Knowledge/Art/Youtuber/Competition%20YT)
 * Economy
 	* [Economy YT](/Knowledge/Art/Youtuber/Economy%20YT)
-	* [Behavioral Finance](/Knowledge/Science/Economy/Behavioral%20Finance)
-	* [Business Model](/Knowledge/Science/Economy/Business%20Model)
-	* [Conpetitive Product Analysis](/Knowledge/Science/Economy/Conpetitive%20Product%20Analysis)
-	* [Financial Independence](/Knowledge/Science/Economy/Financial%20Independence)
-	* [Investing](/Knowledge/Science/Economy/Investing)
-	* [Investing2](/Knowledge/Science/Economy/Investing2)
-	* [Investing3](/Knowledge/Science/Economy/Investing3)
-	* [Multiple Careers](/Knowledge/Science/Economy/Multiple%20Careers)
-	* [UBI](/Knowledge/Science/Economy/UBI)
-	* [Self-management](/Knowledge/Science/Psychology/Self-management)
+	* [Self-management](/Knowledge/Social%20Science/Psychology/Self-management)
 * 老王看世界
 	* [Economy YT](/Knowledge/Art/Youtuber/Economy%20YT)
-	* [Investing](/Knowledge/Science/Economy/Investing)
+	* [Investing](/Knowledge/Social%20Science/Economy/Investing)
 * 股乾爹 KuKanTieh
 	* [Economy YT](/Knowledge/Art/Youtuber/Economy%20YT)
 * 清流君
 	* [Economy YT](/Knowledge/Art/Youtuber/Economy%20YT)
-	* [Behavioral Finance](/Knowledge/Science/Economy/Behavioral%20Finance)
-	* [Investing](/Knowledge/Science/Economy/Investing)
+	* [Behavioral Finance](/Knowledge/Social%20Science/Economy/Behavioral%20Finance)
+	* [Investing](/Knowledge/Social%20Science/Economy/Investing)
 * 窮奢極欲
 	* [Economy YT](/Knowledge/Art/Youtuber/Economy%20YT)
-	* [Financial Independence](/Knowledge/Science/Economy/Financial%20Independence)
-	* [Investing2](/Knowledge/Science/Economy/Investing2)
-	* [Investing3](/Knowledge/Science/Economy/Investing3)
-	* [UBI](/Knowledge/Science/Economy/UBI)
+	* [Financial Independence](/Knowledge/Social%20Science/Economy/Financial%20Independence)
+	* [Investing2](/Knowledge/Social%20Science/Economy/Investing2)
+	* [Investing3](/Knowledge/Social%20Science/Economy/Investing3)
+	* [UBI](/Knowledge/Social%20Science/Economy/UBI)
 * MoneyXYZ
 	* [Economy YT](/Knowledge/Art/Youtuber/Economy%20YT)
-	* [Financial Independence](/Knowledge/Science/Economy/Financial%20Independence)
+	* [Financial Independence](/Knowledge/Social%20Science/Economy/Financial%20Independence)
 * Gooaye 股癌
 	* [Economy YT](/Knowledge/Art/Youtuber/Economy%20YT)
-	* [Financial Independence](/Knowledge/Science/Economy/Financial%20Independence)
-	* [Investing](/Knowledge/Science/Economy/Investing)
-	* [Investing3](/Knowledge/Science/Economy/Investing3)
+	* [Financial Independence](/Knowledge/Social%20Science/Economy/Financial%20Independence)
+	* [Investing](/Knowledge/Social%20Science/Economy/Investing)
+	* [Investing3](/Knowledge/Social%20Science/Economy/Investing3)
 * All-In Podcast
 	* [Economy YT](/Knowledge/Art/Youtuber/Economy%20YT)
 * 雷瑪莉歐
 	* [Economy YT](/Knowledge/Art/Youtuber/Economy%20YT)
-	* [Investing](/Knowledge/Science/Economy/Investing)
+	* [Investing](/Knowledge/Social%20Science/Economy/Investing)
 * 美投讲美股
 	* [Economy YT](/Knowledge/Art/Youtuber/Economy%20YT)
-	* [Investing](/Knowledge/Science/Economy/Investing)
+	* [Investing](/Knowledge/Social%20Science/Economy/Investing)
 * M觀點
 	* [Economy YT](/Knowledge/Art/Youtuber/Economy%20YT)
 * Men's Game 玩物誌
 	* [Economy YT](/Knowledge/Art/Youtuber/Economy%20YT)
-	* [Business Model](/Knowledge/Science/Economy/Business%20Model)
+	* [Business Model](/Knowledge/Social%20Science/Economy/Business%20Model)
 * Ryan Wu
 	* [Economy YT](/Knowledge/Art/Youtuber/Economy%20YT)
-	* [Business Model](/Knowledge/Science/Economy/Business%20Model)
-	* [Investing2](/Knowledge/Science/Economy/Investing2)
-	* [Self-management](/Knowledge/Science/Psychology/Self-management)
+	* [Business Model](/Knowledge/Social%20Science/Economy/Business%20Model)
+	* [Investing2](/Knowledge/Social%20Science/Economy/Investing2)
+	* [Self-management](/Knowledge/Social%20Science/Psychology/Self-management)
 * History
 	* [History YT](/Knowledge/Art/Youtuber/History%20YT)
-	* [Overfitting](/Knowledge/Science/Philosophy/Overfitting)
+	* [Overfitting](/Knowledge/Humanities/Philosophy/Overfitting)
 * 天狗衛視
 	* [History YT](/Knowledge/Art/Youtuber/History%20YT)
 * cheap
@@ -298,51 +289,51 @@
 	* [Music Theroy YT](/Knowledge/Art/Youtuber/Music%20Theroy%20YT)
 * 笑哈哈LOL
 	* [Music Theroy YT](/Knowledge/Art/Youtuber/Music%20Theroy%20YT)
-	* [Growing](/Knowledge/Science/Psychology/Growing)
+	* [Growing](/Knowledge/Social%20Science/Psychology/Growing)
 * 檸檬卷 Janet
 	* [Music Theroy YT](/Knowledge/Art/Youtuber/Music%20Theroy%20YT)
-	* [Growing](/Knowledge/Science/Psychology/Growing)
+	* [Growing](/Knowledge/Social%20Science/Psychology/Growing)
 * 成田工作室
 	* [Music Theroy YT](/Knowledge/Art/Youtuber/Music%20Theroy%20YT)
-	* [Growing](/Knowledge/Science/Psychology/Growing)
+	* [Growing](/Knowledge/Social%20Science/Psychology/Growing)
 * 理科生讲音乐
 	* [Music Theroy YT](/Knowledge/Art/Youtuber/Music%20Theroy%20YT)
 * Jacob Collier
 	* [Music Theroy YT](/Knowledge/Art/Youtuber/Music%20Theroy%20YT)
 * Rick Beato
 	* [Music Theroy YT](/Knowledge/Art/Youtuber/Music%20Theroy%20YT)
-	* [Growing](/Knowledge/Science/Psychology/Growing)
+	* [Growing](/Knowledge/Social%20Science/Psychology/Growing)
 * Psychology
 	* [Psychology YT](/Knowledge/Art/Youtuber/Psychology%20YT)
 	* [Emotion](/Knowledge/Science/Biology/Emotion)
-	* [Investing2](/Knowledge/Science/Economy/Investing2)
-	* [Bullying](/Knowledge/Science/Psychology/Bullying)
-	* [DID](/Knowledge/Science/Psychology/DID)
-	* [Emotional Blackmail](/Knowledge/Science/Psychology/Emotional%20Blackmail)
-	* [Growing](/Knowledge/Science/Psychology/Growing)
-	* [Learning Ability](/Knowledge/Science/Psychology/Learning%20Ability)
-	* [Mental Toughness](/Knowledge/Science/Psychology/Mental%20Toughness)
-	* [Motivation](/Knowledge/Science/Psychology/Motivation)
-	* [Sport Psychology](/Knowledge/Science/Psychology/Sport%20Psychology)
+	* [Investing2](/Knowledge/Social%20Science/Economy/Investing2)
+	* [Bullying](/Knowledge/Social%20Science/Psychology/Bullying)
+	* [DID](/Knowledge/Social%20Science/Psychology/DID)
+	* [Emotional Blackmail](/Knowledge/Social%20Science/Psychology/Emotional%20Blackmail)
+	* [Growing](/Knowledge/Social%20Science/Psychology/Growing)
+	* [Learning Ability](/Knowledge/Social%20Science/Psychology/Learning%20Ability)
+	* [Mental Toughness](/Knowledge/Social%20Science/Psychology/Mental%20Toughness)
+	* [Motivation](/Knowledge/Social%20Science/Psychology/Motivation)
+	* [Sport Psychology](/Knowledge/Social%20Science/Psychology/Sport%20Psychology)
 * 維思維WeisWay
 	* [Psychology YT](/Knowledge/Art/Youtuber/Psychology%20YT)
-	* [DID](/Knowledge/Science/Psychology/DID)
+	* [DID](/Knowledge/Social%20Science/Psychology/DID)
 * 武志红讲心理
 	* [Psychology YT](/Knowledge/Art/Youtuber/Psychology%20YT)
-	* [Bullying](/Knowledge/Science/Psychology/Bullying)
+	* [Bullying](/Knowledge/Social%20Science/Psychology/Bullying)
 * 馬大元
 	* [Psychology YT](/Knowledge/Art/Youtuber/Psychology%20YT)
 * 冏星人
 	* [Psychology YT](/Knowledge/Art/Youtuber/Psychology%20YT)
-	* [Emotional Blackmail](/Knowledge/Science/Psychology/Emotional%20Blackmail)
+	* [Emotional Blackmail](/Knowledge/Social%20Science/Psychology/Emotional%20Blackmail)
 * 安慰记心理
 	* [Psychology YT](/Knowledge/Art/Youtuber/Psychology%20YT)
 * Science
 	* [Science YT](/Knowledge/Art/Youtuber/Science%20YT)
 * 超級歪 SuperY
 	* [Science YT](/Knowledge/Art/Youtuber/Science%20YT)
-	* [Financial Independence](/Knowledge/Science/Economy/Financial%20Independence)
-	* [UBI](/Knowledge/Science/Economy/UBI)
+	* [Financial Independence](/Knowledge/Social%20Science/Economy/Financial%20Independence)
+	* [UBI](/Knowledge/Social%20Science/Economy/UBI)
 * 眼见为识
 	* [Science YT](/Knowledge/Art/Youtuber/Science%20YT)
 	* [ColorSpace](/Knowledge/Science/Physics/ColorSpace)
@@ -358,11 +349,11 @@
 	* [Science YT](/Knowledge/Art/Youtuber/Science%20YT)
 * 林亦LYi
 	* [Science YT](/Knowledge/Art/Youtuber/Science%20YT)
-	* [Productivity Tools](/Knowledge/Science/Technology/Productivity%20Tools)
+	* [Productivity Tools](/Knowledge/Technology/Productivity%20Tools)
 * 老石谈芯
 	* [Science YT](/Knowledge/Art/Youtuber/Science%20YT)
-	* [Investing2](/Knowledge/Science/Economy/Investing2)
-	* [Productivity Tools](/Knowledge/Science/Technology/Productivity%20Tools)
+	* [Investing2](/Knowledge/Social%20Science/Economy/Investing2)
+	* [Productivity Tools](/Knowledge/Technology/Productivity%20Tools)
 * 黃瑽寧醫師健康講堂
 	* [Science YT](/Knowledge/Art/Youtuber/Science%20YT)
 * 蒼藍鴿的醫學天地
@@ -371,137 +362,148 @@
 	* [Strength Training YT](/Knowledge/Art/Youtuber/Strength%20Training%20YT)
 * 白天手術房晚上健身房
 	* [Strength Training YT](/Knowledge/Art/Youtuber/Strength%20Training%20YT)
-	* [Strength Training](/Knowledge/Science/Biology/Strength%20Training)
+	* [Strength Training](/Knowledge/Science/Physiology/Strength%20Training)
 * SBD Taiwan 邱個
 	* [Strength Training YT](/Knowledge/Art/Youtuber/Strength%20Training%20YT)
-	* [Strength Training](/Knowledge/Science/Biology/Strength%20Training)
-	* [Investing2](/Knowledge/Science/Economy/Investing2)
-	* [Growing](/Knowledge/Science/Psychology/Growing)
+	* [Strength Training](/Knowledge/Science/Physiology/Strength%20Training)
+	* [Investing2](/Knowledge/Social%20Science/Economy/Investing2)
+	* [Growing](/Knowledge/Social%20Science/Psychology/Growing)
 * 健人蓋伊
 	* [Strength Training YT](/Knowledge/Art/Youtuber/Strength%20Training%20YT)
 * CYFIT兆佑
 	* [Strength Training YT](/Knowledge/Art/Youtuber/Strength%20Training%20YT)
-	* [Strength Training](/Knowledge/Science/Biology/Strength%20Training)
-	* [Growing](/Knowledge/Science/Psychology/Growing)
+	* [Strength Training](/Knowledge/Science/Physiology/Strength%20Training)
+	* [Growing](/Knowledge/Social%20Science/Psychology/Growing)
 * Tao
 	* [Strength Training YT](/Knowledge/Art/Youtuber/Strength%20Training%20YT)
-	* [Strength Training](/Knowledge/Science/Biology/Strength%20Training)
+	* [Strength Training](/Knowledge/Science/Physiology/Strength%20Training)
 * English
-	* [Arcanum](/Knowledge/Language/English/Vocabulary/Arcanum)
-	* [DungeonsAndDesktops](/Knowledge/Language/English/Vocabulary/DungeonsAndDesktops)
+	* [Arcanum](/Knowledge/Humanities/Language/English/Vocabulary/Arcanum)
+	* [DungeonsAndDesktops](/Knowledge/Humanities/Language/English/Vocabulary/DungeonsAndDesktops)
 * Japanese
-	* [サノバウィッチ](/Knowledge/Language/Japanese/Vocabulary/サノバウィッチ)
+	* [サノバウィッチ](/Knowledge/Humanities/Language/Japanese/Vocabulary/サノバウィッチ)
+* Philosophy
+	* [Overfitting](/Knowledge/Humanities/Philosophy/Overfitting)
+	* [Financial Independence](/Knowledge/Social%20Science/Economy/Financial%20Independence)
+	* [Investing2](/Knowledge/Social%20Science/Economy/Investing2)
+	* [Analytical Thinking](/Knowledge/Social%20Science/Psychology/Analytical%20Thinking)
+* Learned Helplessness
+	* [Overfitting](/Knowledge/Humanities/Philosophy/Overfitting)
 * Biology
 	* [Bimanual Coordination](/Knowledge/Science/Biology/Bimanual%20Coordination)
 	* [Emotion](/Knowledge/Science/Biology/Emotion)
-	* [Strength Training](/Knowledge/Science/Biology/Strength%20Training)
 	* [ColorSpace](/Knowledge/Science/Physics/ColorSpace)
-* Physics
-	* [Strength Training](/Knowledge/Science/Biology/Strength%20Training)
-	* [ColorSpace](/Knowledge/Science/Physics/ColorSpace)
-* 營養師Ricky's Time
-	* [Strength Training](/Knowledge/Science/Biology/Strength%20Training)
-* Sport Psychology
-	* [Strength Training](/Knowledge/Science/Biology/Strength%20Training)
-	* [Game Theory](/Knowledge/Science/Mathematics/Game%20Theory)
-* 陳寗 NingSelect
-	* [Business Model](/Knowledge/Science/Economy/Business%20Model)
-	* [Investing](/Knowledge/Science/Economy/Investing)
-* Government
-	* [Company](/Knowledge/Science/Economy/Company)
-* AI
-	* [Conpetitive Product Analysis](/Knowledge/Science/Economy/Conpetitive%20Product%20Analysis)
-	* [HowToUseChatGPT](/Knowledge/Science/Technology/HowToUseChatGPT)
-* Mindset
-	* [Financial Independence](/Knowledge/Science/Economy/Financial%20Independence)
-	* [Investing](/Knowledge/Science/Economy/Investing)
-	* [Investing2](/Knowledge/Science/Economy/Investing2)
-* Philosophy
-	* [Financial Independence](/Knowledge/Science/Economy/Financial%20Independence)
-	* [Investing2](/Knowledge/Science/Economy/Investing2)
-	* [Analytical](/Knowledge/Science/Philosophy/Analytical)
-	* [Overfitting](/Knowledge/Science/Philosophy/Overfitting)
-* Better Leaf 好葉
-	* [Financial Independence](/Knowledge/Science/Economy/Financial%20Independence)
-	* [Investing2](/Knowledge/Science/Economy/Investing2)
-* 好棒Bump
-	* [Investing](/Knowledge/Science/Economy/Investing)
-* Nash Equilibrium
-	* [Investing](/Knowledge/Science/Economy/Investing)
-	* [Game Theory](/Knowledge/Science/Mathematics/Game%20Theory)
-* Investing
-	* [Investing2](/Knowledge/Science/Economy/Investing2)
-	* [Investing3](/Knowledge/Science/Economy/Investing3)
-* 即凉Lion
-	* [Investing2](/Knowledge/Science/Economy/Investing2)
-	* [Self-management](/Knowledge/Science/Psychology/Self-management)
-	* [Productivity Tools](/Knowledge/Science/Technology/Productivity%20Tools)
-* 在地上滾的工程師 Nic
-	* [Investing2](/Knowledge/Science/Economy/Investing2)
-	* [Career Planning](/Knowledge/Science/Sociology/Career%20Planning)
-* Yale Chen (陳頁真)
-	* [Multiple Careers](/Knowledge/Science/Economy/Multiple%20Careers)
-* Ms.Selena
-	* [Multiple Careers](/Knowledge/Science/Economy/Multiple%20Careers)
-* 90後創業家掃地僧
-	* [Multiple Careers](/Knowledge/Science/Economy/Multiple%20Careers)
-* 【官方】Iku老師的房間
-	* [Multiple Careers](/Knowledge/Science/Economy/Multiple%20Careers)
-* All-in
-	* [Startup](/Knowledge/Science/Economy/Startup)
-* Hedging
-	* [Startup](/Knowledge/Science/Economy/Startup)
-* Risk-taking
-	* [Startup](/Knowledge/Science/Economy/Startup)
-* Mental toughness
-	* [Startup](/Knowledge/Science/Economy/Startup)
-* Calculated risk-taking / strategic risk-taking 
-	* [Startup](/Knowledge/Science/Economy/Startup)
-* Entrepreneurship
-	* [Startup](/Knowledge/Science/Economy/Startup)
-* Economics
-	* [Startup](/Knowledge/Science/Economy/Startup)
-* Sociology
-	* [Startup](/Knowledge/Science/Economy/Startup)
+	* [Strength Training](/Knowledge/Science/Physiology/Strength%20Training)
 * Evolution
+	* [Epigenetics](/Knowledge/Science/Biology/Epigenetics)
 	* [Brain](/Knowledge/Science/Evolution/Brain)
-	* [Epigenetics](/Knowledge/Science/Evolution/Epigenetics)
 	* [Sleeping](/Knowledge/Science/Evolution/Sleeping)
 * Mathematics
 	* [Game Theory](/Knowledge/Science/Mathematics/Game%20Theory)
+* Economics
+	* [Game Theory](/Knowledge/Science/Mathematics/Game%20Theory)
+	* [Behavioral Finance](/Knowledge/Social%20Science/Economy/Behavioral%20Finance)
+	* [Business Model](/Knowledge/Social%20Science/Economy/Business%20Model)
+	* [Company](/Knowledge/Social%20Science/Economy/Company)
+	* [Conpetitive Product Analysis](/Knowledge/Social%20Science/Economy/Conpetitive%20Product%20Analysis)
+	* [Financial Independence](/Knowledge/Social%20Science/Economy/Financial%20Independence)
+	* [Investing](/Knowledge/Social%20Science/Economy/Investing)
+	* [Investing2](/Knowledge/Social%20Science/Economy/Investing2)
+	* [Investing3](/Knowledge/Social%20Science/Economy/Investing3)
+	* [Multiple Careers](/Knowledge/Social%20Science/Economy/Multiple%20Careers)
+	* [Startup](/Knowledge/Social%20Science/Economy/Startup)
+	* [UBI](/Knowledge/Social%20Science/Economy/UBI)
 * Mental Toughness
 	* [Game Theory](/Knowledge/Science/Mathematics/Game%20Theory)
-* Learned Helplessness
-	* [Overfitting](/Knowledge/Science/Philosophy/Overfitting)
+* Sport Psychology
+	* [Game Theory](/Knowledge/Science/Mathematics/Game%20Theory)
+	* [Strength Training](/Knowledge/Science/Physiology/Strength%20Training)
+* Nash Equilibrium
+	* [Game Theory](/Knowledge/Science/Mathematics/Game%20Theory)
+	* [Investing](/Knowledge/Social%20Science/Economy/Investing)
+* Physics
+	* [ColorSpace](/Knowledge/Science/Physics/ColorSpace)
+	* [Strength Training](/Knowledge/Science/Physiology/Strength%20Training)
+* 營養師Ricky's Time
+	* [Strength Training](/Knowledge/Science/Physiology/Strength%20Training)
 * Programming
-	* [Copyright](/Knowledge/Science/Programming/Copyright)
 	* [GraphicAPIs](/Knowledge/Science/Programming/GraphicAPIs)
 	* [musicxml](/Knowledge/Science/Programming/musicxml)
-* Law
-	* [Copyright](/Knowledge/Science/Programming/Copyright)
-* Lisence
-	* [Copyright](/Knowledge/Science/Programming/Copyright)
+	* [Copyright](/Knowledge/Social%20Science/Law/Copyright)
 * DirectX
 	* [GraphicAPIs](/Knowledge/Science/Programming/GraphicAPIs)
 * OpenGL
 	* [GraphicAPIs](/Knowledge/Science/Programming/GraphicAPIs)
 * Graphics
 	* [GraphicAPIs](/Knowledge/Science/Programming/GraphicAPIs)
+* 在地上滾的工程師 Nic
+	* [Career Planning](/Knowledge/Social%20Science/Career%20Planning)
+	* [Investing2](/Knowledge/Social%20Science/Economy/Investing2)
+* 陳寗 NingSelect
+	* [Business Model](/Knowledge/Social%20Science/Economy/Business%20Model)
+	* [Investing](/Knowledge/Social%20Science/Economy/Investing)
+* Government
+	* [Company](/Knowledge/Social%20Science/Economy/Company)
+* AI
+	* [Conpetitive Product Analysis](/Knowledge/Social%20Science/Economy/Conpetitive%20Product%20Analysis)
+	* [HowToUseChatGPT](/Knowledge/Technology/HowToUseChatGPT)
+* Mindset
+	* [Financial Independence](/Knowledge/Social%20Science/Economy/Financial%20Independence)
+	* [Investing](/Knowledge/Social%20Science/Economy/Investing)
+	* [Investing2](/Knowledge/Social%20Science/Economy/Investing2)
+* Better Leaf 好葉
+	* [Financial Independence](/Knowledge/Social%20Science/Economy/Financial%20Independence)
+	* [Investing2](/Knowledge/Social%20Science/Economy/Investing2)
+* 好棒Bump
+	* [Investing](/Knowledge/Social%20Science/Economy/Investing)
+* Investing
+	* [Investing2](/Knowledge/Social%20Science/Economy/Investing2)
+	* [Investing3](/Knowledge/Social%20Science/Economy/Investing3)
+* 即凉Lion
+	* [Investing2](/Knowledge/Social%20Science/Economy/Investing2)
+	* [Self-management](/Knowledge/Social%20Science/Psychology/Self-management)
+	* [Productivity Tools](/Knowledge/Technology/Productivity%20Tools)
+* Yale Chen (陳頁真)
+	* [Multiple Careers](/Knowledge/Social%20Science/Economy/Multiple%20Careers)
+* Ms.Selena
+	* [Multiple Careers](/Knowledge/Social%20Science/Economy/Multiple%20Careers)
+* 90後創業家掃地僧
+	* [Multiple Careers](/Knowledge/Social%20Science/Economy/Multiple%20Careers)
+* 【官方】Iku老師的房間
+	* [Multiple Careers](/Knowledge/Social%20Science/Economy/Multiple%20Careers)
+* All-in
+	* [Startup](/Knowledge/Social%20Science/Economy/Startup)
+* Hedging
+	* [Startup](/Knowledge/Social%20Science/Economy/Startup)
+* Risk-taking
+	* [Startup](/Knowledge/Social%20Science/Economy/Startup)
+* Mental toughness
+	* [Startup](/Knowledge/Social%20Science/Economy/Startup)
+* Calculated risk-taking / strategic risk-taking 
+	* [Startup](/Knowledge/Social%20Science/Economy/Startup)
+* Entrepreneurship
+	* [Startup](/Knowledge/Social%20Science/Economy/Startup)
+* Sociology
+	* [Startup](/Knowledge/Social%20Science/Economy/Startup)
+* Law
+	* [Copyright](/Knowledge/Social%20Science/Law/Copyright)
+* Lisence
+	* [Copyright](/Knowledge/Social%20Science/Law/Copyright)
 * 自说自话的总裁
-	* [DID](/Knowledge/Science/Psychology/DID)
+	* [DID](/Knowledge/Social%20Science/Psychology/DID)
 * 啾啾鞋
-	* [Growing](/Knowledge/Science/Psychology/Growing)
+	* [Growing](/Knowledge/Social%20Science/Psychology/Growing)
 * 講日文的台灣女生 Tiffany
-	* [Self-management](/Knowledge/Science/Psychology/Self-management)
+	* [Self-management](/Knowledge/Social%20Science/Psychology/Self-management)
 * Shawna 手写的小日常
-	* [Self-management](/Knowledge/Science/Psychology/Self-management)
+	* [Self-management](/Knowledge/Social%20Science/Psychology/Self-management)
 * Technology
-	* [CSPHotKey](/Knowledge/Science/Technology/CSPHotKey)
-	* [eBook](/Knowledge/Science/Technology/eBook)
-	* [HowToUseChatGPT](/Knowledge/Science/Technology/HowToUseChatGPT)
-	* [Music Training Apps](/Knowledge/Science/Technology/Music%20Training%20Apps)
-	* [Productivity Tools](/Knowledge/Science/Technology/Productivity%20Tools)
+	* [CSPHotKey](/Knowledge/Technology/CSPHotKey)
+	* [eBook](/Knowledge/Technology/eBook)
+	* [HowToUseChatGPT](/Knowledge/Technology/HowToUseChatGPT)
+	* [Music Training Apps](/Knowledge/Technology/Music%20Training%20Apps)
+	* [Productivity Tools](/Knowledge/Technology/Productivity%20Tools)
 * DRM
-	* [eBook](/Knowledge/Science/Technology/eBook)
+	* [eBook](/Knowledge/Technology/eBook)
 * 科技旅人毛巾Vincent
-	* [Productivity Tools](/Knowledge/Science/Technology/Productivity%20Tools)
+	* [Productivity Tools](/Knowledge/Technology/Productivity%20Tools)
