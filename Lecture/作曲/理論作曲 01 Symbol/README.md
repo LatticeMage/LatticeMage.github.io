@@ -64,14 +64,14 @@
   * f,p beat
   * simple Meter
   * compound Meter
-  *[十分鐘之內，一次搞懂「單拍子」和「複拍子」！](https://www.youtube.com/watch?time_continue=1&v=j2V_hIZ5INs)
+  * [十分鐘之內，一次搞懂「單拍子」和「複拍子」！](https://www.youtube.com/watch?time_continue=1&v=j2V_hIZ5INs)
 * numbered musical notation
 * transposing instrument
 * Swing, shuffle
 * Ghost Note
 * Shell Voicing
 * Shepard Tone
-* https://en.wikipedia.org/wiki/Cadence
+* [Cadence](https://en.wikipedia.org/wiki/Cadence)
 * Transpose
 * [Imitation](https://en.wikipedia.org/wiki/Imitation_(music))
 * [Sequence](https://en.wikipedia.org/wiki/Sequence_(music))
