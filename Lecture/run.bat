@@ -1,4 +1,4 @@
 python createTagMD.py
-mv Tags _Tags
+rename Tags _Tags
 python moveRenameFile.py
 python checkSubfolder.py
