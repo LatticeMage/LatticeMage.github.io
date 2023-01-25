@@ -66,7 +66,7 @@
 	* [Growing](/Knowledge/Social%20Science/Psychology/Growing)
 * Color
 	* [Chroma](/Knowledge/Art/Drawing/Chroma)
-	* [ColorSpace](/Knowledge/Science/Physics/ColorSpace)
+	* [ColorSpace](/Knowledge/Natural%20Science/Physics/ColorSpace)
 * 抖抖村
 	* [Chroma](/Knowledge/Art/Drawing/Chroma)
 	* [Copy](/Knowledge/Art/Drawing/Copy)
@@ -78,7 +78,7 @@
 * 李永乐老师
 	* [Perspective](/Knowledge/Art/Drawing/Perspective)
 	* [Science YT](/Knowledge/Art/Youtuber/Science%20YT)
-	* [Game Theory](/Knowledge/Science/Mathematics/Game%20Theory)
+	* [Game Theory](/Knowledge/Natural%20Science/Mathematics/Game%20Theory)
 	* [Behavioral Finance](/Knowledge/Social%20Science/Economy/Behavioral%20Finance)
 	* [Investing](/Knowledge/Social%20Science/Economy/Investing)
 * Music
@@ -162,7 +162,7 @@
 	* [Solfege](/Knowledge/Art/Music/Music%20Theory/Solfege)
 	* [Vocal](/Knowledge/Art/Music/Music%20Theory/Vocal)
 	* [Voice Leading](/Knowledge/Art/Music/Music%20Theory/Voice%20Leading)
-	* [musicxml](/Knowledge/Science/Programming/musicxml)
+	* [musicxml](/Knowledge/Technology/Programming/musicxml)
 * NiceChord+ (好和弦+)
 	* [Bass Line](/Knowledge/Art/Music/Music%20Theory/Bass%20Line)
 	* [Chord Notation](/Knowledge/Art/Music/Music%20Theory/Chord%20Notation)
@@ -305,7 +305,7 @@
 	* [Growing](/Knowledge/Social%20Science/Psychology/Growing)
 * Psychology
 	* [Psychology YT](/Knowledge/Art/Youtuber/Psychology%20YT)
-	* [Emotion](/Knowledge/Science/Biology/Emotion)
+	* [Emotion](/Knowledge/Natural%20Science/Biology/Emotion)
 	* [Investing2](/Knowledge/Social%20Science/Economy/Investing2)
 	* [Bullying](/Knowledge/Social%20Science/Psychology/Bullying)
 	* [DID](/Knowledge/Social%20Science/Psychology/DID)
@@ -336,7 +336,7 @@
 	* [UBI](/Knowledge/Social%20Science/Economy/UBI)
 * 眼见为识
 	* [Science YT](/Knowledge/Art/Youtuber/Science%20YT)
-	* [ColorSpace](/Knowledge/Science/Physics/ColorSpace)
+	* [ColorSpace](/Knowledge/Natural%20Science/Physics/ColorSpace)
 * 妈咪说MommyTalk
 	* [Science YT](/Knowledge/Art/Youtuber/Science%20YT)
 * 3Blue1Brown
@@ -362,21 +362,21 @@
 	* [Strength Training YT](/Knowledge/Art/Youtuber/Strength%20Training%20YT)
 * 白天手術房晚上健身房
 	* [Strength Training YT](/Knowledge/Art/Youtuber/Strength%20Training%20YT)
-	* [Strength Training](/Knowledge/Science/Physiology/Strength%20Training)
+	* [Strength Training](/Knowledge/Natural%20Science/Physiology/Strength%20Training)
 * SBD Taiwan 邱個
 	* [Strength Training YT](/Knowledge/Art/Youtuber/Strength%20Training%20YT)
-	* [Strength Training](/Knowledge/Science/Physiology/Strength%20Training)
+	* [Strength Training](/Knowledge/Natural%20Science/Physiology/Strength%20Training)
 	* [Investing2](/Knowledge/Social%20Science/Economy/Investing2)
 	* [Growing](/Knowledge/Social%20Science/Psychology/Growing)
 * 健人蓋伊
 	* [Strength Training YT](/Knowledge/Art/Youtuber/Strength%20Training%20YT)
 * CYFIT兆佑
 	* [Strength Training YT](/Knowledge/Art/Youtuber/Strength%20Training%20YT)
-	* [Strength Training](/Knowledge/Science/Physiology/Strength%20Training)
+	* [Strength Training](/Knowledge/Natural%20Science/Physiology/Strength%20Training)
 	* [Growing](/Knowledge/Social%20Science/Psychology/Growing)
 * Tao
 	* [Strength Training YT](/Knowledge/Art/Youtuber/Strength%20Training%20YT)
-	* [Strength Training](/Knowledge/Science/Physiology/Strength%20Training)
+	* [Strength Training](/Knowledge/Natural%20Science/Physiology/Strength%20Training)
 * English
 	* [Arcanum](/Knowledge/Humanities/Language/English/Vocabulary/Arcanum)
 	* [DungeonsAndDesktops](/Knowledge/Humanities/Language/English/Vocabulary/DungeonsAndDesktops)
@@ -390,18 +390,18 @@
 * Learned Helplessness
 	* [Overfitting](/Knowledge/Humanities/Philosophy/Overfitting)
 * Biology
-	* [Bimanual Coordination](/Knowledge/Science/Biology/Bimanual%20Coordination)
-	* [Emotion](/Knowledge/Science/Biology/Emotion)
-	* [ColorSpace](/Knowledge/Science/Physics/ColorSpace)
-	* [Strength Training](/Knowledge/Science/Physiology/Strength%20Training)
+	* [Bimanual Coordination](/Knowledge/Natural%20Science/Biology/Bimanual%20Coordination)
+	* [Emotion](/Knowledge/Natural%20Science/Biology/Emotion)
+	* [ColorSpace](/Knowledge/Natural%20Science/Physics/ColorSpace)
+	* [Strength Training](/Knowledge/Natural%20Science/Physiology/Strength%20Training)
 * Evolution
-	* [Epigenetics](/Knowledge/Science/Biology/Epigenetics)
-	* [Brain](/Knowledge/Science/Evolution/Brain)
-	* [Sleeping](/Knowledge/Science/Evolution/Sleeping)
+	* [Epigenetics](/Knowledge/Natural%20Science/Biology/Epigenetics)
+	* [Brain](/Knowledge/Natural%20Science/Evolution/Brain)
+	* [Sleeping](/Knowledge/Natural%20Science/Evolution/Sleeping)
 * Mathematics
-	* [Game Theory](/Knowledge/Science/Mathematics/Game%20Theory)
+	* [Game Theory](/Knowledge/Natural%20Science/Mathematics/Game%20Theory)
 * Economics
-	* [Game Theory](/Knowledge/Science/Mathematics/Game%20Theory)
+	* [Game Theory](/Knowledge/Natural%20Science/Mathematics/Game%20Theory)
 	* [Behavioral Finance](/Knowledge/Social%20Science/Economy/Behavioral%20Finance)
 	* [Business Model](/Knowledge/Social%20Science/Economy/Business%20Model)
 	* [Company](/Knowledge/Social%20Science/Economy/Company)
@@ -414,28 +414,18 @@
 	* [Startup](/Knowledge/Social%20Science/Economy/Startup)
 	* [UBI](/Knowledge/Social%20Science/Economy/UBI)
 * Mental Toughness
-	* [Game Theory](/Knowledge/Science/Mathematics/Game%20Theory)
+	* [Game Theory](/Knowledge/Natural%20Science/Mathematics/Game%20Theory)
 * Sport Psychology
-	* [Game Theory](/Knowledge/Science/Mathematics/Game%20Theory)
-	* [Strength Training](/Knowledge/Science/Physiology/Strength%20Training)
+	* [Game Theory](/Knowledge/Natural%20Science/Mathematics/Game%20Theory)
+	* [Strength Training](/Knowledge/Natural%20Science/Physiology/Strength%20Training)
 * Nash Equilibrium
-	* [Game Theory](/Knowledge/Science/Mathematics/Game%20Theory)
+	* [Game Theory](/Knowledge/Natural%20Science/Mathematics/Game%20Theory)
 	* [Investing](/Knowledge/Social%20Science/Economy/Investing)
 * Physics
-	* [ColorSpace](/Knowledge/Science/Physics/ColorSpace)
-	* [Strength Training](/Knowledge/Science/Physiology/Strength%20Training)
+	* [ColorSpace](/Knowledge/Natural%20Science/Physics/ColorSpace)
+	* [Strength Training](/Knowledge/Natural%20Science/Physiology/Strength%20Training)
 * 營養師Ricky's Time
-	* [Strength Training](/Knowledge/Science/Physiology/Strength%20Training)
-* Programming
-	* [GraphicAPIs](/Knowledge/Science/Programming/GraphicAPIs)
-	* [musicxml](/Knowledge/Science/Programming/musicxml)
-	* [Copyright](/Knowledge/Social%20Science/Law/Copyright)
-* DirectX
-	* [GraphicAPIs](/Knowledge/Science/Programming/GraphicAPIs)
-* OpenGL
-	* [GraphicAPIs](/Knowledge/Science/Programming/GraphicAPIs)
-* Graphics
-	* [GraphicAPIs](/Knowledge/Science/Programming/GraphicAPIs)
+	* [Strength Training](/Knowledge/Natural%20Science/Physiology/Strength%20Training)
 * 在地上滾的工程師 Nic
 	* [Career Planning](/Knowledge/Social%20Science/Career%20Planning)
 	* [Investing2](/Knowledge/Social%20Science/Economy/Investing2)
@@ -485,6 +475,10 @@
 	* [Startup](/Knowledge/Social%20Science/Economy/Startup)
 * Sociology
 	* [Startup](/Knowledge/Social%20Science/Economy/Startup)
+* Programming
+	* [Copyright](/Knowledge/Social%20Science/Law/Copyright)
+	* [GraphicAPIs](/Knowledge/Technology/Programming/GraphicAPIs)
+	* [musicxml](/Knowledge/Technology/Programming/musicxml)
 * Law
 	* [Copyright](/Knowledge/Social%20Science/Law/Copyright)
 * Lisence
@@ -503,7 +497,18 @@
 	* [HowToUseChatGPT](/Knowledge/Technology/HowToUseChatGPT)
 	* [Music Training Apps](/Knowledge/Technology/Music%20Training%20Apps)
 	* [Productivity Tools](/Knowledge/Technology/Productivity%20Tools)
+* Github
+	* [Easy Domain](/Knowledge/Technology/Easy%20Domain)
+	* [Knowledge Management](/Knowledge/Technology/Knowledge%20Management)
 * DRM
 	* [eBook](/Knowledge/Technology/eBook)
+* Obsidian
+	* [Knowledge Management](/Knowledge/Technology/Knowledge%20Management)
 * 科技旅人毛巾Vincent
 	* [Productivity Tools](/Knowledge/Technology/Productivity%20Tools)
+* DirectX
+	* [GraphicAPIs](/Knowledge/Technology/Programming/GraphicAPIs)
+* OpenGL
+	* [GraphicAPIs](/Knowledge/Technology/Programming/GraphicAPIs)
+* Graphics
+	* [GraphicAPIs](/Knowledge/Technology/Programming/GraphicAPIs)
