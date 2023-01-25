@@ -8,8 +8,6 @@ cd ./Knowledge
 
 ./run.bat
 
-mv Tags _Tags
-
 cd ..
 
 
