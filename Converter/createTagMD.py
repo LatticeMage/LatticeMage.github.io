@@ -36,12 +36,12 @@ if __name__ == '__main__':
                             tags[tag] = []
                             tags[tag].append(path)
 
-    # create ./Tags/README.md
+    # create ./_Tags/README.md
     try:
-        os.mkdir("./Tags")
+        os.mkdir("./_Tags")
     except:
         pass
-    with open("./Tags/README.md", "w",encoding="utf-8") as f:
+    with open("./_Tags/README.md", "w",encoding="utf-8") as f:
         if '' in tags:
             tags.pop('')
         else:

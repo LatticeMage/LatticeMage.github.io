@@ -28,6 +28,6 @@ if __name__ == '__main__':
                 os.rename(f, matchObj.group(1)+matchObj.group(2)+"\README.md")
             else:
                 pass
-    os.rename("./Tags/README/README.md", "./Tags/README.md")
-    shutil.rmtree("./Tags/README")
-    # os.remove("./Tags/README")
+    os.rename("./_Tags/README/README.md", "./_Tags/README.md")
+    shutil.rmtree("./_Tags/README")
+    # os.remove("./_Tags/README")
