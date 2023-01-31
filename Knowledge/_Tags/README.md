@@ -252,6 +252,7 @@
 	* [UBI](/Knowledge/Social%20Science/Economy/UBI)
 * MoneyXYZ
 	* [Economy YT](/Knowledge/Art/Youtuber/Economy%20YT)
+	* [Lying Flat](/Knowledge/Social%20Science/Lying%20Flat)
 	* [Financial Independence](/Knowledge/Social%20Science/Economy/Financial%20Independence)
 * Gooaye 股癌
 	* [Economy YT](/Knowledge/Art/Youtuber/Economy%20YT)
@@ -353,6 +354,7 @@
 * 老石谈芯
 	* [Science YT](/Knowledge/Art/Youtuber/Science%20YT)
 	* [Investing2](/Knowledge/Social%20Science/Economy/Investing2)
+	* [Knowledge Management](/Knowledge/Technology/Knowledge%20Management)
 	* [Productivity Tools](/Knowledge/Technology/Productivity%20Tools)
 * 黃瑽寧醫師健康講堂
 	* [Science YT](/Knowledge/Art/Youtuber/Science%20YT)
@@ -428,7 +430,10 @@
 	* [Strength Training](/Knowledge/Science/Physiology/Strength%20Training)
 * 在地上滾的工程師 Nic
 	* [Career Planning](/Knowledge/Social%20Science/Career%20Planning)
+	* [Interview](/Knowledge/Social%20Science/Interview)
 	* [Investing2](/Knowledge/Social%20Science/Economy/Investing2)
+* 胃酸人 위산맨
+	* [Lying Flat](/Knowledge/Social%20Science/Lying%20Flat)
 * 陳寗 NingSelect
 	* [Business Model](/Knowledge/Social%20Science/Economy/Business%20Model)
 	* [Investing](/Knowledge/Social%20Science/Economy/Investing)
@@ -505,6 +510,8 @@
 * Obsidian
 	* [Knowledge Management](/Knowledge/Technology/Knowledge%20Management)
 * Markdown
+	* [Knowledge Management](/Knowledge/Technology/Knowledge%20Management)
+* 回到Axton
 	* [Knowledge Management](/Knowledge/Technology/Knowledge%20Management)
 * 科技旅人毛巾Vincent
 	* [Productivity Tools](/Knowledge/Technology/Productivity%20Tools)
