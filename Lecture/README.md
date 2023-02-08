@@ -1,6 +1,5 @@
 # 
 
-[AI溝通師](./AI溝通師/)  
 [README](./README/)  
 [_Tags](./_Tags/)  
 [作曲](./作曲/)  
