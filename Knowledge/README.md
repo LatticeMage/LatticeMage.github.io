@@ -1,10 +1,10 @@
 # 
 
 [ACGN](./ACGN/)  
+[Applied Sciences](./Applied Sciences/)  
 [Art](./Art/)  
 [Humanities](./Humanities/)  
+[Natural Science](./Natural Science/)  
 [README](./README/)  
-[Science](./Science/)  
 [Social Science](./Social Science/)  
-[Technology](./Technology/)  
 [_Tags](./_Tags/)  

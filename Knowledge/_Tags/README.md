@@ -47,6 +47,7 @@
 	* [ルナティックドーン](/Knowledge/ACGN/Game/Rouguelike/ルナティックドーン)
 	* [ACGN YT](/Knowledge/Art/Youtuber/ACGN%20YT)
 * Drawing
+	* [CSPHotKey](/Knowledge/Applied%20Sciences/Technology/CSPHotKey)
 	* [Anthropotomy](/Knowledge/Art/Drawing/Anthropotomy)
 	* [Chroma](/Knowledge/Art/Drawing/Chroma)
 	* [Copy](/Knowledge/Art/Drawing/Copy)
@@ -54,7 +55,67 @@
 	* [Perspective](/Knowledge/Art/Drawing/Perspective)
 	* [抖抖村](/Knowledge/Art/Drawing/抖抖村)
 	* [繪師](/Knowledge/Art/Drawing/繪師)
-	* [CSPHotKey](/Knowledge/Technology/CSPHotKey)
+* Technology
+	* [CSPHotKey](/Knowledge/Applied%20Sciences/Technology/CSPHotKey)
+	* [eBook](/Knowledge/Applied%20Sciences/Technology/eBook)
+	* [HowToUseChatGPT](/Knowledge/Applied%20Sciences/Technology/HowToUseChatGPT)
+	* [Music Training Apps](/Knowledge/Applied%20Sciences/Technology/Music%20Training%20Apps)
+	* [Productivity Tools](/Knowledge/Applied%20Sciences/Technology/Productivity%20Tools)
+* Github
+	* [Easy Domain](/Knowledge/Applied%20Sciences/Technology/Easy%20Domain)
+	* [Knowledge Management](/Knowledge/Applied%20Sciences/Technology/Knowledge%20Management)
+* DRM
+	* [eBook](/Knowledge/Applied%20Sciences/Technology/eBook)
+* AI
+	* [HowToUseChatGPT](/Knowledge/Applied%20Sciences/Technology/HowToUseChatGPT)
+	* [Conpetitive Product Analysis](/Knowledge/Social%20Science/Economy/Conpetitive%20Product%20Analysis)
+* Obsidian
+	* [Knowledge Management](/Knowledge/Applied%20Sciences/Technology/Knowledge%20Management)
+* Markdown
+	* [Knowledge Management](/Knowledge/Applied%20Sciences/Technology/Knowledge%20Management)
+* 老石谈芯
+	* [Knowledge Management](/Knowledge/Applied%20Sciences/Technology/Knowledge%20Management)
+	* [Productivity Tools](/Knowledge/Applied%20Sciences/Technology/Productivity%20Tools)
+	* [Science YT](/Knowledge/Art/Youtuber/Science%20YT)
+	* [Investing2](/Knowledge/Social%20Science/Economy/Investing2)
+* 回到Axton
+	* [Knowledge Management](/Knowledge/Applied%20Sciences/Technology/Knowledge%20Management)
+* Music
+	* [Music Training Apps](/Knowledge/Applied%20Sciences/Technology/Music%20Training%20Apps)
+	* [Instrument](/Knowledge/Art/Music/Instrument)
+	* [Music Theory](/Knowledge/Art/Music/Music%20Theory)
+* 林亦LYi
+	* [Productivity Tools](/Knowledge/Applied%20Sciences/Technology/Productivity%20Tools)
+	* [Science YT](/Knowledge/Art/Youtuber/Science%20YT)
+* 即凉Lion
+	* [Productivity Tools](/Knowledge/Applied%20Sciences/Technology/Productivity%20Tools)
+	* [Investing2](/Knowledge/Social%20Science/Economy/Investing2)
+	* [Self-management](/Knowledge/Social%20Science/Psychology/Self-management)
+* 科技旅人毛巾Vincent
+	* [Productivity Tools](/Knowledge/Applied%20Sciences/Technology/Productivity%20Tools)
+* Programming
+	* [GraphicAPIs](/Knowledge/Applied%20Sciences/Technology/Programming/GraphicAPIs)
+	* [musicxml](/Knowledge/Applied%20Sciences/Technology/Programming/musicxml)
+	* [Copyright](/Knowledge/Social%20Science/Law/Copyright)
+* DirectX
+	* [GraphicAPIs](/Knowledge/Applied%20Sciences/Technology/Programming/GraphicAPIs)
+* OpenGL
+	* [GraphicAPIs](/Knowledge/Applied%20Sciences/Technology/Programming/GraphicAPIs)
+* Graphics
+	* [GraphicAPIs](/Knowledge/Applied%20Sciences/Technology/Programming/GraphicAPIs)
+* Music Theory
+	* [musicxml](/Knowledge/Applied%20Sciences/Technology/Programming/musicxml)
+	* [Bass Line](/Knowledge/Art/Music/Music%20Theory/Bass%20Line)
+	* [Chord Notation](/Knowledge/Art/Music/Music%20Theory/Chord%20Notation)
+	* [Circle of fifths](/Knowledge/Art/Music/Music%20Theory/Circle%20of%20fifths)
+	* [Diatonic](/Knowledge/Art/Music/Music%20Theory/Diatonic)
+	* [Interval](/Knowledge/Art/Music/Music%20Theory/Interval)
+	* [Overtone  and Harmonic](/Knowledge/Art/Music/Music%20Theory/Overtone%20%20and%20Harmonic)
+	* [Pitch](/Knowledge/Art/Music/Music%20Theory/Pitch)
+	* [Scale and Modes](/Knowledge/Art/Music/Music%20Theory/Scale%20and%20Modes)
+	* [Solfege](/Knowledge/Art/Music/Music%20Theory/Solfege)
+	* [Vocal](/Knowledge/Art/Music/Music%20Theory/Vocal)
+	* [Voice Leading](/Knowledge/Art/Music/Music%20Theory/Voice%20Leading)
 * Krenz's Artwork
 	* [Anthropotomy](/Knowledge/Art/Drawing/Anthropotomy)
 	* [Chroma](/Knowledge/Art/Drawing/Chroma)
@@ -66,7 +127,7 @@
 	* [Growing](/Knowledge/Social%20Science/Psychology/Growing)
 * Color
 	* [Chroma](/Knowledge/Art/Drawing/Chroma)
-	* [ColorSpace](/Knowledge/Science/Physics/ColorSpace)
+	* [ColorSpace](/Knowledge/Natural%20Science/Physics/ColorSpace)
 * 抖抖村
 	* [Chroma](/Knowledge/Art/Drawing/Chroma)
 	* [Copy](/Knowledge/Art/Drawing/Copy)
@@ -78,13 +139,9 @@
 * 李永乐老师
 	* [Perspective](/Knowledge/Art/Drawing/Perspective)
 	* [Science YT](/Knowledge/Art/Youtuber/Science%20YT)
-	* [Game Theory](/Knowledge/Science/Mathematics/Game%20Theory)
+	* [Game Theory](/Knowledge/Natural%20Science/Mathematics/Game%20Theory)
 	* [Behavioral Finance](/Knowledge/Social%20Science/Economy/Behavioral%20Finance)
 	* [Investing](/Knowledge/Social%20Science/Economy/Investing)
-* Music
-	* [Instrument](/Knowledge/Art/Music/Instrument)
-	* [Music Theory](/Knowledge/Art/Music/Music%20Theory)
-	* [Music Training Apps](/Knowledge/Technology/Music%20Training%20Apps)
 * Adam Neely
 	* [Music Theory](/Knowledge/Art/Music/Music%20Theory)
 	* [Music Theroy YT](/Knowledge/Art/Youtuber/Music%20Theroy%20YT)
@@ -150,19 +207,6 @@
 	* [Musician](/Knowledge/Art/Music/Musician)
 * DISMENTOPIA Taiwan
 	* [Musician](/Knowledge/Art/Music/Musician)
-* Music Theory
-	* [Bass Line](/Knowledge/Art/Music/Music%20Theory/Bass%20Line)
-	* [Chord Notation](/Knowledge/Art/Music/Music%20Theory/Chord%20Notation)
-	* [Circle of fifths](/Knowledge/Art/Music/Music%20Theory/Circle%20of%20fifths)
-	* [Diatonic](/Knowledge/Art/Music/Music%20Theory/Diatonic)
-	* [Interval](/Knowledge/Art/Music/Music%20Theory/Interval)
-	* [Overtone  and Harmonic](/Knowledge/Art/Music/Music%20Theory/Overtone%20%20and%20Harmonic)
-	* [Pitch](/Knowledge/Art/Music/Music%20Theory/Pitch)
-	* [Scale and Modes](/Knowledge/Art/Music/Music%20Theory/Scale%20and%20Modes)
-	* [Solfege](/Knowledge/Art/Music/Music%20Theory/Solfege)
-	* [Vocal](/Knowledge/Art/Music/Music%20Theory/Vocal)
-	* [Voice Leading](/Knowledge/Art/Music/Music%20Theory/Voice%20Leading)
-	* [musicxml](/Knowledge/Technology/Programming/musicxml)
 * NiceChord+ (好和弦+)
 	* [Bass Line](/Knowledge/Art/Music/Music%20Theory/Bass%20Line)
 	* [Chord Notation](/Knowledge/Art/Music/Music%20Theory/Chord%20Notation)
@@ -252,6 +296,7 @@
 	* [UBI](/Knowledge/Social%20Science/Economy/UBI)
 * MoneyXYZ
 	* [Economy YT](/Knowledge/Art/Youtuber/Economy%20YT)
+	* [Anti-capitalism](/Knowledge/Social%20Science/Anti-capitalism)
 	* [Lying Flat](/Knowledge/Social%20Science/Lying%20Flat)
 	* [Financial Independence](/Knowledge/Social%20Science/Economy/Financial%20Independence)
 * Gooaye 股癌
@@ -306,7 +351,7 @@
 	* [Growing](/Knowledge/Social%20Science/Psychology/Growing)
 * Psychology
 	* [Psychology YT](/Knowledge/Art/Youtuber/Psychology%20YT)
-	* [Emotion](/Knowledge/Science/Biology/Emotion)
+	* [Emotion](/Knowledge/Natural%20Science/Biology/Emotion)
 	* [Investing2](/Knowledge/Social%20Science/Economy/Investing2)
 	* [Bullying](/Knowledge/Social%20Science/Psychology/Bullying)
 	* [DID](/Knowledge/Social%20Science/Psychology/DID)
@@ -333,11 +378,12 @@
 	* [Science YT](/Knowledge/Art/Youtuber/Science%20YT)
 * 超級歪 SuperY
 	* [Science YT](/Knowledge/Art/Youtuber/Science%20YT)
+	* [Anti-capitalism](/Knowledge/Social%20Science/Anti-capitalism)
 	* [Financial Independence](/Knowledge/Social%20Science/Economy/Financial%20Independence)
 	* [UBI](/Knowledge/Social%20Science/Economy/UBI)
 * 眼见为识
 	* [Science YT](/Knowledge/Art/Youtuber/Science%20YT)
-	* [ColorSpace](/Knowledge/Science/Physics/ColorSpace)
+	* [ColorSpace](/Knowledge/Natural%20Science/Physics/ColorSpace)
 * 妈咪说MommyTalk
 	* [Science YT](/Knowledge/Art/Youtuber/Science%20YT)
 * 3Blue1Brown
@@ -348,14 +394,6 @@
 	* [Science YT](/Knowledge/Art/Youtuber/Science%20YT)
 * 极客湾Geekerwan
 	* [Science YT](/Knowledge/Art/Youtuber/Science%20YT)
-* 林亦LYi
-	* [Science YT](/Knowledge/Art/Youtuber/Science%20YT)
-	* [Productivity Tools](/Knowledge/Technology/Productivity%20Tools)
-* 老石谈芯
-	* [Science YT](/Knowledge/Art/Youtuber/Science%20YT)
-	* [Investing2](/Knowledge/Social%20Science/Economy/Investing2)
-	* [Knowledge Management](/Knowledge/Technology/Knowledge%20Management)
-	* [Productivity Tools](/Knowledge/Technology/Productivity%20Tools)
 * 黃瑽寧醫師健康講堂
 	* [Science YT](/Knowledge/Art/Youtuber/Science%20YT)
 * 蒼藍鴿的醫學天地
@@ -364,21 +402,21 @@
 	* [Strength Training YT](/Knowledge/Art/Youtuber/Strength%20Training%20YT)
 * 白天手術房晚上健身房
 	* [Strength Training YT](/Knowledge/Art/Youtuber/Strength%20Training%20YT)
-	* [Strength Training](/Knowledge/Science/Physiology/Strength%20Training)
+	* [Strength Training](/Knowledge/Natural%20Science/Physiology/Strength%20Training)
 * SBD Taiwan 邱個
 	* [Strength Training YT](/Knowledge/Art/Youtuber/Strength%20Training%20YT)
-	* [Strength Training](/Knowledge/Science/Physiology/Strength%20Training)
+	* [Strength Training](/Knowledge/Natural%20Science/Physiology/Strength%20Training)
 	* [Investing2](/Knowledge/Social%20Science/Economy/Investing2)
 	* [Growing](/Knowledge/Social%20Science/Psychology/Growing)
 * 健人蓋伊
 	* [Strength Training YT](/Knowledge/Art/Youtuber/Strength%20Training%20YT)
 * CYFIT兆佑
 	* [Strength Training YT](/Knowledge/Art/Youtuber/Strength%20Training%20YT)
-	* [Strength Training](/Knowledge/Science/Physiology/Strength%20Training)
+	* [Strength Training](/Knowledge/Natural%20Science/Physiology/Strength%20Training)
 	* [Growing](/Knowledge/Social%20Science/Psychology/Growing)
 * Tao
 	* [Strength Training YT](/Knowledge/Art/Youtuber/Strength%20Training%20YT)
-	* [Strength Training](/Knowledge/Science/Physiology/Strength%20Training)
+	* [Strength Training](/Knowledge/Natural%20Science/Physiology/Strength%20Training)
 * English
 	* [Arcanum](/Knowledge/Humanities/Language/English/Vocabulary/Arcanum)
 	* [DungeonsAndDesktops](/Knowledge/Humanities/Language/English/Vocabulary/DungeonsAndDesktops)
@@ -392,18 +430,18 @@
 * Learned Helplessness
 	* [Overfitting](/Knowledge/Humanities/Philosophy/Overfitting)
 * Biology
-	* [Bimanual Coordination](/Knowledge/Science/Biology/Bimanual%20Coordination)
-	* [Emotion](/Knowledge/Science/Biology/Emotion)
-	* [ColorSpace](/Knowledge/Science/Physics/ColorSpace)
-	* [Strength Training](/Knowledge/Science/Physiology/Strength%20Training)
+	* [Bimanual Coordination](/Knowledge/Natural%20Science/Biology/Bimanual%20Coordination)
+	* [Emotion](/Knowledge/Natural%20Science/Biology/Emotion)
+	* [ColorSpace](/Knowledge/Natural%20Science/Physics/ColorSpace)
+	* [Strength Training](/Knowledge/Natural%20Science/Physiology/Strength%20Training)
 * Evolution
-	* [Epigenetics](/Knowledge/Science/Biology/Epigenetics)
-	* [Brain](/Knowledge/Science/Evolution/Brain)
-	* [Sleeping](/Knowledge/Science/Evolution/Sleeping)
+	* [Epigenetics](/Knowledge/Natural%20Science/Biology/Epigenetics)
+	* [Brain](/Knowledge/Natural%20Science/Evolution/Brain)
+	* [Sleeping](/Knowledge/Natural%20Science/Evolution/Sleeping)
 * Mathematics
-	* [Game Theory](/Knowledge/Science/Mathematics/Game%20Theory)
+	* [Game Theory](/Knowledge/Natural%20Science/Mathematics/Game%20Theory)
 * Economics
-	* [Game Theory](/Knowledge/Science/Mathematics/Game%20Theory)
+	* [Game Theory](/Knowledge/Natural%20Science/Mathematics/Game%20Theory)
 	* [Behavioral Finance](/Knowledge/Social%20Science/Economy/Behavioral%20Finance)
 	* [Business Model](/Knowledge/Social%20Science/Economy/Business%20Model)
 	* [Company](/Knowledge/Social%20Science/Economy/Company)
@@ -416,18 +454,18 @@
 	* [Startup](/Knowledge/Social%20Science/Economy/Startup)
 	* [UBI](/Knowledge/Social%20Science/Economy/UBI)
 * Mental Toughness
-	* [Game Theory](/Knowledge/Science/Mathematics/Game%20Theory)
+	* [Game Theory](/Knowledge/Natural%20Science/Mathematics/Game%20Theory)
 * Sport Psychology
-	* [Game Theory](/Knowledge/Science/Mathematics/Game%20Theory)
-	* [Strength Training](/Knowledge/Science/Physiology/Strength%20Training)
+	* [Game Theory](/Knowledge/Natural%20Science/Mathematics/Game%20Theory)
+	* [Strength Training](/Knowledge/Natural%20Science/Physiology/Strength%20Training)
 * Nash Equilibrium
-	* [Game Theory](/Knowledge/Science/Mathematics/Game%20Theory)
+	* [Game Theory](/Knowledge/Natural%20Science/Mathematics/Game%20Theory)
 	* [Investing](/Knowledge/Social%20Science/Economy/Investing)
 * Physics
-	* [ColorSpace](/Knowledge/Science/Physics/ColorSpace)
-	* [Strength Training](/Knowledge/Science/Physiology/Strength%20Training)
+	* [ColorSpace](/Knowledge/Natural%20Science/Physics/ColorSpace)
+	* [Strength Training](/Knowledge/Natural%20Science/Physiology/Strength%20Training)
 * 營養師Ricky's Time
-	* [Strength Training](/Knowledge/Science/Physiology/Strength%20Training)
+	* [Strength Training](/Knowledge/Natural%20Science/Physiology/Strength%20Training)
 * 在地上滾的工程師 Nic
 	* [Career Planning](/Knowledge/Social%20Science/Career%20Planning)
 	* [Interview](/Knowledge/Social%20Science/Interview)
@@ -439,9 +477,6 @@
 	* [Investing](/Knowledge/Social%20Science/Economy/Investing)
 * Government
 	* [Company](/Knowledge/Social%20Science/Economy/Company)
-* AI
-	* [Conpetitive Product Analysis](/Knowledge/Social%20Science/Economy/Conpetitive%20Product%20Analysis)
-	* [HowToUseChatGPT](/Knowledge/Technology/HowToUseChatGPT)
 * Mindset
 	* [Financial Independence](/Knowledge/Social%20Science/Economy/Financial%20Independence)
 	* [Investing](/Knowledge/Social%20Science/Economy/Investing)
@@ -454,10 +489,6 @@
 * Investing
 	* [Investing2](/Knowledge/Social%20Science/Economy/Investing2)
 	* [Investing3](/Knowledge/Social%20Science/Economy/Investing3)
-* 即凉Lion
-	* [Investing2](/Knowledge/Social%20Science/Economy/Investing2)
-	* [Self-management](/Knowledge/Social%20Science/Psychology/Self-management)
-	* [Productivity Tools](/Knowledge/Technology/Productivity%20Tools)
 * Yale Chen (陳頁真)
 	* [Multiple Careers](/Knowledge/Social%20Science/Economy/Multiple%20Careers)
 * Ms.Selena
@@ -480,10 +511,6 @@
 	* [Startup](/Knowledge/Social%20Science/Economy/Startup)
 * Sociology
 	* [Startup](/Knowledge/Social%20Science/Economy/Startup)
-* Programming
-	* [Copyright](/Knowledge/Social%20Science/Law/Copyright)
-	* [GraphicAPIs](/Knowledge/Technology/Programming/GraphicAPIs)
-	* [musicxml](/Knowledge/Technology/Programming/musicxml)
 * Law
 	* [Copyright](/Knowledge/Social%20Science/Law/Copyright)
 * Lisence
@@ -496,28 +523,3 @@
 	* [Self-management](/Knowledge/Social%20Science/Psychology/Self-management)
 * Shawna 手写的小日常
 	* [Self-management](/Knowledge/Social%20Science/Psychology/Self-management)
-* Technology
-	* [CSPHotKey](/Knowledge/Technology/CSPHotKey)
-	* [eBook](/Knowledge/Technology/eBook)
-	* [HowToUseChatGPT](/Knowledge/Technology/HowToUseChatGPT)
-	* [Music Training Apps](/Knowledge/Technology/Music%20Training%20Apps)
-	* [Productivity Tools](/Knowledge/Technology/Productivity%20Tools)
-* Github
-	* [Easy Domain](/Knowledge/Technology/Easy%20Domain)
-	* [Knowledge Management](/Knowledge/Technology/Knowledge%20Management)
-* DRM
-	* [eBook](/Knowledge/Technology/eBook)
-* Obsidian
-	* [Knowledge Management](/Knowledge/Technology/Knowledge%20Management)
-* Markdown
-	* [Knowledge Management](/Knowledge/Technology/Knowledge%20Management)
-* 回到Axton
-	* [Knowledge Management](/Knowledge/Technology/Knowledge%20Management)
-* 科技旅人毛巾Vincent
-	* [Productivity Tools](/Knowledge/Technology/Productivity%20Tools)
-* DirectX
-	* [GraphicAPIs](/Knowledge/Technology/Programming/GraphicAPIs)
-* OpenGL
-	* [GraphicAPIs](/Knowledge/Technology/Programming/GraphicAPIs)
-* Graphics
-	* [GraphicAPIs](/Knowledge/Technology/Programming/GraphicAPIs)

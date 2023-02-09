@@ -1,5 +1,6 @@
 # Social Science
 
+[Anti-capitalism](./Anti-capitalism/)  
 [Career Planning](./Career Planning/)  
 [Communication](./Communication/)  
 [Economy](./Economy/)  

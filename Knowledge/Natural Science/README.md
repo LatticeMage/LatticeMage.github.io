@@ -1,4 +1,4 @@
-# Science
+# Natural Science
 
 [Biology](./Biology/)  
 [Evolution](./Evolution/)  
