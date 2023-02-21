@@ -2,8 +2,6 @@
     Business Model.md
 
 
-* [QuantumNecro] 商業模式 - 飛輪效應
-  * Business Model
 * [QuantumNecro] 對面AI時代
   * 
 * [QuantumNecro] Overfitting 奧卡姆剃刀法則
@@ -15,7 +13,6 @@
   * Mental Toughness
   * Risk-embracement
 * [QuantumNecro] 多重能力 斜槓 躺平 UBI
-* [QuantumNecro] all-in 避險
 
 
 
