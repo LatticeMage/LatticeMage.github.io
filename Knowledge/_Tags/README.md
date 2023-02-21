@@ -489,13 +489,11 @@
 * Investing
 	* [Investing2](/Knowledge/Social%20Science/Economy/Investing2)
 	* [Investing3](/Knowledge/Social%20Science/Economy/Investing3)
+* 【官方】Iku老師的房間
+	* [Multiple Careers](/Knowledge/Social%20Science/Economy/Multiple%20Careers)
 * Yale Chen (陳頁真)
 	* [Multiple Careers](/Knowledge/Social%20Science/Economy/Multiple%20Careers)
 * Ms.Selena
-	* [Multiple Careers](/Knowledge/Social%20Science/Economy/Multiple%20Careers)
-* 90後創業家掃地僧
-	* [Multiple Careers](/Knowledge/Social%20Science/Economy/Multiple%20Careers)
-* 【官方】Iku老師的房間
 	* [Multiple Careers](/Knowledge/Social%20Science/Economy/Multiple%20Careers)
 * All-in
 	* [Startup](/Knowledge/Social%20Science/Economy/Startup)
