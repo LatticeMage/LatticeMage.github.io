@@ -484,6 +484,7 @@
 * Better Leaf 好葉
 	* [Financial Independence](/Knowledge/Social%20Science/Economy/Financial%20Independence)
 	* [Investing2](/Knowledge/Social%20Science/Economy/Investing2)
+	* [Multiple Careers](/Knowledge/Social%20Science/Economy/Multiple%20Careers)
 * 好棒Bump
 	* [Investing](/Knowledge/Social%20Science/Economy/Investing)
 * Investing
