@@ -77,7 +77,7 @@
 	* [Knowledge Management](/Knowledge/Applied%20Sciences/Technology/Knowledge%20Management)
 	* [Productivity Tools](/Knowledge/Applied%20Sciences/Technology/Productivity%20Tools)
 	* [Science YT](/Knowledge/Art/Youtuber/Science%20YT)
-	* [Investing2](/Knowledge/Social%20Science/Economy/Investing2)
+	* [Mental Toughness](/Knowledge/Social%20Science/Psychology/Mental%20Toughness)
 * 回到Axton
 	* [Knowledge Management](/Knowledge/Applied%20Sciences/Technology/Knowledge%20Management)
 * Music
@@ -89,7 +89,7 @@
 	* [Science YT](/Knowledge/Art/Youtuber/Science%20YT)
 * 即凉Lion
 	* [Productivity Tools](/Knowledge/Applied%20Sciences/Technology/Productivity%20Tools)
-	* [Investing2](/Knowledge/Social%20Science/Economy/Investing2)
+	* [Mental Toughness](/Knowledge/Social%20Science/Psychology/Mental%20Toughness)
 	* [Self-management](/Knowledge/Social%20Science/Psychology/Self-management)
 * 科技旅人毛巾Vincent
 	* [Productivity Tools](/Knowledge/Applied%20Sciences/Technology/Productivity%20Tools)
@@ -261,7 +261,7 @@
 * 小六SixPoker
 	* [Competition YT](/Knowledge/Art/Youtuber/Competition%20YT)
 	* [Investing](/Knowledge/Social%20Science/Economy/Investing)
-	* [Investing3](/Knowledge/Social%20Science/Economy/Investing3)
+	* [Investing2](/Knowledge/Social%20Science/Economy/Investing2)
 * 肉泥Ronnie
 	* [Competition YT](/Knowledge/Art/Youtuber/Competition%20YT)
 	* [Investing](/Knowledge/Social%20Science/Economy/Investing)
@@ -292,8 +292,9 @@
 	* [Economy YT](/Knowledge/Art/Youtuber/Economy%20YT)
 	* [Financial Independence](/Knowledge/Social%20Science/Economy/Financial%20Independence)
 	* [Investing2](/Knowledge/Social%20Science/Economy/Investing2)
-	* [Investing3](/Knowledge/Social%20Science/Economy/Investing3)
+	* [Multiple Careers](/Knowledge/Social%20Science/Economy/Multiple%20Careers)
 	* [UBI](/Knowledge/Social%20Science/Economy/UBI)
+	* [Mental Toughness](/Knowledge/Social%20Science/Psychology/Mental%20Toughness)
 * MoneyXYZ
 	* [Economy YT](/Knowledge/Art/Youtuber/Economy%20YT)
 	* [Anti-capitalism](/Knowledge/Social%20Science/Anti-capitalism)
@@ -303,7 +304,7 @@
 	* [Economy YT](/Knowledge/Art/Youtuber/Economy%20YT)
 	* [Financial Independence](/Knowledge/Social%20Science/Economy/Financial%20Independence)
 	* [Investing](/Knowledge/Social%20Science/Economy/Investing)
-	* [Investing3](/Knowledge/Social%20Science/Economy/Investing3)
+	* [Investing2](/Knowledge/Social%20Science/Economy/Investing2)
 * All-In Podcast
 	* [Economy YT](/Knowledge/Art/Youtuber/Economy%20YT)
 * 雷瑪莉歐
@@ -320,7 +321,7 @@
 * Ryan Wu
 	* [Economy YT](/Knowledge/Art/Youtuber/Economy%20YT)
 	* [Business Model](/Knowledge/Social%20Science/Economy/Business%20Model)
-	* [Investing2](/Knowledge/Social%20Science/Economy/Investing2)
+	* [Mental Toughness](/Knowledge/Social%20Science/Psychology/Mental%20Toughness)
 	* [Self-management](/Knowledge/Social%20Science/Psychology/Self-management)
 * History
 	* [History YT](/Knowledge/Art/Youtuber/History%20YT)
@@ -352,12 +353,12 @@
 * Psychology
 	* [Psychology YT](/Knowledge/Art/Youtuber/Psychology%20YT)
 	* [Emotion](/Knowledge/Natural%20Science/Biology/Emotion)
-	* [Investing2](/Knowledge/Social%20Science/Economy/Investing2)
 	* [Bullying](/Knowledge/Social%20Science/Psychology/Bullying)
 	* [DID](/Knowledge/Social%20Science/Psychology/DID)
 	* [Emotional Blackmail](/Knowledge/Social%20Science/Psychology/Emotional%20Blackmail)
 	* [Growing](/Knowledge/Social%20Science/Psychology/Growing)
 	* [Learning Ability](/Knowledge/Social%20Science/Psychology/Learning%20Ability)
+	* [Mental Toughness](/Knowledge/Social%20Science/Psychology/Mental%20Toughness)
 	* [Mental Toughness](/Knowledge/Social%20Science/Psychology/Mental%20Toughness)
 	* [Motivation](/Knowledge/Social%20Science/Psychology/Motivation)
 	* [Sport Psychology](/Knowledge/Social%20Science/Psychology/Sport%20Psychology)
@@ -406,8 +407,8 @@
 * SBD Taiwan 邱個
 	* [Strength Training YT](/Knowledge/Art/Youtuber/Strength%20Training%20YT)
 	* [Strength Training](/Knowledge/Natural%20Science/Physiology/Strength%20Training)
-	* [Investing2](/Knowledge/Social%20Science/Economy/Investing2)
 	* [Growing](/Knowledge/Social%20Science/Psychology/Growing)
+	* [Mental Toughness](/Knowledge/Social%20Science/Psychology/Mental%20Toughness)
 * 健人蓋伊
 	* [Strength Training YT](/Knowledge/Art/Youtuber/Strength%20Training%20YT)
 * CYFIT兆佑
@@ -425,8 +426,8 @@
 * Philosophy
 	* [Overfitting](/Knowledge/Humanities/Philosophy/Overfitting)
 	* [Financial Independence](/Knowledge/Social%20Science/Economy/Financial%20Independence)
-	* [Investing2](/Knowledge/Social%20Science/Economy/Investing2)
 	* [Analytical Thinking](/Knowledge/Social%20Science/Psychology/Analytical%20Thinking)
+	* [Mental Toughness](/Knowledge/Social%20Science/Psychology/Mental%20Toughness)
 * Learned Helplessness
 	* [Overfitting](/Knowledge/Humanities/Philosophy/Overfitting)
 * Biology
@@ -449,7 +450,6 @@
 	* [Financial Independence](/Knowledge/Social%20Science/Economy/Financial%20Independence)
 	* [Investing](/Knowledge/Social%20Science/Economy/Investing)
 	* [Investing2](/Knowledge/Social%20Science/Economy/Investing2)
-	* [Investing3](/Knowledge/Social%20Science/Economy/Investing3)
 	* [Multiple Careers](/Knowledge/Social%20Science/Economy/Multiple%20Careers)
 	* [Startup](/Knowledge/Social%20Science/Economy/Startup)
 	* [UBI](/Knowledge/Social%20Science/Economy/UBI)
@@ -469,32 +469,29 @@
 * 在地上滾的工程師 Nic
 	* [Career Planning](/Knowledge/Social%20Science/Career%20Planning)
 	* [Interview](/Knowledge/Social%20Science/Interview)
-	* [Investing2](/Knowledge/Social%20Science/Economy/Investing2)
+	* [Mental Toughness](/Knowledge/Social%20Science/Psychology/Mental%20Toughness)
 * 胃酸人 위산맨
 	* [Lying Flat](/Knowledge/Social%20Science/Lying%20Flat)
 * 陳寗 NingSelect
 	* [Business Model](/Knowledge/Social%20Science/Economy/Business%20Model)
 	* [Investing](/Knowledge/Social%20Science/Economy/Investing)
+	* [Multiple Careers](/Knowledge/Social%20Science/Economy/Multiple%20Careers)
 * Government
 	* [Company](/Knowledge/Social%20Science/Economy/Company)
 * Mindset
 	* [Financial Independence](/Knowledge/Social%20Science/Economy/Financial%20Independence)
 	* [Investing](/Knowledge/Social%20Science/Economy/Investing)
-	* [Investing2](/Knowledge/Social%20Science/Economy/Investing2)
+	* [Mental Toughness](/Knowledge/Social%20Science/Psychology/Mental%20Toughness)
 * Better Leaf 好葉
 	* [Financial Independence](/Knowledge/Social%20Science/Economy/Financial%20Independence)
-	* [Investing2](/Knowledge/Social%20Science/Economy/Investing2)
 	* [Multiple Careers](/Knowledge/Social%20Science/Economy/Multiple%20Careers)
+	* [Mental Toughness](/Knowledge/Social%20Science/Psychology/Mental%20Toughness)
 * 好棒Bump
 	* [Investing](/Knowledge/Social%20Science/Economy/Investing)
 * Investing
 	* [Investing2](/Knowledge/Social%20Science/Economy/Investing2)
-	* [Investing3](/Knowledge/Social%20Science/Economy/Investing3)
+	* [Mental Toughness](/Knowledge/Social%20Science/Psychology/Mental%20Toughness)
 * 【官方】Iku老師的房間
-	* [Multiple Careers](/Knowledge/Social%20Science/Economy/Multiple%20Careers)
-* Yale Chen (陳頁真)
-	* [Multiple Careers](/Knowledge/Social%20Science/Economy/Multiple%20Careers)
-* Ms.Selena
 	* [Multiple Careers](/Knowledge/Social%20Science/Economy/Multiple%20Careers)
 * All-in
 	* [Startup](/Knowledge/Social%20Science/Economy/Startup)

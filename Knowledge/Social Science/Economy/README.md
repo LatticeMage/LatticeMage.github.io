@@ -7,7 +7,6 @@
 [Financial Independence](./Financial Independence/)  
 [Investing](./Investing/)  
 [Investing2](./Investing2/)  
-[Investing3](./Investing3/)  
 [Multiple Careers](./Multiple Careers/)  
 [Startup](./Startup/)  
 [UBI](./UBI/)  
