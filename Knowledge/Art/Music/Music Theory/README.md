@@ -45,5 +45,6 @@ tags:
 [Pitch](./Pitch/)  
 [Scale and Modes](./Scale and Modes/)  
 [Solfege](./Solfege/)  
+[Transcribing](./Transcribing/)  
 [Vocal](./Vocal/)  
 [Voice Leading](./Voice Leading/)  

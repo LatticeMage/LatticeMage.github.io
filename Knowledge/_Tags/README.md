@@ -114,6 +114,7 @@
 	* [Pitch](/Knowledge/Art/Music/Music%20Theory/Pitch)
 	* [Scale and Modes](/Knowledge/Art/Music/Music%20Theory/Scale%20and%20Modes)
 	* [Solfege](/Knowledge/Art/Music/Music%20Theory/Solfege)
+	* [Transcribing](/Knowledge/Art/Music/Music%20Theory/Transcribing)
 	* [Vocal](/Knowledge/Art/Music/Music%20Theory/Vocal)
 	* [Voice Leading](/Knowledge/Art/Music/Music%20Theory/Voice%20Leading)
 * Krenz's Artwork
@@ -215,6 +216,7 @@
 	* [Overtone  and Harmonic](/Knowledge/Art/Music/Music%20Theory/Overtone%20%20and%20Harmonic)
 	* [Pitch](/Knowledge/Art/Music/Music%20Theory/Pitch)
 	* [Scale and Modes](/Knowledge/Art/Music/Music%20Theory/Scale%20and%20Modes)
+	* [Transcribing](/Knowledge/Art/Music/Music%20Theory/Transcribing)
 	* [Voice Leading](/Knowledge/Art/Music/Music%20Theory/Voice%20Leading)
 	* [Music Theroy YT](/Knowledge/Art/Youtuber/Music%20Theroy%20YT)
 * Figured Bass
