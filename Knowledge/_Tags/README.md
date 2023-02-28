@@ -294,7 +294,7 @@
 	* [Economy YT](/Knowledge/Art/Youtuber/Economy%20YT)
 	* [Financial Independence](/Knowledge/Social%20Science/Economy/Financial%20Independence)
 	* [Investing2](/Knowledge/Social%20Science/Economy/Investing2)
-	* [Multiple Careers](/Knowledge/Social%20Science/Economy/Multiple%20Careers)
+	* [Outcome-oriented](/Knowledge/Social%20Science/Economy/Outcome-oriented)
 	* [UBI](/Knowledge/Social%20Science/Economy/UBI)
 	* [Mental Toughness](/Knowledge/Social%20Science/Psychology/Mental%20Toughness)
 * MoneyXYZ
@@ -445,6 +445,7 @@
 	* [Game Theory](/Knowledge/Natural%20Science/Mathematics/Game%20Theory)
 * Economics
 	* [Game Theory](/Knowledge/Natural%20Science/Mathematics/Game%20Theory)
+	* [All-in](/Knowledge/Social%20Science/Economy/All-in)
 	* [Behavioral Finance](/Knowledge/Social%20Science/Economy/Behavioral%20Finance)
 	* [Business Model](/Knowledge/Social%20Science/Economy/Business%20Model)
 	* [Company](/Knowledge/Social%20Science/Economy/Company)
@@ -452,11 +453,11 @@
 	* [Financial Independence](/Knowledge/Social%20Science/Economy/Financial%20Independence)
 	* [Investing](/Knowledge/Social%20Science/Economy/Investing)
 	* [Investing2](/Knowledge/Social%20Science/Economy/Investing2)
-	* [Multiple Careers](/Knowledge/Social%20Science/Economy/Multiple%20Careers)
-	* [Startup](/Knowledge/Social%20Science/Economy/Startup)
+	* [Outcome-oriented](/Knowledge/Social%20Science/Economy/Outcome-oriented)
 	* [UBI](/Knowledge/Social%20Science/Economy/UBI)
 * Mental Toughness
 	* [Game Theory](/Knowledge/Natural%20Science/Mathematics/Game%20Theory)
+	* [All-in](/Knowledge/Social%20Science/Economy/All-in)
 * Sport Psychology
 	* [Game Theory](/Knowledge/Natural%20Science/Mathematics/Game%20Theory)
 	* [Strength Training](/Knowledge/Natural%20Science/Physiology/Strength%20Training)
@@ -474,10 +475,22 @@
 	* [Mental Toughness](/Knowledge/Social%20Science/Psychology/Mental%20Toughness)
 * 胃酸人 위산맨
 	* [Lying Flat](/Knowledge/Social%20Science/Lying%20Flat)
+* Startup
+	* [All-in](/Knowledge/Social%20Science/Economy/All-in)
+* Hedging
+	* [All-in](/Knowledge/Social%20Science/Economy/All-in)
+* Risk-taking
+	* [All-in](/Knowledge/Social%20Science/Economy/All-in)
+* Calculated risk-taking / strategic risk-taking 
+	* [All-in](/Knowledge/Social%20Science/Economy/All-in)
+* Entrepreneurship
+	* [All-in](/Knowledge/Social%20Science/Economy/All-in)
+* Sociology
+	* [All-in](/Knowledge/Social%20Science/Economy/All-in)
 * 陳寗 NingSelect
 	* [Business Model](/Knowledge/Social%20Science/Economy/Business%20Model)
 	* [Investing](/Knowledge/Social%20Science/Economy/Investing)
-	* [Multiple Careers](/Knowledge/Social%20Science/Economy/Multiple%20Careers)
+	* [Outcome-oriented](/Knowledge/Social%20Science/Economy/Outcome-oriented)
 * Government
 	* [Company](/Knowledge/Social%20Science/Economy/Company)
 * Mindset
@@ -486,7 +499,7 @@
 	* [Mental Toughness](/Knowledge/Social%20Science/Psychology/Mental%20Toughness)
 * Better Leaf 好葉
 	* [Financial Independence](/Knowledge/Social%20Science/Economy/Financial%20Independence)
-	* [Multiple Careers](/Knowledge/Social%20Science/Economy/Multiple%20Careers)
+	* [Outcome-oriented](/Knowledge/Social%20Science/Economy/Outcome-oriented)
 	* [Mental Toughness](/Knowledge/Social%20Science/Psychology/Mental%20Toughness)
 * 好棒Bump
 	* [Investing](/Knowledge/Social%20Science/Economy/Investing)
@@ -494,21 +507,7 @@
 	* [Investing2](/Knowledge/Social%20Science/Economy/Investing2)
 	* [Mental Toughness](/Knowledge/Social%20Science/Psychology/Mental%20Toughness)
 * 【官方】Iku老師的房間
-	* [Multiple Careers](/Knowledge/Social%20Science/Economy/Multiple%20Careers)
-* All-in
-	* [Startup](/Knowledge/Social%20Science/Economy/Startup)
-* Hedging
-	* [Startup](/Knowledge/Social%20Science/Economy/Startup)
-* Risk-taking
-	* [Startup](/Knowledge/Social%20Science/Economy/Startup)
-* Mental toughness
-	* [Startup](/Knowledge/Social%20Science/Economy/Startup)
-* Calculated risk-taking / strategic risk-taking 
-	* [Startup](/Knowledge/Social%20Science/Economy/Startup)
-* Entrepreneurship
-	* [Startup](/Knowledge/Social%20Science/Economy/Startup)
-* Sociology
-	* [Startup](/Knowledge/Social%20Science/Economy/Startup)
+	* [Outcome-oriented](/Knowledge/Social%20Science/Economy/Outcome-oriented)
 * Law
 	* [Copyright](/Knowledge/Social%20Science/Law/Copyright)
 * Lisence

@@ -1,5 +1,6 @@
 # Economy
 
+[All-in](./All-in/)  
 [Behavioral Finance](./Behavioral Finance/)  
 [Business Model](./Business Model/)  
 [Company](./Company/)  
@@ -7,6 +8,5 @@
 [Financial Independence](./Financial Independence/)  
 [Investing](./Investing/)  
 [Investing2](./Investing2/)  
-[Multiple Careers](./Multiple Careers/)  
-[Startup](./Startup/)  
+[Outcome-oriented](./Outcome-oriented/)  
 [UBI](./UBI/)  
