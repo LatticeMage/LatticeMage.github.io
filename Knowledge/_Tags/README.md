@@ -508,6 +508,8 @@
 	* [Mental Toughness](/Knowledge/Social%20Science/Psychology/Mental%20Toughness)
 * 【官方】Iku老師的房間
 	* [Outcome-oriented](/Knowledge/Social%20Science/Economy/Outcome-oriented)
+* 思維咖啡
+	* [Outcome-oriented](/Knowledge/Social%20Science/Economy/Outcome-oriented)
 * Law
 	* [Copyright](/Knowledge/Social%20Science/Law/Copyright)
 * Lisence
