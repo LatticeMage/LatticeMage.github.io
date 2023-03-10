@@ -58,6 +58,7 @@
 * AI
 	* [Traditional AI](/Knowledge/Applied%20Sciences/Algorithm/Traditional%20AI)
 	* [HowToUseChatGPT](/Knowledge/Applied%20Sciences/Technology/HowToUseChatGPT)
+	* [一切只不過是藍色窗簾](/Knowledge/Humanities/Philosophy/一切只不過是藍色窗簾)
 	* [Conpetitive Product Analysis](/Knowledge/Social%20Science/Economy/Conpetitive%20Product%20Analysis)
 	* [世界冠軍被輾壓的感覺](/Knowledge/Social%20Science/Psychology/世界冠軍被輾壓的感覺)
 * Drawing
@@ -458,12 +459,23 @@
 	* [Life Planning](/Knowledge/Humanities/Philosophy/Life%20Planning)
 * Philosophy
 	* [Overfitting](/Knowledge/Humanities/Philosophy/Overfitting)
+	* [一切只不過是藍色窗簾](/Knowledge/Humanities/Philosophy/一切只不過是藍色窗簾)
+	* [尼采哲學是自相矛盾的](/Knowledge/Humanities/Philosophy/尼采哲學是自相矛盾的)
 	* [馬克思資本主義終點](/Knowledge/Humanities/Philosophy/馬克思資本主義終點)
 	* [Financial Independence](/Knowledge/Social%20Science/Economy/Financial%20Independence)
 	* [Analytical Thinking](/Knowledge/Social%20Science/Psychology/Analytical%20Thinking)
 	* [Mental Toughness](/Knowledge/Social%20Science/Psychology/Mental%20Toughness)
 * Learned Helplessness
 	* [Overfitting](/Knowledge/Humanities/Philosophy/Overfitting)
+* Cthulhu
+	* [一切只不過是藍色窗簾](/Knowledge/Humanities/Philosophy/一切只不過是藍色窗簾)
+* Albert Einstein
+	* [一切只不過是藍色窗簾](/Knowledge/Humanities/Philosophy/一切只不過是藍色窗簾)
+* Friedrich Nietzsche
+	* [尼采哲學是自相矛盾的](/Knowledge/Humanities/Philosophy/尼采哲學是自相矛盾的)
+	* [馬克思資本主義終點](/Knowledge/Humanities/Philosophy/馬克思資本主義終點)
+* Karl Marx
+	* [馬克思資本主義終點](/Knowledge/Humanities/Philosophy/馬克思資本主義終點)
 * Biology
 	* [Bimanual Coordination](/Knowledge/Natural%20Science/Biology/Bimanual%20Coordination)
 	* [Emotion](/Knowledge/Natural%20Science/Biology/Emotion)
@@ -508,6 +520,8 @@
 	* [Strength Training](/Knowledge/Natural%20Science/Physiology/Strength%20Training)
 * 營養師Ricky's Time
 	* [Strength Training](/Knowledge/Natural%20Science/Physiology/Strength%20Training)
+* Military
+	* [當兵準備物品](/Knowledge/Others/Military/當兵準備物品)
 * 在地上滾的工程師 Nic
 	* [Career Planning](/Knowledge/Social%20Science/Career%20Planning)
 	* [Interview](/Knowledge/Social%20Science/Interview)
