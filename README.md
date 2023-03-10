@@ -1,4 +1,4 @@
-# <img src="http://www.posetmage.com/Icon/New/QuantumNecro_t.png" Height="32" /> PosetMage Wiki <img src="http://www.posetmage.com/Icon/New/QuantumNecro_t.png" Height="32" />
+# <img src="http://www.posetmage.com/Icon/New/QuantumNecro_t.png" Height="32" /> LatticeMage <img src="http://www.posetmage.com/Icon/New/QuantumNecro_t.png" Height="32" />
 
 此站為PosetMage的wiki分站，如果想要回到主站，請至 [posetmage.com](https://posetmage.com)
 
@@ -8,18 +8,6 @@
 ## [上課教材](/Lecture/)
 上課教材是1v1家教用的講義
 
-## [About PosetMage](http://www.posetmage.com/resume/)
+## [About Me](http://posetmage.com/about/)
 
-## 其他站外連結
-  * 主頻道 <img src="http://www.posetmage.com/Icon/New/PosetMage_t.png" Height="32" /> PosetMage 
-    * [PosetMage Youtube](https://www.youtube.com/@PosetMage)
-    * [PosetMage FB](https://www.facebook.com/posetmage)    
-    * [PosetMage Blogger](https://posetmage.blogspot.com/)
-  * 副頻道 <img src="http://www.posetmage.com/Icon/New/QuantumNecro_t.png" Height="32" /> LatticeMage
-    * [LatticeMage Youtube](https://www.youtube.com/@LatticeMage)
-    * [LatticeMage FB](https://www.facebook.com/LatticeMage)
-    * [LatticeMage Blogger](http://LatticeMage.blogspot.com/)
-  * 聯絡方式
-    * Mail: mail@posetmage.com
-    * Discord: posetmage#3649
-    * Telegram: https://t.me/PosetMage
+## [Contact](http://posetmage.com/contact/)
