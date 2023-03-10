@@ -8,6 +8,6 @@
 ## [上課教材](/Lecture/)
 上課教材是1v1家教用的講義
 
-## [About Me](http://posetmage.com/about/)
+## [About Me](http://posetmage.com/About/)
 
-## [Contact](http://posetmage.com/contact/)
+## [Contact](http://posetmage.com/Contact/)
