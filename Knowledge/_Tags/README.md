@@ -53,6 +53,9 @@
 	* [資工笑話](/Knowledge/Applied%20Sciences/資工笑話)
 * Engineering
 	* [資工笑話](/Knowledge/Applied%20Sciences/資工笑話)
+* Dunning–Kruger effect
+	* [資工笑話](/Knowledge/Applied%20Sciences/資工笑話)
+	* [Some Coding Arctile](/Knowledge/Applied%20Sciences/Technology/Programming/Some%20Coding%20Arctile)
 * Algorithm
 	* [Traditional AI](/Knowledge/Applied%20Sciences/Algorithm/Traditional%20AI)
 * AI
@@ -115,6 +118,7 @@
 * Programming
 	* [GraphicAPIs](/Knowledge/Applied%20Sciences/Technology/Programming/GraphicAPIs)
 	* [musicxml](/Knowledge/Applied%20Sciences/Technology/Programming/musicxml)
+	* [Some Coding Arctile](/Knowledge/Applied%20Sciences/Technology/Programming/Some%20Coding%20Arctile)
 	* [Copyright](/Knowledge/Social%20Science/Law/Copyright)
 * DirectX
 	* [GraphicAPIs](/Knowledge/Applied%20Sciences/Technology/Programming/GraphicAPIs)
@@ -136,6 +140,8 @@
 	* [Transcribing](/Knowledge/Art/Music/Music%20Theory/Transcribing)
 	* [Vocal](/Knowledge/Art/Music/Music%20Theory/Vocal)
 	* [Voice Leading](/Knowledge/Art/Music/Music%20Theory/Voice%20Leading)
+* Computational Thinking
+	* [Some Coding Arctile](/Knowledge/Applied%20Sciences/Technology/Programming/Some%20Coding%20Arctile)
 * UI/UX
 	* [FaviconDesign](/Knowledge/Applied%20Sciences/UI/FaviconDesign)
 * favicon
@@ -391,6 +397,7 @@
 	* [Mental Toughness](/Knowledge/Social%20Science/Psychology/Mental%20Toughness)
 	* [Mental Toughness](/Knowledge/Social%20Science/Psychology/Mental%20Toughness)
 	* [Motivation](/Knowledge/Social%20Science/Psychology/Motivation)
+	* [Psychoanalysis](/Knowledge/Social%20Science/Psychology/Psychoanalysis)
 	* [Sport Psychology](/Knowledge/Social%20Science/Psychology/Sport%20Psychology)
 * 維思維WeisWay
 	* [Psychology YT](/Knowledge/Art/Youtuber/Psychology%20YT)
@@ -506,6 +513,7 @@
 	* [Outcome-oriented](/Knowledge/Social%20Science/Economy/Outcome-oriented)
 	* [UBI](/Knowledge/Social%20Science/Economy/UBI)
 	* [Visionary Leadership](/Knowledge/Social%20Science/Economy/Visionary%20Leadership)
+	* [廠商如何做到獨佔還有其外部性結果](/Knowledge/Social%20Science/Economy/廠商如何做到獨佔還有其外部性結果)
 * Mental Toughness
 	* [Game Theory](/Knowledge/Natural%20Science/Mathematics/Game%20Theory)
 	* [All-in](/Knowledge/Social%20Science/Economy/All-in)
@@ -550,11 +558,12 @@
 	* [Financial Independence](/Knowledge/Social%20Science/Economy/Financial%20Independence)
 	* [Investing](/Knowledge/Social%20Science/Economy/Investing)
 	* [Mental Toughness](/Knowledge/Social%20Science/Psychology/Mental%20Toughness)
-* 好棒Bump
-	* [Investing](/Knowledge/Social%20Science/Economy/Investing)
 * Investing
+	* [Investing Books](/Knowledge/Social%20Science/Economy/Investing%20Books)
 	* [Investing2](/Knowledge/Social%20Science/Economy/Investing2)
 	* [Mental Toughness](/Knowledge/Social%20Science/Psychology/Mental%20Toughness)
+* 好棒Bump
+	* [Investing](/Knowledge/Social%20Science/Economy/Investing)
 * 【官方】Iku老師的房間
 	* [Outcome-oriented](/Knowledge/Social%20Science/Economy/Outcome-oriented)
 * 思維咖啡

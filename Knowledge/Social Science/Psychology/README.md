@@ -8,6 +8,7 @@
 [Learning Ability](./Learning Ability/)  
 [Mental Toughness](./Mental Toughness/)  
 [Motivation](./Motivation/)  
+[Psychoanalysis](./Psychoanalysis/)  
 [Risk-embracement](./Risk-embracement/)  
 [Self-management](./Self-management/)  
 [Sport Psychology](./Sport Psychology/)  
