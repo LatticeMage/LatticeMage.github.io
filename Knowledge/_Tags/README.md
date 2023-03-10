@@ -1,6 +1,7 @@
 * Game
 	* [Game Classification](/Knowledge/ACGN/Game/Game%20Classification)
 	* [Rouguelike](/Knowledge/ACGN/Game/Rouguelike)
+	* [SteamTools](/Knowledge/ACGN/Game/SteamTools)
 	* [Arcanum](/Knowledge/Humanities/Language/English/Vocabulary/Arcanum)
 	* [DungeonsAndDesktops](/Knowledge/Humanities/Language/English/Vocabulary/DungeonsAndDesktops)
 	* [サノバウィッチ](/Knowledge/Humanities/Language/Japanese/Vocabulary/サノバウィッチ)
@@ -22,6 +23,8 @@
 	* [Game Designer](/Knowledge/ACGN/Game/Game%20Designer)
 	* [Game Designing](/Knowledge/ACGN/Game/Game%20Designing)
 	* [ACGN YT](/Knowledge/Art/Youtuber/ACGN%20YT)
+* Steam
+	* [SteamTools](/Knowledge/ACGN/Game/SteamTools)
 * Galgame
 	* [GalgameMaker](/Knowledge/ACGN/Game/AVG/Galgame/GalgameMaker)
 * AVG
@@ -117,6 +120,10 @@
 	* [Transcribing](/Knowledge/Art/Music/Music%20Theory/Transcribing)
 	* [Vocal](/Knowledge/Art/Music/Music%20Theory/Vocal)
 	* [Voice Leading](/Knowledge/Art/Music/Music%20Theory/Voice%20Leading)
+* UI/UX
+	* [FaviconDesign](/Knowledge/Applied%20Sciences/UI/FaviconDesign)
+* favicon
+	* [FaviconDesign](/Knowledge/Applied%20Sciences/UI/FaviconDesign)
 * Krenz's Artwork
 	* [Anthropotomy](/Knowledge/Art/Drawing/Anthropotomy)
 	* [Chroma](/Knowledge/Art/Drawing/Chroma)
