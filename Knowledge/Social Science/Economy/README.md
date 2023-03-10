@@ -10,3 +10,4 @@
 [Investing2](./Investing2/)  
 [Outcome-oriented](./Outcome-oriented/)  
 [UBI](./UBI/)  
+[Visionary Leadership](./Visionary Leadership/)  

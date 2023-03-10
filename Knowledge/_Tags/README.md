@@ -49,6 +49,12 @@
 * 老孫聊遊戲
 	* [ルナティックドーン](/Knowledge/ACGN/Game/Rouguelike/ルナティックドーン)
 	* [ACGN YT](/Knowledge/Art/Youtuber/ACGN%20YT)
+* Algorithm
+	* [Traditional AI](/Knowledge/Applied%20Sciences/Algorithm/Traditional%20AI)
+* AI
+	* [Traditional AI](/Knowledge/Applied%20Sciences/Algorithm/Traditional%20AI)
+	* [HowToUseChatGPT](/Knowledge/Applied%20Sciences/Technology/HowToUseChatGPT)
+	* [Conpetitive Product Analysis](/Knowledge/Social%20Science/Economy/Conpetitive%20Product%20Analysis)
 * Drawing
 	* [CSPHotKey](/Knowledge/Applied%20Sciences/Technology/CSPHotKey)
 	* [Anthropotomy](/Knowledge/Art/Drawing/Anthropotomy)
@@ -69,9 +75,6 @@
 	* [Knowledge Management](/Knowledge/Applied%20Sciences/Technology/Knowledge%20Management)
 * DRM
 	* [eBook](/Knowledge/Applied%20Sciences/Technology/eBook)
-* AI
-	* [HowToUseChatGPT](/Knowledge/Applied%20Sciences/Technology/HowToUseChatGPT)
-	* [Conpetitive Product Analysis](/Knowledge/Social%20Science/Economy/Conpetitive%20Product%20Analysis)
 * Obsidian
 	* [Knowledge Management](/Knowledge/Applied%20Sciences/Technology/Knowledge%20Management)
 * Markdown
@@ -330,6 +333,7 @@
 * Ryan Wu
 	* [Economy YT](/Knowledge/Art/Youtuber/Economy%20YT)
 	* [Business Model](/Knowledge/Social%20Science/Economy/Business%20Model)
+	* [Visionary Leadership](/Knowledge/Social%20Science/Economy/Visionary%20Leadership)
 	* [Mental Toughness](/Knowledge/Social%20Science/Psychology/Mental%20Toughness)
 	* [Self-management](/Knowledge/Social%20Science/Psychology/Self-management)
 * History
@@ -432,6 +436,10 @@
 	* [DungeonsAndDesktops](/Knowledge/Humanities/Language/English/Vocabulary/DungeonsAndDesktops)
 * Japanese
 	* [サノバウィッチ](/Knowledge/Humanities/Language/Japanese/Vocabulary/サノバウィッチ)
+* Life
+	* [Life Planning](/Knowledge/Humanities/Philosophy/Life%20Planning)
+* Bimanual Coordination
+	* [Life Planning](/Knowledge/Humanities/Philosophy/Life%20Planning)
 * Philosophy
 	* [Overfitting](/Knowledge/Humanities/Philosophy/Overfitting)
 	* [Financial Independence](/Knowledge/Social%20Science/Economy/Financial%20Independence)
@@ -462,6 +470,7 @@
 	* [Investing2](/Knowledge/Social%20Science/Economy/Investing2)
 	* [Outcome-oriented](/Knowledge/Social%20Science/Economy/Outcome-oriented)
 	* [UBI](/Knowledge/Social%20Science/Economy/UBI)
+	* [Visionary Leadership](/Knowledge/Social%20Science/Economy/Visionary%20Leadership)
 * Mental Toughness
 	* [Game Theory](/Knowledge/Natural%20Science/Mathematics/Game%20Theory)
 	* [All-in](/Knowledge/Social%20Science/Economy/All-in)
@@ -517,6 +526,8 @@
 	* [Outcome-oriented](/Knowledge/Social%20Science/Economy/Outcome-oriented)
 * 思維咖啡
 	* [Outcome-oriented](/Knowledge/Social%20Science/Economy/Outcome-oriented)
+* Business
+	* [Visionary Leadership](/Knowledge/Social%20Science/Economy/Visionary%20Leadership)
 * Law
 	* [Copyright](/Knowledge/Social%20Science/Law/Copyright)
 * Lisence
