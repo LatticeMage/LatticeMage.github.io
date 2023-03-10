@@ -1,6 +1,6 @@
-git config --local user.name "QuantumNecro"
-git config --local user.email "QuantumNecro@users.noreply.github.com"
-git remote set-url origin git@AAL:QuantumNecro/QuantumNecro.github.io.git
+git config --local user.name "LatticeMage"
+git config --local user.email "LatticeMage@users.noreply.github.com"
+git remote set-url origin git@AAL:LatticeMage/LatticeMage.github.io.git
 
 git pull
 
