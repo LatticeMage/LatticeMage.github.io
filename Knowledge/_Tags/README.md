@@ -49,12 +49,17 @@
 * 老孫聊遊戲
 	* [ルナティックドーン](/Knowledge/ACGN/Game/Rouguelike/ルナティックドーン)
 	* [ACGN YT](/Knowledge/Art/Youtuber/ACGN%20YT)
+* in-joke
+	* [資工笑話](/Knowledge/Applied%20Sciences/資工笑話)
+* Engineering
+	* [資工笑話](/Knowledge/Applied%20Sciences/資工笑話)
 * Algorithm
 	* [Traditional AI](/Knowledge/Applied%20Sciences/Algorithm/Traditional%20AI)
 * AI
 	* [Traditional AI](/Knowledge/Applied%20Sciences/Algorithm/Traditional%20AI)
 	* [HowToUseChatGPT](/Knowledge/Applied%20Sciences/Technology/HowToUseChatGPT)
 	* [Conpetitive Product Analysis](/Knowledge/Social%20Science/Economy/Conpetitive%20Product%20Analysis)
+	* [世界冠軍被輾壓的感覺](/Knowledge/Social%20Science/Psychology/世界冠軍被輾壓的感覺)
 * Drawing
 	* [CSPHotKey](/Knowledge/Applied%20Sciences/Technology/CSPHotKey)
 	* [Anthropotomy](/Knowledge/Art/Drawing/Anthropotomy)
@@ -90,6 +95,13 @@
 	* [Music Training Apps](/Knowledge/Applied%20Sciences/Technology/Music%20Training%20Apps)
 	* [Instrument](/Knowledge/Art/Music/Instrument)
 	* [Music Theory](/Knowledge/Art/Music/Music%20Theory)
+	* [Classical](/Knowledge/Art/Music/Music%20Types/Classical)
+	* [Djent](/Knowledge/Art/Music/Music%20Types/Djent)
+	* [Metal](/Knowledge/Art/Music/Music%20Types/Metal)
+	* [Minimalist](/Knowledge/Art/Music/Music%20Types/Minimalist)
+	* [PostMetal](/Knowledge/Art/Music/Music%20Types/PostMetal)
+	* [PostRock](/Knowledge/Art/Music/Music%20Types/PostRock)
+	* [Progressive Metal](/Knowledge/Art/Music/Music%20Types/Progressive%20Metal)
 * 林亦LYi
 	* [Productivity Tools](/Knowledge/Applied%20Sciences/Technology/Productivity%20Tools)
 	* [Science YT](/Knowledge/Art/Youtuber/Science%20YT)
@@ -162,6 +174,7 @@
 	* [Musician](/Knowledge/Art/Music/Musician)
 * Metal
 	* [Musician](/Knowledge/Art/Music/Musician)
+	* [Progressive Metal](/Knowledge/Art/Music/Music%20Types/Progressive%20Metal)
 * Yuki Matsui / 松井祐貴
 	* [Musician](/Knowledge/Art/Music/Musician)
 * Seiji Igusa
@@ -210,8 +223,10 @@
 	* [Musician](/Knowledge/Art/Music/Musician)
 * Jared Dines
 	* [Musician](/Knowledge/Art/Music/Musician)
+	* [Djent](/Knowledge/Art/Music/Music%20Types/Djent)
 * Steve Terreberry
 	* [Musician](/Knowledge/Art/Music/Musician)
+	* [Djent](/Knowledge/Art/Music/Music%20Types/Djent)
 * I Built The Sky
 	* [Musician](/Knowledge/Art/Music/Musician)
 * Andromida Official
@@ -338,6 +353,7 @@
 	* [Self-management](/Knowledge/Social%20Science/Psychology/Self-management)
 * History
 	* [History YT](/Knowledge/Art/Youtuber/History%20YT)
+	* [歷史的翻案](/Knowledge/Humanities/History/歷史的翻案)
 	* [Overfitting](/Knowledge/Humanities/Philosophy/Overfitting)
 * 天狗衛視
 	* [History YT](/Knowledge/Art/Youtuber/History%20YT)
@@ -442,6 +458,7 @@
 	* [Life Planning](/Knowledge/Humanities/Philosophy/Life%20Planning)
 * Philosophy
 	* [Overfitting](/Knowledge/Humanities/Philosophy/Overfitting)
+	* [馬克思資本主義終點](/Knowledge/Humanities/Philosophy/馬克思資本主義終點)
 	* [Financial Independence](/Knowledge/Social%20Science/Economy/Financial%20Independence)
 	* [Analytical Thinking](/Knowledge/Social%20Science/Psychology/Analytical%20Thinking)
 	* [Mental Toughness](/Knowledge/Social%20Science/Psychology/Mental%20Toughness)
@@ -454,8 +471,14 @@
 	* [Strength Training](/Knowledge/Natural%20Science/Physiology/Strength%20Training)
 * Evolution
 	* [Epigenetics](/Knowledge/Natural%20Science/Biology/Epigenetics)
+	* [Meditation](/Knowledge/Natural%20Science/Biology/Meditation)
 	* [Brain](/Knowledge/Natural%20Science/Evolution/Brain)
 	* [Sleeping](/Knowledge/Natural%20Science/Evolution/Sleeping)
+* Better Leaf 好葉
+	* [Meditation](/Knowledge/Natural%20Science/Biology/Meditation)
+	* [Financial Independence](/Knowledge/Social%20Science/Economy/Financial%20Independence)
+	* [Outcome-oriented](/Knowledge/Social%20Science/Economy/Outcome-oriented)
+	* [Mental Toughness](/Knowledge/Social%20Science/Psychology/Mental%20Toughness)
 * Mathematics
 	* [Game Theory](/Knowledge/Natural%20Science/Mathematics/Game%20Theory)
 * Economics
@@ -513,10 +536,6 @@
 	* [Financial Independence](/Knowledge/Social%20Science/Economy/Financial%20Independence)
 	* [Investing](/Knowledge/Social%20Science/Economy/Investing)
 	* [Mental Toughness](/Knowledge/Social%20Science/Psychology/Mental%20Toughness)
-* Better Leaf 好葉
-	* [Financial Independence](/Knowledge/Social%20Science/Economy/Financial%20Independence)
-	* [Outcome-oriented](/Knowledge/Social%20Science/Economy/Outcome-oriented)
-	* [Mental Toughness](/Knowledge/Social%20Science/Psychology/Mental%20Toughness)
 * 好棒Bump
 	* [Investing](/Knowledge/Social%20Science/Economy/Investing)
 * Investing
@@ -540,3 +559,7 @@
 	* [Self-management](/Knowledge/Social%20Science/Psychology/Self-management)
 * Shawna 手写的小日常
 	* [Self-management](/Knowledge/Social%20Science/Psychology/Self-management)
+* Competitive
+	* [世界冠軍被輾壓的感覺](/Knowledge/Social%20Science/Psychology/世界冠軍被輾壓的感覺)
+* Go
+	* [世界冠軍被輾壓的感覺](/Knowledge/Social%20Science/Psychology/世界冠軍被輾壓的感覺)
