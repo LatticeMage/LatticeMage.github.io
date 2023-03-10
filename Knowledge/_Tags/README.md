@@ -2,7 +2,6 @@
 	* [Game Classification](/Knowledge/ACGN/Game/Game%20Classification)
 	* [Rouguelike](/Knowledge/ACGN/Game/Rouguelike)
 	* [SteamTools](/Knowledge/ACGN/Game/SteamTools)
-	* [CrossGate配點歷史](/Knowledge/ACGN/Game/OLG/CrossGate配點歷史)
 	* [Arcanum](/Knowledge/Humanities/Language/English/Vocabulary/Arcanum)
 	* [DungeonsAndDesktops](/Knowledge/Humanities/Language/English/Vocabulary/DungeonsAndDesktops)
 	* [サノバウィッチ](/Knowledge/Humanities/Language/Japanese/Vocabulary/サノバウィッチ)
@@ -38,8 +37,6 @@
 	* [System Designer](/Knowledge/ACGN/Game/Designer/System%20Designer)
 * Game Design
 	* [GameFlow](/Knowledge/ACGN/Game/Designer/GameFlow)
-* OLG
-	* [CrossGate配點歷史](/Knowledge/ACGN/Game/OLG/CrossGate配點歷史)
 * Rouguelike
 	* [Cult of the Lamb](/Knowledge/ACGN/Game/Rouguelike/Cult%20of%20the%20Lamb)
 	* [ELONA](/Knowledge/ACGN/Game/Rouguelike/ELONA)
