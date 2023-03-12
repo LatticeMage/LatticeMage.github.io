@@ -61,6 +61,7 @@
 * AI
 	* [Traditional AI](/Knowledge/Applied%20Sciences/Algorithm/Traditional%20AI)
 	* [HowToUseChatGPT](/Knowledge/Applied%20Sciences/Technology/HowToUseChatGPT)
+	* [Prompt](/Knowledge/Applied%20Sciences/Technology/Prompt)
 	* [一切只不過是藍色窗簾](/Knowledge/Humanities/Philosophy/一切只不過是藍色窗簾)
 	* [Conpetitive Product Analysis](/Knowledge/Social%20Science/Economy/Conpetitive%20Product%20Analysis)
 	* [世界冠軍被輾壓的感覺](/Knowledge/Social%20Science/Psychology/世界冠軍被輾壓的感覺)
@@ -79,6 +80,7 @@
 	* [HowToUseChatGPT](/Knowledge/Applied%20Sciences/Technology/HowToUseChatGPT)
 	* [Music Training Apps](/Knowledge/Applied%20Sciences/Technology/Music%20Training%20Apps)
 	* [Productivity Tools](/Knowledge/Applied%20Sciences/Technology/Productivity%20Tools)
+	* [Prompt](/Knowledge/Applied%20Sciences/Technology/Prompt)
 * Github
 	* [Easy Domain](/Knowledge/Applied%20Sciences/Technology/Easy%20Domain)
 	* [Knowledge Management](/Knowledge/Applied%20Sciences/Technology/Knowledge%20Management)
@@ -115,6 +117,12 @@
 	* [Self-management](/Knowledge/Social%20Science/Psychology/Self-management)
 * 科技旅人毛巾Vincent
 	* [Productivity Tools](/Knowledge/Applied%20Sciences/Technology/Productivity%20Tools)
+* MoneyXYZ
+	* [Prompt](/Knowledge/Applied%20Sciences/Technology/Prompt)
+	* [Economy YT](/Knowledge/Art/Youtuber/Economy%20YT)
+	* [Anti-capitalism](/Knowledge/Social%20Science/Anti-capitalism)
+	* [Lying Flat](/Knowledge/Social%20Science/Lying%20Flat)
+	* [Financial Independence](/Knowledge/Social%20Science/Economy/Financial%20Independence)
 * Programming
 	* [GraphicAPIs](/Knowledge/Applied%20Sciences/Technology/Programming/GraphicAPIs)
 	* [musicxml](/Knowledge/Applied%20Sciences/Technology/Programming/musicxml)
@@ -329,11 +337,6 @@
 	* [Outcome-oriented](/Knowledge/Social%20Science/Economy/Outcome-oriented)
 	* [UBI](/Knowledge/Social%20Science/Economy/UBI)
 	* [Mental Toughness](/Knowledge/Social%20Science/Psychology/Mental%20Toughness)
-* MoneyXYZ
-	* [Economy YT](/Knowledge/Art/Youtuber/Economy%20YT)
-	* [Anti-capitalism](/Knowledge/Social%20Science/Anti-capitalism)
-	* [Lying Flat](/Knowledge/Social%20Science/Lying%20Flat)
-	* [Financial Independence](/Knowledge/Social%20Science/Economy/Financial%20Independence)
 * Gooaye 股癌
 	* [Economy YT](/Knowledge/Art/Youtuber/Economy%20YT)
 	* [Financial Independence](/Knowledge/Social%20Science/Economy/Financial%20Independence)
