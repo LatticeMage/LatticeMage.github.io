@@ -123,6 +123,8 @@
 	* [Anti-capitalism](/Knowledge/Social%20Science/Anti-capitalism)
 	* [Lying Flat](/Knowledge/Social%20Science/Lying%20Flat)
 	* [Financial Independence](/Knowledge/Social%20Science/Economy/Financial%20Independence)
+* 空罐王CankingSketch
+	* [Prompt](/Knowledge/Applied%20Sciences/Technology/Prompt)
 * Programming
 	* [GraphicAPIs](/Knowledge/Applied%20Sciences/Technology/Programming/GraphicAPIs)
 	* [musicxml](/Knowledge/Applied%20Sciences/Technology/Programming/musicxml)
