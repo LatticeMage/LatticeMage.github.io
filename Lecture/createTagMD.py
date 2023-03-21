@@ -41,21 +41,20 @@ if __name__ == '__main__':
         os.mkdir("./_Tags")
     except:
         pass
-    with open("./_Tags/README.md", "w",encoding="utf-8") as f:
+    with open("./_Tags/README.md", "w", encoding="utf-8") as f:
+        f.write("# _Tag\n")
         if '' in tags:
             tags.pop('')
         else:
             pass
-
+            
         for tag in tags:
             f.write("* "+tag+"\n")
             for path in tags[tag]:
-                
                 pattern = re.compile(r"(.*[$\\])(.*)(.md)") 
                 matchObj = re.match(pattern, path, flags=0)
                 path = path[1:-3].replace(" ", "%20")
                 path = path.replace("\\", "/")
                 title = "["+matchObj.group(2)+"]"
                 url = "\t* "+title+"(" + "/Knowledge" +path+")\n" 
-                
                 f.write(url)
