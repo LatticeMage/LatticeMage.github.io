@@ -12,8 +12,4 @@ LatticeMage為PosetMage的wiki分站
 
 ## [Contact](http://posetmage.com/contact/)
 
-## 其他連結
-  * [YT - LatticeMage](https://youtube.com/@LatticeMage)
-  * [FB - LatticeMage](https://www.facebook.com/LatticeMage)
-  * [TW - LatticeMage](https://twitter.com/LatticeMage)
-  * [Podcast](https://podcast.posetmage.com)
+## 主站 [PosetMage](http://posetmage.com/)
