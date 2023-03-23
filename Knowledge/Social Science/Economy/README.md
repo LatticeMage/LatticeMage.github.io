@@ -13,3 +13,4 @@
 [UBI](./UBI/)  
 [Visionary Leadership](./Visionary Leadership/)  
 [廠商如何做到獨佔還有其外部性結果](./廠商如何做到獨佔還有其外部性結果/)  
+[賭博 vs 投資](./賭博 vs 投資/)  

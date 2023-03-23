@@ -16,6 +16,7 @@
 * Gamker攻壳官方频道
 	* [Game Designer](/Knowledge/ACGN/Game/Game%20Designer)
 	* [ACGN YT](/Knowledge/Art/Youtuber/ACGN%20YT)
+	* [追求極致的意義](/Knowledge/Humanities/Philosophy/追求極致的意義)
 * Extra Credits
 	* [Game Designer](/Knowledge/ACGN/Game/Game%20Designer)
 	* [Game Designing](/Knowledge/ACGN/Game/Game%20Designing)
@@ -444,6 +445,7 @@
 	* [Science YT](/Knowledge/Art/Youtuber/Science%20YT)
 * Strength Training
 	* [Strength Training YT](/Knowledge/Art/Youtuber/Strength%20Training%20YT)
+	* [彈力帶可以練重量](/Knowledge/Natural%20Science/Physiology/彈力帶可以練重量)
 * 白天手術房晚上健身房
 	* [Strength Training YT](/Knowledge/Art/Youtuber/Strength%20Training%20YT)
 	* [Strength Training](/Knowledge/Natural%20Science/Physiology/Strength%20Training)
@@ -466,28 +468,41 @@
 	* [DungeonsAndDesktops](/Knowledge/Humanities/Language/English/Vocabulary/DungeonsAndDesktops)
 * Japanese
 	* [サノバウィッチ](/Knowledge/Humanities/Language/Japanese/Vocabulary/サノバウィッチ)
-* Life
-	* [Life Planning](/Knowledge/Humanities/Philosophy/Life%20Planning)
-* Bimanual Coordination
-	* [Life Planning](/Knowledge/Humanities/Philosophy/Life%20Planning)
 * Philosophy
+	* [ACGN才是最接近尼采哲學](/Knowledge/Humanities/Philosophy/ACGN才是最接近尼采哲學)
 	* [Overfitting](/Knowledge/Humanities/Philosophy/Overfitting)
 	* [一切只不過是藍色窗簾](/Knowledge/Humanities/Philosophy/一切只不過是藍色窗簾)
+	* [以人廢言](/Knowledge/Humanities/Philosophy/以人廢言)
+	* [任何話語都是背景問題](/Knowledge/Humanities/Philosophy/任何話語都是背景問題)
 	* [尼采哲學是自相矛盾的](/Knowledge/Humanities/Philosophy/尼采哲學是自相矛盾的)
+	* [政治跟宗教很像](/Knowledge/Humanities/Philosophy/政治跟宗教很像)
+	* [決策應該考慮誰](/Knowledge/Humanities/Philosophy/決策應該考慮誰)
+	* [決鬥的要素](/Knowledge/Humanities/Philosophy/決鬥的要素)
+	* [發現_vs_發明](/Knowledge/Humanities/Philosophy/發現_vs_發明)
+	* [追求極致的意義](/Knowledge/Humanities/Philosophy/追求極致的意義)
+	* [都只是程度上的差異](/Knowledge/Humanities/Philosophy/都只是程度上的差異)
 	* [馬克思資本主義終點](/Knowledge/Humanities/Philosophy/馬克思資本主義終點)
 	* [Financial Independence](/Knowledge/Social%20Science/Economy/Financial%20Independence)
 	* [Analytical Thinking](/Knowledge/Social%20Science/Psychology/Analytical%20Thinking)
 	* [Mental Toughness](/Knowledge/Social%20Science/Psychology/Mental%20Toughness)
+* Nietzsche
+	* [ACGN才是最接近尼采哲學](/Knowledge/Humanities/Philosophy/ACGN才是最接近尼采哲學)
+	* [尼采哲學是自相矛盾的](/Knowledge/Humanities/Philosophy/尼采哲學是自相矛盾的)
+* Life
+	* [Life Planning](/Knowledge/Humanities/Philosophy/Life%20Planning)
+* Bimanual Coordination
+	* [Life Planning](/Knowledge/Humanities/Philosophy/Life%20Planning)
 * Learned Helplessness
 	* [Overfitting](/Knowledge/Humanities/Philosophy/Overfitting)
 * Cthulhu
 	* [一切只不過是藍色窗簾](/Knowledge/Humanities/Philosophy/一切只不過是藍色窗簾)
 * Albert Einstein
 	* [一切只不過是藍色窗簾](/Knowledge/Humanities/Philosophy/一切只不過是藍色窗簾)
-* Friedrich Nietzsche
-	* [尼采哲學是自相矛盾的](/Knowledge/Humanities/Philosophy/尼采哲學是自相矛盾的)
-	* [馬克思資本主義終點](/Knowledge/Humanities/Philosophy/馬克思資本主義終點)
+* Wittgenstein
+	* [任何話語都是背景問題](/Knowledge/Humanities/Philosophy/任何話語都是背景問題)
 * Karl Marx
+	* [馬克思資本主義終點](/Knowledge/Humanities/Philosophy/馬克思資本主義終點)
+* Friedrich Nietzsche
 	* [馬克思資本主義終點](/Knowledge/Humanities/Philosophy/馬克思資本主義終點)
 * Biology
 	* [Bimanual Coordination](/Knowledge/Natural%20Science/Biology/Bimanual%20Coordination)
