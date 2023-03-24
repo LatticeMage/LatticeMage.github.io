@@ -1,4 +1,4 @@
-# _Tag
+# Tags
 * Game
 	* [Game Classification](/Knowledge/ACGN/Game/Game%20Classification)
 	* [Rouguelike](/Knowledge/ACGN/Game/Rouguelike)
