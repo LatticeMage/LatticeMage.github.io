@@ -8,6 +8,10 @@ def parse_files(folder_path, pattern, replacement):
             dirs.remove(".git")
         
         for file_name in files:
+            # Skip files that don't have the ".md" extension
+            if not file_name.endswith('.md'):
+                continue
+            
             file_path = os.path.join(root, file_name)
             
             # Skip files within the ".git" folder
@@ -31,7 +35,7 @@ folder_path = './'
 pattern = r'- \[\[\]\]'
 
 # Specify the replacement string
-replacement = '\n'
+replacement = ''
 
 # Call the function to perform the parsing
 parse_files(folder_path, pattern, replacement)

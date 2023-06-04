@@ -33,7 +33,7 @@
 tags:
   - [[Music]]
   - [[Adam Neely]]
-  - [[]]
+  
 ---
 
 [Bass Line](./Bass Line/)  
