@@ -468,6 +468,8 @@
 	* [DungeonsAndDesktops](/Knowledge/Humanities/Language/English/Vocabulary/DungeonsAndDesktops)
 * Japanese
 	* [サノバウィッチ](/Knowledge/Humanities/Language/Japanese/Vocabulary/サノバウィッチ)
+* Chen Lily
+	* [語言學觀點](/Knowledge/Humanities/Language/Linguistics/語言學觀點)
 * Philosophy
 	* [ACGN才是最接近尼采哲學](/Knowledge/Humanities/Philosophy/ACGN才是最接近尼采哲學)
 	* [Overfitting](/Knowledge/Humanities/Philosophy/Overfitting)
