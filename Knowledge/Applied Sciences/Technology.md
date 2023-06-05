@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[Creation](Creation.md)  
+[Creation](Creation)  
 [CSPHotKey](CSPHotKey.md)  
 [Easy Domain](Easy Domain.md)  
 [eBook](eBook.md)  
@@ -10,5 +10,5 @@ layout: default
 [Knowledge Management](Knowledge Management.md)  
 [Music Training Apps](Music Training Apps.md)  
 [Productivity Tools](Productivity Tools.md)  
-[Programming](Programming.md)  
+[Programming](Programming)  
 [Prompt](Prompt.md)  

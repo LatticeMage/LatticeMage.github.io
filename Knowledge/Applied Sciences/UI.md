@@ -2,5 +2,5 @@
 layout: default
 ---
 
-[FaviconDesign](FaviconDesign.md)  
+[FaviconDesign](FaviconDesign)  
 [FaviconDesign](FaviconDesign.md)  

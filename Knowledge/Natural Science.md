@@ -2,8 +2,8 @@
 layout: default
 ---
 
-[Biology](Biology.md)  
-[Evolution](Evolution.md)  
-[Mathematics](Mathematics.md)  
-[Physics](Physics.md)  
-[Physiology](Physiology.md)  
+[Biology](Biology)  
+[Evolution](Evolution)  
+[Mathematics](Mathematics)  
+[Physics](Physics)  
+[Physiology](Physiology)  

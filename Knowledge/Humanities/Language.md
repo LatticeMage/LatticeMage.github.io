@@ -2,6 +2,6 @@
 layout: default
 ---
 
-[English](English.md)  
-[Japanese](Japanese.md)  
-[Linguistics](Linguistics.md)  
+[English](English)  
+[Japanese](Japanese)  
+[Linguistics](Linguistics)  

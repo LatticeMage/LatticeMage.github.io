@@ -2,10 +2,10 @@
 layout: default
 ---
 
-[Drum](Drum.md)  
+[Drum](Drum)  
 [Instrument](Instrument.md)  
+[Music Theory](Music Theory)  
 [Music Theory](Music Theory.md)  
-[Music Theory](Music Theory.md)  
-[Music Types](Music Types.md)  
+[Music Types](Music Types)  
 [Musician](Musician.md)  
 [Websites](Websites.md)  

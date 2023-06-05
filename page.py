@@ -7,7 +7,7 @@ def write_md_file(folder_path):
     with open(f"{folder_path}.md", 'w', encoding='utf8') as f:
         for filename in glob.glob(f"{folder_path}/*"):
             # skip the .md file we're currently writing
-            if filename == f"{folder_path}.md":
+            if filename == f"{folder_path}":
                 continue
 
             # extract just the name of the file/folder, without the preceding path
@@ -15,7 +15,7 @@ def write_md_file(folder_path):
 
             # check if this is a directory
             if os.path.isdir(filename):
-                f.write(f'[{basename}]({basename}.md)  \n')  # add .md to link
+                f.write(f'[{basename}]({basename})  \n')  # add .md to link
                 # Recursively process the subdirectory
                 write_md_file(filename)
             else:

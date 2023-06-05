@@ -2,4 +2,4 @@
 layout: default
 ---
 
-[Game](Game.md)  
+[Game](Game)  
