@@ -1,14 +1,5 @@
-# Progressive Metal
-
-* Dream Theater
-* Opeth
-* Tool
-
-
 ---
-tags:
-  - [[Music]]
-  - [[Metal]]
-
+layout: default
 ---
 
+# Progressive Metal  * Dream Theater * Opeth * Tool   --- tags:   - [[Music]]   - [[Metal]]  --- 

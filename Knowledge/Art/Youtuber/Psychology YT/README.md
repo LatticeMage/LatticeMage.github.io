@@ -1,18 +1,5 @@
-# Psychology YT
-
 ---
-tags:
-  - [[Psychology]]
-  
+layout: default
 ---
 
-## Psychology
----
-tags:
-  - [[維思維WeisWay]]
-  - [[武志红讲心理]]
-  - [[馬大元]]
-  - [[冏星人]]
-  - [[安慰记心理]]
-  
----
+# Psychology YT  --- tags:   - [[Psychology]]    ---  ## Psychology --- tags:   - [[維思維WeisWay]]   - [[武�?红讲心�?]]   - [[馬大?�]]   - [[?��?人]]   - [[安慰记�??�]]    ---

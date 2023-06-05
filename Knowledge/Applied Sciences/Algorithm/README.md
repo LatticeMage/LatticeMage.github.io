@@ -1,3 +1,5 @@
-# Algorithm
+---
+layout: default
+---
 
-[Traditional AI](./Traditional AI/)  
+# Algorithm  [Traditional AI](./Traditional AI/)  

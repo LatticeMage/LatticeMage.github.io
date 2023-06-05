@@ -1,16 +1,5 @@
-# Chroma
-
-* [æŠ–æŠ–æ‘] ç‰©ç†è‰²å½©
-  * https://www.youtube.com/watch?v=ifGtg0AjRA8
-* ã€Krenzã€‘ è‰²å½©
-  * https://youtu.be/XfHLXSaYL0I?t=2269
-
-
 ---
-tags:
-  - [[Drawing]]
-  - [[Color]]
-  - [[æŠ–æŠ–æ‘]]
-  - [[Krenz's Artwork]]
-  
+layout: default
 ---
+
+# Chroma  * [?–æ??‘] ?©ç??²å½©   * https://www.youtube.com/watch?v=ifGtg0AjRA8 * ?Krenz???²å½©   * https://youtu.be/XfHLXSaYL0I?t=2269   --- tags:   - [[Drawing]]   - [[Color]]   - [[?–æ??‘]]   - [[Krenz's Artwork]]    ---

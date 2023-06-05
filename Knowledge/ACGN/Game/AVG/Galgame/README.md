@@ -1,3 +1,5 @@
-# Galgame
+---
+layout: default
+---
 
-[GalgameMaker](./GalgameMaker/)  
+# Galgame  [GalgameMaker](./GalgameMaker/)  

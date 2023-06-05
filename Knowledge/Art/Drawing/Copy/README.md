@@ -1,19 +1,5 @@
-# Copy
-
-
-* æ­£ç¢ºçš„è‡¨æ‘¹
-  * https://www.youtube.com/watch?v=GAx2YLX60_8
-* è‡¨æ‘¹
-  * https://youtu.be/kbKqIJcIUCw?t=329
-* æŠ“å‹
-  * https://www.youtube.com/watch?v=DUeVdI8cNPU
-
-
-  
 ---
-tags:
-  - [[Drawing]]
-  - [[æŠ–æŠ–æ‘]]
-  - [[Krenz's Artwork]]
-  
+layout: default
 ---
+
+# Copy   * æ­?¢º?„è‡¨??   * https://www.youtube.com/watch?v=GAx2YLX60_8 * ?¨æ‘¹   * https://youtu.be/kbKqIJcIUCw?t=329 * ?“å?   * https://www.youtube.com/watch?v=DUeVdI8cNPU      --- tags:   - [[Drawing]]   - [[?–æ??‘]]   - [[Krenz's Artwork]]    ---

@@ -1,4 +1,5 @@
-# Physiology
+---
+layout: default
+---
 
-[Strength Training](./Strength Training/)  
-[彈力帶可以練重量](./彈力帶可以練重量/)  
+# Physiology  [Strength Training](./Strength Training/)   [彈�?帶可以練?��?](./彈�?帶可以練?��?/)  

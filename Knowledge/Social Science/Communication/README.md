@@ -1,4 +1,5 @@
-# Communication
+---
+layout: default
+---
 
-[Communication](./Communication/)  
-[QuestioningSkill](./QuestioningSkill/)  
+# Communication  [Communication](./Communication/)   [QuestioningSkill](./QuestioningSkill/)  

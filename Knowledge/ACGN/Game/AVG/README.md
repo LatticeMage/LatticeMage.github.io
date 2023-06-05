@@ -1,3 +1,5 @@
-# AVG
+---
+layout: default
+---
 
-[Galgame](./Galgame/)  
+# AVG  [Galgame](./Galgame/)  

@@ -7,10 +7,6 @@ git pull
 ./Knowledge.ps1
 ./Lecture.ps1
 
-git add .
-git commit -m "upload"
-git push
-
 $files = Get-ChildItem . -include *.md -Recurse
 $frontMatter = @'
 ---
@@ -24,3 +20,9 @@ foreach ($file in $files) {
     $newContent = $frontMatter + "`n" + $content
     Set-Content -Path $file.FullName -Value $newContent
 }
+
+
+
+git add .
+git commit -m "upload"
+git push

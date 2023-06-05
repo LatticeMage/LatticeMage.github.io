@@ -1,3 +1,5 @@
-# ACGN
+---
+layout: default
+---
 
-[Game](./Game/)  
+# ACGN  [Game](./Game/)  

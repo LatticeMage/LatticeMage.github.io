@@ -1,12 +1,5 @@
-# Rouguelike
-
 ---
-tags:
-  - [[Game]]
-  
+layout: default
 ---
 
-
-[Cult of the Lamb](./Cult of the Lamb/)  
-[ELONA](./ELONA/)  
-[ルナティックドーン](./ルナティックドーン/)  
+# Rouguelike  --- tags:   - [[Game]]    ---   [Cult of the Lamb](./Cult of the Lamb/)   [ELONA](./ELONA/)   [?��??�ィ?�ク?�ー?�](./?��??�ィ?�ク?�ー??)  

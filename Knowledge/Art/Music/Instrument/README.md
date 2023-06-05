@@ -1,13 +1,5 @@
-# Instrument
-
 ---
-tags:
-  - [[Music]]
+layout: default
 ---
 
-
-## æ¬¡ä¸–ä»£é›»å­æ¨‚å™¨
-
-* seaboard
-* linnstrument
-* haken continuum fingerboard
+# Instrument  --- tags:   - [[Music]] ---   ## æ¬¡ä?ä»?›»å­æ???  * seaboard * linnstrument * haken continuum fingerboard

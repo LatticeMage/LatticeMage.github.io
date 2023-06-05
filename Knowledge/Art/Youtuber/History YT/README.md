@@ -1,16 +1,5 @@
-# History YT
-
 ---
-tags:
-  - [[History]]
-  
+layout: default
 ---
 
-## 歷史
----
-tags:
-  - [[天狗衛視]]
-  - [[cheap]]
-  - [[大理寺卿]]
-  
----
+# History YT  --- tags:   - [[History]]    ---  ## 歷史 --- tags:   - [[天�?衛�?]]   - [[cheap]]   - [[大�?寺卿]]    ---

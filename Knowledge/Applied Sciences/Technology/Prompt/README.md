@@ -1,21 +1,5 @@
-# Prompt
-
-## Websites
-* ★★★☆☆[Prompt 编写模式：如何将思维框架赋予机器](https://github.com/prompt-engineering/prompt-patterns)
-* ★☆☆☆☆ [運用「深津式泛用Prompt」讓你的ChatGPT變聰明](https://h9856.gameqb.net/2023/03/01/fukatsu-prompt/)
-* ★★★★★ [🧠 Awesome ChatGPT Prompts](https://prompts.chat/)
-* ★★★★★ [PromptHero](https://prompthero.com/)
-* ★★★★☆[Learning Prompt](https://learningprompt.wiki/docs/%F0%9F%91%8B%20Welcome)
-
-## Videos
-* ★★★★★ [ChatGPT给的机会, 你能抓住吗? (自然语言编程)](https://youtu.be/KoT08Kno10A)
-* ★★★☆☆ [【空罐王】教你如何使用DISCORD畫圖 #midjourney](https://youtu.be/uRapWGYNiBo)
-
 ---
-tags:
-  - [[Technology]]
-  - [[AI]]
-  - [[MoneyXYZ]]
-  - [[空罐王CankingSketch]]
-
+layout: default
 ---
+
+# Prompt  ## Websites * ?��??��??�[Prompt 编�?模�?：�?何�??�维框架赋�??�器](https://github.com/prompt-engineering/prompt-patterns) * ?��??��???[?�用?�深津�?泛用Prompt?��?你�?ChatGPT變聰?�](https://h9856.gameqb.net/2023/03/01/fukatsu-prompt/) * ?��??��???[?? Awesome ChatGPT Prompts](https://prompts.chat/) * ?��??��???[PromptHero](https://prompthero.com/) * ?��??��??�[Learning Prompt](https://learningprompt.wiki/docs/%F0%9F%91%8B%20Welcome)  ## Videos * ?��??��???[ChatGPT给�??��?, 你能?��??? (?�然语�?编�?)](https://youtu.be/KoT08Kno10A) * ?��??��???[?�空罐�??��?你�?何使?�DISCORD?��? #midjourney](https://youtu.be/uRapWGYNiBo)  --- tags:   - [[Technology]]   - [[AI]]   - [[MoneyXYZ]]   - [[空�??�CankingSketch]]  ---

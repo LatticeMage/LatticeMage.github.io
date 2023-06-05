@@ -1,21 +1,5 @@
-# 繪師
-
-白巾
-https://www.facebook.com/Bygin.net
-
-天之火 
-https://www.facebook.com/nnnnoooo007/photos
-
-Ｉｘｙ（いくしー）
-https://twitter.com/ixy
-
-黄光剑
-https://twitter.com/hgjart
-
-
 ---
-tags:
-  - [[Drawing]]
-  
+layout: default
 ---
 
+# 繪師  ?�巾 https://www.facebook.com/Bygin.net  天�??? https://www.facebook.com/nnnnoooo007/photos  Ｉ�?ｙ�??��??�ー�? https://twitter.com/ixy  黄�??? https://twitter.com/hgjart   --- tags:   - [[Drawing]]    --- 

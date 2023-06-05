@@ -1,10 +1,5 @@
-# 
+---
+layout: default
+---
 
-[AI溝通師](./AI溝通師/)  
-[Podcast](./Podcast/)  
-[README](./README/)  
-[_Tags](./_Tags/)  
-[作曲](./作曲/)  
-[程式](./程式/)  
-[繪圖](./繪圖/)  
-[通用](./通用/)  
+#   [AI溝通師](./AI溝通師/)   [Podcast](./Podcast/)   [README](./README/)   [_Tags](./_Tags/)   [作曲](./作曲/)   [程�?](./程�?/)   [繪�?](./繪�?/)   [?�用](./?�用/)  

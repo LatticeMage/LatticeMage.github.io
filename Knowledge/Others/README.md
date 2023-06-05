@@ -1,4 +1,5 @@
-# Others
+---
+layout: default
+---
 
-[Military](./Military/)  
-[租屋挑選要素順位](./租屋挑選要素順位/)  
+# Others  [Military](./Military/)   [租�??�選要�??��?](./租�??�選要�??��?/)  

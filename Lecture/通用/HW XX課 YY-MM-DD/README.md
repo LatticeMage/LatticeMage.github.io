@@ -1,10 +1,5 @@
-# HW XX課 YY-MM-DD
+---
+layout: default
+---
 
-###### tags: `_講義 通用`
-
-## 指派作業
-AAA
-## 完成內容
-BBB
-## 時間紀錄
-* YY-MM-DD hh:mm 做XXX
+# HW XX�?YY-MM-DD  ###### tags: `_講義 ?�用`  ## ?�派作業 AAA ## 完�??�容 BBB ## ?��?紀?? * YY-MM-DD hh:mm ?�XXX

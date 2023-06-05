@@ -1,53 +1,5 @@
-# 講義 課前須知
+---
+layout: default
+---
 
-###### tags: `_講義 通用`
-
-此為Posetmage/QuantumNecro學生上課前導
-
-## 準備 
-* 開啟youtube下方[連結](https://hackmd.io/rdIABrAdQV-Cg8aUXV98zQ)
-* 點選登入
-* 使用任何一個方式登入，ex:fb, google......
-* 開啟雙欄模式
-
-## 簡易語法教學
-* 大標副標
-* 條列
-  * 層級
-* 連結
-
-
-## 每次上課需要創造一個作業區
-* 新增文件
-* 內容
-```
-# HW XX課 YY-MM-DD
-## 指派作業
-
-## 完成內容
-
-## 時間紀錄
-* YY-MM-DD hh:mm 做XXX
-```
-* 開啟權限(所有已登入者)
-* 將這個文件連結放入作業列表區
-
-## 救援
-* 觀看歷史紀錄
-
-## 進階語法教學
-* 表格
-* 插入圖片
-  * ![](https://i.imgur.com/XXXXX.png)
-* 分類Tag
-* 程式語法區
-
-
-### 表格
-
-欄位A|欄位B
--|-
-123|456
-aaa|bbb
-### 插入圖片
-![]()
+# 講義 課�??�知  ###### tags: `_講義 ?�用`  此為Posetmage/QuantumNecro學�?上課?��?  ## 準�?  * ?��?youtube下方[???](https://hackmd.io/rdIABrAdQV-Cg8aUXV98zQ) * 點選?�入 * 使用任�?一?�方式登?��?ex:fb, google...... * ?��??��?模�?  ## 簡�?語�??�學 * 大�??��? * 條�?   * 層�? * ???   ## 每次上課?�要創?��??��?業�? * ?��??�件 * ?�容 ``` # HW XX�?YY-MM-DD ## ?�派作業  ## 完�??�容  ## ?��?紀?? * YY-MM-DD hh:mm ?�XXX ``` * ?��?權�?(?�?�已?�入?? * 將這個�?件�???�入作業?�表?�  ## ?�援 * 觀?�歷?��???  ## ?��?語�??�學 * 表格 * ?�入?��?   * ![](https://i.imgur.com/XXXXX.png) * ?��?Tag * 程�?語�??�   ### 表格  欄�?A|欄�?B -|- 123|456 aaa|bbb ### ?�入?��? ![]()

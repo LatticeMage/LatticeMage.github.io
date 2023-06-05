@@ -1,53 +1,5 @@
-# 講義 繪畫 00
+---
+layout: default
+---
 
-###### tags: `_講義 繪畫`
-
-* [FB](https://www.facebook.com/QuantumNecro)
-* 問題
-  * 畫畫的目的?
-
-## 推薦動畫
-[藍色時期](https://zh.wikipedia.org/zh-tw/%E8%97%8D%E8%89%B2%E6%99%82%E6%9C%9F_(%E6%BC%AB%E7%95%AB))
-##
-* 一定要先看
-  * [现实世界到底是几点透视?](https://www.youtube.com/watch?v=FAMxLOnZrtc)
-  * [画成啥样能有收入？0基础咋开始？RPG一样的提升画技全攻略](https://www.youtube.com/watch?v=AIufILDRw5U)
-  * [再也不担心每天练啥!绘画前6年最快升级日程表](https://www.youtube.com/watch?v=BBrRhJYiK9Q)
-* 建議先看
-  * [【Krenz】繪畫地圖：一節課建立對繪畫學習的正確認知，萌新從此不走彎路 (上)](https://www.youtube.com/watch?v=kbKqIJcIUCw)
-  * [【Krenz】繪畫地圖：一節課建立對繪畫學習的正確認知，萌新從此不走彎路 (下)](https://www.youtube.com/watch?v=XfHLXSaYL0I)
-* 推薦YT
-  * [youtubers](https://wiki.posetmage.com/Knowledge/Art/Youtuber/Art%20YT/)
-  * [整理抖抖村](https://wiki.posetmage.com/Knowledge/Art/Drawing/%E6%8A%96%E6%8A%96%E6%9D%91/)
-
-##### tags: `_講義 繪畫`
-
-## 推薦課本
-https://www.eslite.com/product/1001116542609124
-
-
-線條
-https://www.youtube.com/watch?v=455OAQbNaBM
-
-
-## 可能內容
-* 透視?
-* 速寫?
-* 動態?
-
-
-## 
-
-* [快捷鍵](https://wiki.posetmage.com/Knowledge/Art/Drawing/CSPHotKey/)
-  * 選取
-    * 選取目標物所在圖層 ctrl+shift+點選
-    * 框取目標物
-    * 複製
-    * 進入"放大縮小旋轉"
-    * shift按住可以平拉
-  * 合併圖層
-    * 點選圖層
-    * shift按住
-    * 選連續終點
-    * 右鍵
-    * 組合選擇的塗層
+# 講義 繪畫 00  ###### tags: `_講義 繪畫`  * [FB](https://www.facebook.com/QuantumNecro) * ?��?   * ?�畫?�目??  ## ?�薦?�畫 [?�色?��?](https://zh.wikipedia.org/zh-tw/%E8%97%8D%E8%89%B2%E6%99%82%E6%9C%9F_(%E6%BC%AB%E7%95%AB)) ## * 一定�??��?   * [?��?世�??��??��??�透�??](https://www.youtube.com/watch?v=FAMxLOnZrtc)   * [?��??�样?��??�入�??��??��?始�?RPG一?��??��??��??�攻?�](https://www.youtube.com/watch?v=AIufILDRw5U)   * [?��?不�?心�?天�???绘画??年�?快�?级日程表](https://www.youtube.com/watch?v=BBrRhJYiK9Q) * 建議?��?   * [?�Krenz?�繪?�地?��?一節課建立�?繪畫學�??�正確�??��??�新從此不走彎路 (�?](https://www.youtube.com/watch?v=kbKqIJcIUCw)   * [?�Krenz?�繪?�地?��?一節課建立�?繪畫學�??�正確�??��??�新從此不走彎路 (�?](https://www.youtube.com/watch?v=XfHLXSaYL0I) * ?�薦YT   * [youtubers](https://wiki.posetmage.com/Knowledge/Art/Youtuber/Art%20YT/)   * [?��??��??�](https://wiki.posetmage.com/Knowledge/Art/Drawing/%E6%8A%96%E6%8A%96%E6%9D%91/)  ##### tags: `_講義 繪畫`  ## ?�薦課本 https://www.eslite.com/product/1001116542609124   線�? https://www.youtube.com/watch?v=455OAQbNaBM   ## ?�能?�容 * ?��?? * ?�寫? * ?��??   ##   * [快捷?�](https://wiki.posetmage.com/Knowledge/Art/Drawing/CSPHotKey/)   * ?��?     * ?��??��??��??��?�?ctrl+shift+點選     * 框�??��???     * 複製     * ?�入"?�大縮�??��?"     * shift?��??�以平�?   * ?�併?�層     * 點選?�層     * shift?��?     * ?��??終�?     * ?�鍵     * 組�??��??��?�

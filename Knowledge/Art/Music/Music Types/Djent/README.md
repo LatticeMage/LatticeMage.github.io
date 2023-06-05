@@ -1,29 +1,5 @@
-# Djent
-
-## Band
-* Periphery
-* Animals as Leaders
-* Intervals
-* Born Of Osiris
-  * M‚àÜCHINE
-* VEIL OF MAYA
-  * Aeris 
-* Sithu Aye
-  * Senpai EP II: The Noticing „ÄåÂÖàËº©EPIIÔºö„Ç∂„Éª„Éé„Éº„ÉÜ„Ç£„Ç∑„É≥„Ç∞„Äç 
-
-
-## Youtuber
-* Steve Terreberry
-  * [If 'Djent' Was Added To The Oxford Dictionary](https://youtu.be/YTkuJ4vRQZM)
-* Jared Dines
-  * [Classic Metal VS Modern Metal](https://youtu.be/DyIr1VItWL8)
-
-
 ---
-tags:
-  - [[Music]]
-  - [[Steve Terreberry]]
-  - [[Jared Dines]]
-
+layout: default
 ---
 
+# Djent  ## Band * Periphery * Animals as Leaders * Intervals * Born Of Osiris   * M?ÜCHINE * VEIL OF MAYA   * Aeris  * Sithu Aye   * Senpai EP II: The Noticing ?åÂ?Ëº©EPIIÔºö„Ç∂?ª„??º„???Ç∑?≥„Ç∞??   ## Youtuber * Steve Terreberry   * [If 'Djent' Was Added To The Oxford Dictionary](https://youtu.be/YTkuJ4vRQZM) * Jared Dines   * [Classic Metal VS Modern Metal](https://youtu.be/DyIr1VItWL8)   --- tags:   - [[Music]]   - [[Steve Terreberry]]   - [[Jared Dines]]  --- 

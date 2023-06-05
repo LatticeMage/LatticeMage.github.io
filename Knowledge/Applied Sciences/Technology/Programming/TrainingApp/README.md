@@ -1,4 +1,5 @@
-https://lightbot.com/
+---
+layout: default
+---
 
-這遊戲10年前長這樣
-https://www.youtube.com/watch?v=a39JDIT5HRc
+https://lightbot.com/  ?��???0年�??�這樣 https://www.youtube.com/watch?v=a39JDIT5HRc

@@ -1,35 +1,5 @@
-# Competition YT
-
 ---
-tags:
-  - [[Competition]]
-  
+layout: default
 ---
 
-## Fighting
----
-tags:
-  - [[糕极]]
-  - [[寻找中国功夫]]
-  
----
-
-## Poker
----
-tags:
-  - [[小六SixPoker]]
-  - [[肉泥Ronnie]]
-  - [[艾倫去哪兒 Allengoaround]]
-  
----
-
-## Go
----
-tags:
-  - [[高川格]]
-  - [[小小林圍棋]]
-  - [[海峰棋院]]
-  - [[大野狼老師]]
-  
----
-
+# Competition YT  --- tags:   - [[Competition]]    ---  ## Fighting --- tags:   - [[糕�?]]   - [[寻找中国?�夫]]    ---  ## Poker --- tags:   - [[小六SixPoker]]   - [[?�泥Ronnie]]   - [[?�倫去?��? Allengoaround]]    ---  ## Go --- tags:   - [[高�??�]]   - [[小�??��?棋]]   - [[海峰棋院]]   - [[大�??�老師]]    --- 

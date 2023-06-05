@@ -1,3 +1,5 @@
-# Mathematics
+---
+layout: default
+---
 
-[Game Theory](./Game Theory/)  
+# Mathematics  [Game Theory](./Game Theory/)  

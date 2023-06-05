@@ -1,4 +1,5 @@
-# Vocabulary
+---
+layout: default
+---
 
-[Arcanum](./Arcanum/)  
-[DungeonsAndDesktops](./DungeonsAndDesktops/)  
+# Vocabulary  [Arcanum](./Arcanum/)   [DungeonsAndDesktops](./DungeonsAndDesktops/)  

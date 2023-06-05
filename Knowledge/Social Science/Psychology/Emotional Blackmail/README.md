@@ -1,9 +1,5 @@
-# Emotional Blackmail
-
 ---
-tags:
-  - [[Psychology]]
-  - [[冏星人]]
+layout: default
 ---
 
-* 【囧說書】讓沉重的愛得到喘息 《好想殺死父母》
+# Emotional Blackmail  --- tags:   - [[Psychology]]   - [[?��?人]] ---  * ?�囧說書?��?沉�??��?得到?�息 ?�好?�殺死父母�?

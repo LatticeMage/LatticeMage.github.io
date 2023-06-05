@@ -1,3 +1,5 @@
-# Physics
+---
+layout: default
+---
 
-[ColorSpace](./ColorSpace/)  
+# Physics  [ColorSpace](./ColorSpace/)  

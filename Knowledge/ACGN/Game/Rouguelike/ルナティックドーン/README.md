@@ -1,20 +1,5 @@
-# ルナティックドーン
-
-
-* [主角一死存檔就損毀的遊戲，能否冒險到99歲？](https://www.youtube.com/watch?v=obsC6uXQ7PU)
-* [開局打不過蝙蝠、挖礦半小時才推進劇情！19年前奇葩作品，竟是“開放世界”遊戲？](https://www.youtube.com/watch?v=t6S6iQpXgw8)
-* [遇奸商、戰惡狼、變萬人迷...PS2俠客遊的奇妙旅程](https://www.youtube.com/watch?v=3pp1pfnjrcc)
-* [老孙聊游戏之开放的世界才好玩](https://www.youtube.com/watch?v=eJvsa4BClTY)
-* [開局即死、結婚看臉？九十年代風靡世界的另類遊戲](https://www.youtube.com/watch?v=0tufgRuba_s)
-* [它堪稱史上自由度最低的《俠客游》，結局是怎樣的？](https://www.youtube.com/watch?v=2NACR5inpTE)
-* [見人就殺！在俠客遊裡做“惡棍”，會迎來什麼結局？](https://www.youtube.com/watch?v=82rBPWDcgvo)
-* [主角一死、存檔損毀！20年前的超真實開放世界遊戲](https://www.youtube.com/watch?v=Joh5exuSIfE)
-
-
 ---
-tags:
-  - [[Rouguelike]]
-  - [[老孫聊遊戲]]
-  - [[Open World]]
-  
+layout: default
 ---
+
+# ?��??�ィ?�ク?�ー??   * [主�?一死�?檔就?��??��??��??�否?�險??9歲�?](https://www.youtube.com/watch?v=obsC6uXQ7PU) * [?��??��??��??�、�?礦�?小�??�推?��??��?19年�?奇葩作�?，�??�“�??��??�”�??��?](https://www.youtube.com/watch?v=t6S6iQpXgw8) * [?�奸?�、戰?�狼?��??�人�?..PS2俠客?��?奇�??��?](https://www.youtube.com/watch?v=3pp1pfnjrcc) * [?��??�游?��?开?��?世�??�好?�](https://www.youtube.com/watch?v=eJvsa4BClTY) * [?��??�死?��?婚�??��?九�?年代風靡世�??�另類�??�](https://www.youtube.com/watch?v=0tufgRuba_s) * [它堪稱史上自?�度?�低�??��?客游?��?結�??�怎樣?��?](https://www.youtube.com/watch?v=2NACR5inpTE) * [見人就殺！在俠客?�裡?�“惡棍”�??��?來�?麼�?局？](https://www.youtube.com/watch?v=82rBPWDcgvo) * [主�?一死、�?檔�?毀�?0年�??��??�實?�放世�??�戲](https://www.youtube.com/watch?v=Joh5exuSIfE)   --- tags:   - [[Rouguelike]]   - [[?�孫?��??�]]   - [[Open World]]    ---

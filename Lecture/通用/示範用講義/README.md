@@ -1,11 +1,5 @@
-# 講義 示範用講義
+---
+layout: default
+---
 
-###### tags: `_講義 通用`
-
-## [繪圖講義](https://hackmd.io/@_7PkUw18SuObLzwXNzXwHA/SJD-897lj/edit) [作曲講義](https://hackmd.io/@_7PkUw18SuObLzwXNzXwHA/BJOmyIgls/edit)
-
-## 作業區
-
-* [YY-MM-DD](https://hackmd.io/@6hYzZShcTgiWURGnt6aaQw/rkyHM37es)
-* [YY-MM-DD](https://hackmd.io/@6hYzZShcTgiWURGnt6aaQw/rkyHM37es)
-* [YY-MM-DD](https://hackmd.io/@6hYzZShcTgiWURGnt6aaQw/rkyHM37es)
+# 講義 示�??��?�?  ###### tags: `_講義 ?�用`  ## [繪�?講義](https://hackmd.io/@_7PkUw18SuObLzwXNzXwHA/SJD-897lj/edit) [作曲講義](https://hackmd.io/@_7PkUw18SuObLzwXNzXwHA/BJOmyIgls/edit)  ## 作業?�  * [YY-MM-DD](https://hackmd.io/@6hYzZShcTgiWURGnt6aaQw/rkyHM37es) * [YY-MM-DD](https://hackmd.io/@6hYzZShcTgiWURGnt6aaQw/rkyHM37es) * [YY-MM-DD](https://hackmd.io/@6hYzZShcTgiWURGnt6aaQw/rkyHM37es)

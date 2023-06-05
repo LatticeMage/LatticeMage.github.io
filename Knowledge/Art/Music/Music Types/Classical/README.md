@@ -1,9 +1,5 @@
-
-
 ---
-tags:
-  - [[Music]]
-
-
+layout: default
 ---
 
+  --- tags:   - [[Music]]   --- 
