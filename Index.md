@@ -2,7 +2,7 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: page
+layout: default
 ---
 
 # <img src="http://www.posetmage.com/Icon/New/QuantumNecro_t.png" Height="32" /> LatticeMage <img src="http://www.posetmage.com/Icon/New/QuantumNecro_t.png" Height="32" />
@@ -13,10 +13,10 @@ LatticeMage是PosetMage的子品牌，這個頻道主軸是下個世代思維，
 
 ## [YT - LatticeMage](http://youtube.com/@LatticeMage)
 
-## [知識庫](/Knowledge.md)
+## [知識庫](/Knowledge)
 知識庫為創作用的參考區
 
-## [上課教材](/Lecture.md)
+## [上課教材](/Lecture)
 上課教材是1v1家教用的講義
 
 ## [About Me](http://posetmage.com/about/)
