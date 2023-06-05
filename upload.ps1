@@ -7,20 +7,21 @@ git pull
 ./Knowledge.ps1
 ./Lecture.ps1
 
-$files = Get-ChildItem . -include *.md -Recurse
+$directories = @("./Knowledge", "./Lecture")
 $frontMatter = @'
 ---
 layout: default
 ---
-
 '@
 
-foreach ($file in $files) {
-    $content = Get-Content $file.FullName
-    $newContent = $frontMatter + "`n" + $content
-    Set-Content -Path $file.FullName -Value $newContent
+foreach ($directory in $directories) {
+    $files = Get-ChildItem $directory -include *.md -Recurse
+    foreach ($file in $files) {
+        $content = Get-Content $file.FullName
+        $newContent = $frontMatter + "`n" + $content
+        Set-Content -Path $file.FullName -Value $newContent
+    }
 }
-
 
 
 git add .

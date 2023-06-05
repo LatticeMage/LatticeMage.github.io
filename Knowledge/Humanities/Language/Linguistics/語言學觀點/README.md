@@ -1,5 +1,4 @@
 ---
 layout: default
 ---
-
 # èªè?å­¸è?é»å½±??   * [ç·´è½?›è©²?Œå??Ÿã€æ??Œæ??Ÿã€å?ï¼Ÿä??•ç?èªè?å­¸è?é»å½±?‡ğ??// Chen Lily](https://youtu.be/9mkwwnUgCzQ) * [å­¸è?è¨€ä¸æ˜¯? æ¨¡ä»¿ï?ä½ å­¸èªè??„è?å¿µæ­£ç¢ºå?ï¼?// Chen Lily](https://youtu.be/vor6a_1hlJM) * [å¦‚ä??œæ­¢ç¿»è­¯ï¼Ÿç”¨?±æ??è€ƒç??Ÿç›¸ ?? èªè?å­¸è?é»å???// Chen Lily](https://youtu.be/WxYnyqgO77M)   * [å¦‚ä??Œæ?å­¸å?ç¨®è?è¨€?? How to learn multiple languages at the same time](https://youtu.be/7AY6N-ALUNw)   --- tags:   - [[Chen Lily]]  ---
