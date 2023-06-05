@@ -1,3 +1,0 @@
-# Galgame
-
-[GalgameMaker](./GalgameMaker/)  
