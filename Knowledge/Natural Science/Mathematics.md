@@ -2,4 +2,4 @@
 layout: default
 ---
 
-[Game Theory](./Game Theory.md)  
+[Game Theory](./Game Theory)  

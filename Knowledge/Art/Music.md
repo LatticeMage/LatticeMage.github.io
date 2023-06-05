@@ -3,9 +3,9 @@ layout: default
 ---
 
 [Drum](./Drum)  
-[Instrument](./Instrument.md)  
+[Instrument](./Instrument)  
 [Music Theory](./Music Theory)  
-[Music Theory](./Music Theory.md)  
+[Music Theory](./Music Theory)  
 [Music Types](./Music Types)  
-[Musician](./Musician.md)  
-[Websites](./Websites.md)  
+[Musician](./Musician)  
+[Websites](./Websites)  

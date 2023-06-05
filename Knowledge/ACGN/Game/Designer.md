@@ -2,9 +2,9 @@
 layout: default
 ---
 
-[Game Balancing](./Game Balancing.md)  
-[Game Writer](./Game Writer.md)  
-[GameFlow](./GameFlow.md)  
-[Level Design](./Level Design.md)  
-[Operator](./Operator.md)  
-[System Designer](./System Designer.md)  
+[Game Balancing](./Game Balancing)  
+[Game Writer](./Game Writer)  
+[GameFlow](./GameFlow)  
+[Level Design](./Level Design)  
+[Operator](./Operator)  
+[System Designer](./System Designer)  

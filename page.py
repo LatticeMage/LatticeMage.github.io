@@ -22,7 +22,7 @@ def write_md_file(folder_path):
                 # split the extension from the filename
                 name, ext = os.path.splitext(basename)
                 if ext == '.md':
-                    f.write(f'[{name}](./{basename})  \n')
+                    f.write(f'[{name}](./{name})  \n')
 
 for folder in folders:
     write_md_file(folder)

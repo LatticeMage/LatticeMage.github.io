@@ -2,5 +2,5 @@
 layout: default
 ---
 
-[Arcanum](./Arcanum.md)  
-[DungeonsAndDesktops](./DungeonsAndDesktops.md)  
+[Arcanum](./Arcanum)  
+[DungeonsAndDesktops](./DungeonsAndDesktops)  

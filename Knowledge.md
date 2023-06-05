@@ -8,5 +8,5 @@ layout: default
 [Humanities](./Humanities)  
 [Natural Science](./Natural Science)  
 [Others](./Others)  
-[README](./README.md)  
+[README](./README)  
 [Social Science](./Social Science)  

@@ -2,4 +2,4 @@
 layout: default
 ---
 
-[Traditional AI](./Traditional AI.md)  
+[Traditional AI](./Traditional AI)  

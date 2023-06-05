@@ -2,4 +2,4 @@
 layout: default
 ---
 
-[ColorSpace](./ColorSpace.md)  
+[ColorSpace](./ColorSpace)  

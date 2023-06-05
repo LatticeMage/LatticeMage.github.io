@@ -2,12 +2,12 @@
 layout: default
 ---
 
-[Anti-capitalism](./Anti-capitalism.md)  
-[Career Planning](./Career Planning.md)  
+[Anti-capitalism](./Anti-capitalism)  
+[Career Planning](./Career Planning)  
 [Communication](./Communication)  
 [Economy](./Economy)  
-[Interview](./Interview.md)  
+[Interview](./Interview)  
 [Law](./Law)  
-[Lying Flat](./Lying Flat.md)  
+[Lying Flat](./Lying Flat)  
 [Psychology](./Psychology)  
-[Team Management](./Team Management.md)  
+[Team Management](./Team Management)  
