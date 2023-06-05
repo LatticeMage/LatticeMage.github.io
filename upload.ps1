@@ -10,3 +10,17 @@ git pull
 git add .
 git commit -m "upload"
 git push
+
+$files = Get-ChildItem . -include *.md -Recurse
+$frontMatter = @'
+---
+layout: default
+---
+
+'@
+
+foreach ($file in $files) {
+    $content = Get-Content $file.FullName
+    $newContent = $frontMatter + "`n" + $content
+    Set-Content -Path $file.FullName -Value $newContent
+}
