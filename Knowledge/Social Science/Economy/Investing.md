@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Investing
 
 * 投資自己

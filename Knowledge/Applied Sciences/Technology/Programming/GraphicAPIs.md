@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # DirectX11, 12, OpenGL, Vulkan
 
 ---

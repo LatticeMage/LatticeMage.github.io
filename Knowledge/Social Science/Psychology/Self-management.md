@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Self-management
 
 ## 時間管理

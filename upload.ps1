@@ -7,6 +7,8 @@ git pull
 ./Knowledge.ps1
 ./Lecture.ps1
 
+python ./page.py
+
 git add .
 git commit -m "upload"
 git push

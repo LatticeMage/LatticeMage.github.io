@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # 零件
 Comfort Strapp (BASS)  
 

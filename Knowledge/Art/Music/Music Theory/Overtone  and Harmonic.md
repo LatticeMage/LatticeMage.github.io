@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Overtone and Harmonic
 
 https://en.wikipedia.org/wiki/Overtone

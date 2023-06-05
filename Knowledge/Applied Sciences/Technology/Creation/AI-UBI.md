@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # AI-UBI
 
 We need a disscution based on this:

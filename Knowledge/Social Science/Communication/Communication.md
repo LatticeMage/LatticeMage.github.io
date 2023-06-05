@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Communication
 
 ## 以下為AI寫的文章

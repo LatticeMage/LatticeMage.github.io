@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Lying Flat
 
 ## [MoneyXYZ财务自由系列](https://www.youtube.com/playlist?list=PL1ta5B0mfuN2ni76kLEnRvSFVnWZzNzkY)

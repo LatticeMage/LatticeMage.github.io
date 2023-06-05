@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Financial Independence
 
 * 何謂財富自由

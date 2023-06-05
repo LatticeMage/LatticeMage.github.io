@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Voice Leading
 
 ## [Voice Leading](https://en.wikipedia.org/wiki/Voice_leading)

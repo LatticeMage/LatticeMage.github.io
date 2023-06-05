@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Visionary Leadership
 
 ## [未來] 作夢的重要性

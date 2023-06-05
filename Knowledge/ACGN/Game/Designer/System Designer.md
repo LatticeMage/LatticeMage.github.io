@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # System Designer
 系統企劃要設計核心玩法，比如成長系統、戰鬥系統、操作系統.....  
 

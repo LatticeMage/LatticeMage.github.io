@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Mental Toughness
 
 ## References
