@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 # Minimalist
 
 第二次世界大戰之後60年代百業蕭條，資源匱乏

@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 # Brain
 
 ## AI潤筆

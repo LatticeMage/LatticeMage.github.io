@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 # [Cult of the Lamb](https://www.gog.com/en/game/cult_of_the_lamb)
 
 ## 行銷

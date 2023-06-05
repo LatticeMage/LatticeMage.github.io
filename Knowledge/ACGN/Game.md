@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 [AVG](AVG.md)  
 [Designer](Designer.md)  
 [Game Classification](Game Classification.md)  

@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 # Behavioral Finance
 
 * 陆蓉《行为金融学30讲》

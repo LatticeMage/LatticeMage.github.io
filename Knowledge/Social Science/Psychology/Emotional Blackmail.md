@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 # Emotional Blackmail
 
 ---

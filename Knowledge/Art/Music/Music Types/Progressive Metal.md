@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 # Progressive Metal
 
 * Dream Theater

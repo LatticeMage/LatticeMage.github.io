@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 [LatticeMage S02-創業思維-EP01 《從0到1》 Zero to One ｜斜槓｜一人公司｜一個人的獲利模式](https://youtu.be/aYZvxMGOxfc)
 [LatticeMage S02-創業思維-EP02 期望值這件事 01 - 投資心態 ft. Sonia](https://youtu.be/Frob1Bu7Hjg)
 [LatticeMage S02-創業思維-EP03 期望值這件事 02 - 優化人生決策](https://youtu.be/9UWfPpsmdY8)

@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 [History](History.md)  
 [Language](Language.md)  
 [Philosophy](Philosophy.md)  

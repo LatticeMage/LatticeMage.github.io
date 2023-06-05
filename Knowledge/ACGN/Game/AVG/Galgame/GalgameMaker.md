@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 # GalgameMaker
 
 ## [視覺小說引擎列表](https://zh.wikipedia.org/zh-tw/%E8%A6%96%E8%A6%BA%E5%B0%8F%E8%AA%AA%E5%BC%95%E6%93%8E%E5%88%97%E8%A1%A8)

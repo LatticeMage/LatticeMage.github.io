@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 # Investing Books
 
 * 從0到1：打開世界運作的未知祕密，在意想不到之處發現價值

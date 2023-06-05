@@ -27,7 +27,7 @@ def write_md_file(folder_path):
 for folder in folders:
     write_md_file(folder)
 
-prepend_text = "---\nlayout: default\n---\n"
+prepend_text = "---\nlayout: default\n---\n\n"
 
 files_to_update = []
 for folder in folders:

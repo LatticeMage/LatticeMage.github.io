@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 # Traditional AI
 
 狀態機

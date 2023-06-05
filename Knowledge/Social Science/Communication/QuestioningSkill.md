@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 # QuestioningSkill
 
 * [碎碎念 提問的藝術：每個提問者都應該要注意的提問流程](https://blog.brownsugar.tw/the-art-of-asking/)

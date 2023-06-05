@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 # Bimanual Coordination
 
 Frontal Lobe

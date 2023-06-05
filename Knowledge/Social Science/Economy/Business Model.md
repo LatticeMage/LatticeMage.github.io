@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 # Business Model
 
 ## 目標

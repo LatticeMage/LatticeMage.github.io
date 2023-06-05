@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 # Chord Notation
 
 ## Distance

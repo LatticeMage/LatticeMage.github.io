@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 # Investing 3
 
 ## 規模化

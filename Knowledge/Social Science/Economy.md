@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 [All-in](All-in.md)  
 [Behavioral Finance](Behavioral Finance.md)  
 [Business Model](Business Model.md)  

@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 # Growing
 
 ## 學習心態

@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 # All-in
 
 in startup or investing theory, all-in is important,

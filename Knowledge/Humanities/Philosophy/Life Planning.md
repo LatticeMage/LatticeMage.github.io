@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 # Life Planning
   
 ## 使用精算的邏輯來規劃人生  

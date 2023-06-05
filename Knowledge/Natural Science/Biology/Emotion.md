@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 # Emotion
 
 [《腦筋急轉彎》（Inside Out）所提的情緒理論有些微的過時，Lisa Feldman Barrett將情緒解釋為二維的光譜Cultivating Wisdom: The Power Of Mood｜Lisa Feldman Barrett｜TEDxCambridge](https://youtu.be/ZYAEh3T5a80)
