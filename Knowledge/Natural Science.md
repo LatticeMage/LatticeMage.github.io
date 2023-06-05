@@ -1,3 +1,6 @@
+---
+layout: default
+---
 [Biology](Biology.md)  
 [Evolution](Evolution.md)  
 [Mathematics](Mathematics.md)  

@@ -1,3 +1,6 @@
+---
+layout: default
+---
 [ACGN](ACGN.md)  
 [Applied Sciences](Applied Sciences.md)  
 [Art](Art.md)  

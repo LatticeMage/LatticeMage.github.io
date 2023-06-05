@@ -1,3 +1,6 @@
+---
+layout: default
+---
 [Anthropotomy](Anthropotomy.md)  
 [Chroma](Chroma.md)  
 [Copy](Copy.md)  

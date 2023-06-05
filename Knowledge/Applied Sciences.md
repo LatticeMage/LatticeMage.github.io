@@ -1,3 +1,6 @@
+---
+layout: default
+---
 [Algorithm](Algorithm.md)  
 [Technology](Technology.md)  
 [UI](UI.md)  

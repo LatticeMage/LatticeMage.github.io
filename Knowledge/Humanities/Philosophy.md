@@ -1,3 +1,6 @@
+---
+layout: default
+---
 [ACGN才是最接近尼采哲學](ACGN才是最接近尼采哲學.md)  
 [Life Planning](Life Planning.md)  
 [Overfitting](Overfitting.md)  

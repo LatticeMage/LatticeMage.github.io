@@ -1,3 +1,6 @@
+---
+layout: default
+---
 [Game Balancing](Game Balancing.md)  
 [Game Writer](Game Writer.md)  
 [GameFlow](GameFlow.md)  

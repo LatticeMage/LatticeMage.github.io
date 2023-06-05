@@ -1,3 +1,6 @@
+---
+layout: default
+---
 [Analytical Thinking](Analytical Thinking.md)  
 [Bullying](Bullying.md)  
 [DID](DID.md)  

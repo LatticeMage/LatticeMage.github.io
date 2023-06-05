@@ -1,3 +1,6 @@
+---
+layout: default
+---
 [Anti-capitalism](Anti-capitalism.md)  
 [Career Planning](Career Planning.md)  
 [Communication](Communication.md)  

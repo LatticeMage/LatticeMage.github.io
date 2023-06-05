@@ -1,21 +1,7 @@
 import os
 import glob
 
-prepend_text = "---\nlayout: default\n---\n"
-
 folders = ["./Knowledge", "./Lecture"]
-
-for folder in folders:
-    for filename in glob.glob(f"{folder}/**/*.md", recursive=True):
-        with open(filename, 'r', encoding='utf8') as f:
-            content = f.read()
-        
-        # Check if prepend_text already exists at the start of the file
-        if not content.startswith(prepend_text):
-            content = prepend_text + content
-
-            with open(filename, 'w', encoding='utf8') as f:
-                f.write(content)
 
 def write_md_file(folder_path):
     with open(f"{folder_path}.md", 'w', encoding='utf8') as f:
@@ -40,3 +26,21 @@ def write_md_file(folder_path):
 
 for folder in folders:
     write_md_file(folder)
+
+prepend_text = "---\nlayout: default\n---\n"
+
+files_to_update = []
+for folder in folders:
+    for filename in glob.glob(f"{folder}/**/*.md", recursive=True):
+        files_to_update.append(filename)
+files_to_update.extend(["./Knowledge.md", "./Lecture.md"])
+
+for filename in files_to_update:
+    with open(filename, 'r', encoding='utf8') as f:
+        content = f.read()
+
+    # Check if prepend_text already exists at the start of the file
+    if not content.startswith(prepend_text):
+        content = prepend_text + content
+        with open(filename, 'w', encoding='utf8') as f:
+            f.write(content)

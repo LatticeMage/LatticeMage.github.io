@@ -1,3 +1,6 @@
+---
+layout: default
+---
 [AI溝通師](AI溝通師.md)  
 [Podcast](Podcast.md)  
 [README](README.md)  

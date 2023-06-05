@@ -1,3 +1,6 @@
+---
+layout: default
+---
 [Bass Line](Bass Line.md)  
 [Chord Notation](Chord Notation.md)  
 [Circle of fifths](Circle of fifths.md)  

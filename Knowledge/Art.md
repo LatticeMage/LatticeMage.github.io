@@ -1,3 +1,6 @@
+---
+layout: default
+---
 [Drawing](Drawing.md)  
 [Music](Music.md)  
 [Youtuber](Youtuber.md)  

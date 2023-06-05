@@ -1,3 +1,6 @@
+---
+layout: default
+---
 [Classical](Classical.md)  
 [Djent](Djent.md)  
 [Metal](Metal.md)  
