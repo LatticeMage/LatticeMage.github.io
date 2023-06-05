@@ -1,4 +1,3 @@
-
 # <img src="http://www.posetmage.com/Icon/New/QuantumNecro_t.png" Height="32" /> LatticeMage <img src="http://www.posetmage.com/Icon/New/QuantumNecro_t.png" Height="32" />
 
 LatticeMage是PosetMage的子品牌，這個頻道主軸是下個世代思維，因為我們正面臨大AI時代，生產和社會的邏輯會跟以往不同
@@ -7,10 +6,10 @@ LatticeMage是PosetMage的子品牌，這個頻道主軸是下個世代思維，
 
 ## [YT - LatticeMage](http://youtube.com/@LatticeMage)
 
-## [知識庫](/Knowledge)
+## [知識庫](/Knowledge/)
 知識庫為創作用的參考區
 
-## [上課教材](/Lecture)
+## [上課教材](/Lecture/)
 上課教材是1v1家教用的講義
 
 ## [About Me](http://posetmage.com/about/)
@@ -18,3 +17,5 @@ LatticeMage是PosetMage的子品牌，這個頻道主軸是下個世代思維，
 ## [Contact](http://posetmage.com/contact/)
 
 ## 主站 [PosetMage](http://posetmage.com/)
+
+## 
