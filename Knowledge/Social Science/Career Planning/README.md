@@ -3,14 +3,13 @@ layout: default
 ---
 # Career Planning
 
-## ?�薦影�?
+## 推薦影片
 
-[?�水3?��??? ?��?軟�?工�?師職涯�??��?�? 一?�公?��?多�?? 跳槽?��?? ?��??�長幅度大公?��?轉職｜�?序�?｜工程師 Nic](https://youtu.be/EdoyHZTfkT8)
+[薪水3倍成長! 我的軟體工程師職涯規劃分享! 一間公司待多久? 跳槽時機? 薪資成長幅度大公開｜轉職｜程序员｜工程師 Nic](https://youtu.be/EdoyHZTfkT8)
 
 ---
 tags:
-  - [[?�地上滾?�工程師 Nic]]
+  - [[在地上滾的工程師 Nic]]
   
 ---
-
 

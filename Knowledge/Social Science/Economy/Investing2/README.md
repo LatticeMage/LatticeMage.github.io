@@ -3,24 +3,24 @@ layout: default
 ---
 # Investing 3
 
-## 規模??
-* ?��??�產流�?
-  * [?�產?�工?�](../Science/Technology/Productivity%20Tools.md)
+## 規模化
+* 優化生產流程
+  * [生產力工具](../Science/Technology/Productivity%20Tools.md)
 
-## ?��??��?
+## 面對未來
 
-要面對人?��??��?
+要面對人生或未來
 
-要�??��?檔�??�、�?檔無?��??��?
+要尋找下檔有限、上檔無限的職崖
 
-下�??��??�以使用?��??�方式解�?
+下檔有限可以使用停損的方式解決
 
-上�??��??�以使用?�碼?�方式�???
+上檔提升可以使用加碼的方式完成
 
-緊盯?��??��??�趨勢 ?��??�測?��?潮�?
+緊盯著最新科技趨勢 同時預測未來潮流
 
 
-## AI?��?
+## AI生成
 When it comes to facing the future and making decisions about your career or investments, it is important to seek out opportunities that offer unlimited rewards and limited losses. This can be a challenging task, as no opportunity is completely risk-free and it can be difficult to predict the future with certainty. However, by following a few key strategies, you can increase your chances of finding opportunities that align with your goals and minimize your risk of loss.
 
 One way to pursue unlimited rewards and limited losses is to look for asymmetric risk-reward situations. This means seeking out opportunities where the potential rewards significantly outweigh the potential risks. For example, if you are considering a career move or an investment, you might look for opportunities that have the potential to bring in a high return on investment, but have a relatively low risk of loss. This can help to maximize your chances of success while minimizing the potential negative impact of any setbacks.
@@ -37,10 +37,9 @@ In summary, seeking out unlimited rewards and limited losses is an important goa
 ---
 tags:
   - [[Economics]]
-  - [[Gooaye ?��?]]
+  - [[Gooaye 股癌]]
   - [[小六SixPoker]]
   - [[窮奢極欲]]
   - [[Investing]]
   
 ---
-

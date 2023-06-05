@@ -3,13 +3,12 @@ layout: default
 ---
 # Epigenetics
 
-* 大自?��?秘訣，�??��?�?�?
+* 大自然的秘訣，生物多樣性
   * [Homosexuality: It's about survival - not sex  James O'Keefe](https://youtu.be/4Khn_z9FPmU)
-* [?��?高�??�性傾?�、精神疾?��?一?�都?�基?�決定好?��?/ ?��??��? EP10 ?�基?��?人�??�親�??�歷?�》Siddhartha Mukherjee / 說書?��??�、遺?�學?�](https://youtu.be/x5aynJYhAXs)
+* [智力高低、性傾向、精神疾病，一切都是基因決定好的？/ 書來面對 EP10 《基因：人類最親密的歷史》Siddhartha Mukherjee / 說書【科普、遺傳學】](https://youtu.be/x5aynJYhAXs)
 
 ---
 tags:
   - [[Evolution]]
   
 ---
-

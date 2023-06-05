@@ -8,11 +8,11 @@ layout: default
 * Animals as Leaders
 * Intervals
 * Born Of Osiris
-  * M?†CHINE
+  * Mâˆ†CHINE
 * VEIL OF MAYA
   * Aeris 
 * Sithu Aye
-  * Senpai EP II: The Noticing ?Œå?è¼©EPIIï¼šã‚¶?»ã??¼ã???‚·?³ã‚°??
+  * Senpai EP II: The Noticing ã€Œå…ˆè¼©EPIIï¼šã‚¶ãƒ»ãƒãƒ¼ãƒ†ã‚£ã‚·ãƒ³ã‚°ã€ 
 
 
 ## Youtuber
@@ -29,5 +29,4 @@ tags:
   - [[Jared Dines]]
 
 ---
-
 

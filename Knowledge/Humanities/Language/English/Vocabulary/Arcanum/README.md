@@ -21,4 +21,3 @@ tags:
   * archaic spelling of complete
 * occasion
   * a particular time or instance of an event.
-

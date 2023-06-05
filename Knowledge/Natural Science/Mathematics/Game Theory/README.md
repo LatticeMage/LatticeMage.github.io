@@ -28,8 +28,7 @@ tags:
   - [[Economics]]
   - [[Mental Toughness]]
   - [[Sport Psychology]]
-  - [[?�永乐老�?]]
+  - [[李永乐老师]]
   - [[Nash Equilibrium]]
   
 ---
-

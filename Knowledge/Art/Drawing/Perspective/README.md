@@ -4,16 +4,16 @@ layout: default
 # Perspective
 
 
-* ?��??��??�现实�??�到底是?�点?��??
+* 【抖抖村】现实世界到底是几点透视?
   * https://www.youtube.com/watch?v=FAMxLOnZrtc
-* [?��??�透�??��??��?麼�??�個�?度�??�是�??形�?答�??�人?��?！](https://youtu.be/98Iu34l60OA)
+* [球體有透視嗎？為什麼從哪個角度看都是正圓形？答案出人意料！](https://youtu.be/98Iu34l60OA)
 
 
 ---
 tags:
   - [[Drawing]]
-  - [[?��??�]]
+  - [[抖抖村]]
   - [[Krenz's Artwork]]
-  - [[?�永乐老�?]]
+  - [[李永乐老师]]
   
 ---

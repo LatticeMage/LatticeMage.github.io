@@ -6,12 +6,12 @@ layout: default
 ## Musical note name
 
 ## [Solfège](https://en.wikipedia.org/wiki/Solf%C3%A8ge)
-[?��??�以?��?一次�??�「唱?�」、「�?調」�??�固定調?��?](https://www.youtube.com/watch?v=cvu6A04S80U)
+[十分鐘以內，一次搞懂「唱名」、「首調」與「固定調」！](https://www.youtube.com/watch?v=cvu6A04S80U)
 ```
-## == ?��
-bb == ?�♭ 
-# = ??
-b = ??
+## == 𝄪
+bb == ♭♭ 
+# = ♯
+b = ♭
 ```
 English | Shearer system
 -|-
@@ -29,7 +29,7 @@ Ebb | maw
 Eb | me
 E | mi
 E# | mai
-E## | ??
+E## | –
 Fbb | faw
 Fb | fe
 F | fa
@@ -49,7 +49,7 @@ Bbb | taw
 Bb | te
 B | ti
 B# | tai
-B## | ??
+B## | –
 
 Then, the common rules
 ```
@@ -66,4 +66,3 @@ tags:
   - [[Music Theory]]
   
 ---
-

@@ -17,13 +17,13 @@ tags:
 
 ---
 tags:
-  - [[Yuki Matsui / ?��?祐貴]]
+  - [[Yuki Matsui / 松井祐貴]]
   - [[Seiji Igusa]]
   - [[Satoshi Gogo]]
   - [[petterisariola]]
   - [[Jon Gomm]]
   - [[Tommy Emmanuel]]
-  - [[?�尾?�ー?�ロ?�]]
+  - [[押尾コータロー]]
   - [[Masaaki Kishibe Guitar Channel]]
   - [[mikedawesofficial]]
   - [[Tobias Rauscher]]
@@ -43,7 +43,7 @@ tags:
 ## Instrument
 ---
 tags:
-  - [[????��??��?]]
+  - [[董舜文的頻道]]
   - [[Animenz Piano Sheets]]
   
 ---

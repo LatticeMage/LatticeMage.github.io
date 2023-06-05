@@ -15,4 +15,4 @@ layout: default
 [Risk-embracement](./Risk-embracement/)  
 [Self-management](./Self-management/)  
 [Sport Psychology](./Sport Psychology/)  
-[世�??��?被輾壓�??�覺](./世�??��?被輾壓�??�覺/)  
+[世界冠軍被輾壓的感覺](./世界冠軍被輾壓的感覺/)  

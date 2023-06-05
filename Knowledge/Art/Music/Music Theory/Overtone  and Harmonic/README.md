@@ -8,12 +8,12 @@ https://en.wikipedia.org/wiki/Overtone
 https://en.wikipedia.org/wiki/Harmonic_series_(music)
 
 
-* [ä¸€æ¬¡æ??‚ã€Œæ??³å??ï?](https://youtu.be/0iJmDhNocaQ)
+* [ä¸€æ¬¡ææ‡‚ã€Œæ³›éŸ³åˆ—ã€ï¼](https://youtu.be/0iJmDhNocaQ)
 
 
 ---
 tags:
   - [[Music Theory]]
-  - [[NiceChord+ (å¥½å?å¼?)]]
+  - [[NiceChord+ (å¥½å’Œå¼¦+)]]
   
 ---

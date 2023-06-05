@@ -5,10 +5,10 @@ layout: default
 
 
 * Android
-  * ?…â??…â???[Functional Ear Training](https://play.google.com/store/apps/details?id=com.kaizen9.fet.android)
-  * ?…â??…â???[Rhythm Trainer](https://play.google.com/store/apps/details?id=ru.demax.rhythmerr)
-  * ?…â??…â???[Zussie's Ear Training](https://play.google.com/store/apps/details?id=io.github.nabehide.zussie&hl=en&gl=US)
-  * ?…â??…â???Perfect Ear
+  * â˜…â˜…â˜…â˜…â˜… [Functional Ear Training](https://play.google.com/store/apps/details?id=com.kaizen9.fet.android)
+  * â˜…â˜…â˜…â˜…â˜… [Rhythm Trainer](https://play.google.com/store/apps/details?id=ru.demax.rhythmerr)
+  * â˜…â˜…â˜…â˜…â˜… [Zussie's Ear Training](https://play.google.com/store/apps/details?id=io.github.nabehide.zussie&hl=en&gl=US)
+  * â˜…â˜…â˜…â˜†â˜† Perfect Ear
 
 
 
@@ -21,9 +21,9 @@ layout: default
       * [Tone - Learn Perfect Pitch!](https://apps.apple.com/tw/app/tone-learn-perfect-pitch/id1139019670)
 
 * Webs
-  * ?…â??…â???https://www.musictheory.net/exercises
-  * ?…â??…â???[4four.io](https://4four.io/)
-  * ?†â??†â???[Virtual Piano](https://www.onlinepianist.com/virtual-piano) 
+  * â˜…â˜…â˜…â˜…â˜… https://www.musictheory.net/exercises
+  * â˜…â˜…â˜…â˜†â˜† [4four.io](https://4four.io/)
+  * â˜†â˜†â˜†â˜†â˜† [Virtual Piano](https://www.onlinepianist.com/virtual-piano) 
 
 
 

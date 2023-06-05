@@ -43,4 +43,3 @@ tags:
     * the continued possession, use, or control of something.
   * roam
     * move about or travel aimlessly or unsystematically, especially over a wide area.
-

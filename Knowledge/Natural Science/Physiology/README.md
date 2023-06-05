@@ -4,4 +4,4 @@ layout: default
 # Physiology
 
 [Strength Training](./Strength Training/)  
-[褰堝?甯跺彲浠ョ反?嶉?](./褰堝?甯跺彲浠ョ反?嶉?/)  
+[褰堝姏甯跺彲浠ョ反閲嶉噺](./褰堝姏甯跺彲浠ョ反閲嶉噺/)  

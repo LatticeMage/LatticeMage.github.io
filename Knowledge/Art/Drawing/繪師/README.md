@@ -3,16 +3,16 @@ layout: default
 ---
 # 繪師
 
-?�巾
+白巾
 https://www.facebook.com/Bygin.net
 
-天�???
+天之火 
 https://www.facebook.com/nnnnoooo007/photos
 
-Ｉ�?ｙ�??��??�ー�?
+Ｉｘｙ（いくしー）
 https://twitter.com/ixy
 
-黄�???
+黄光剑
 https://twitter.com/hgjart
 
 
@@ -21,5 +21,4 @@ tags:
   - [[Drawing]]
   
 ---
-
 

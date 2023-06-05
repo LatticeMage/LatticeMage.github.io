@@ -52,7 +52,7 @@ That is, a game can say it is multiply features.
   * Usually is action game, few turn-based
   * The first FPS game is Wolfenstein
   * Famous FPS games are CS, Half-Life
-* STG(Shoot 'em up Game)Ôº?
+* STG(Shoot 'em up Game)Ôºö
   * Usually is only scrolling in vertical or horizontal
   * Famous STG games are Raiden, Contra
 * Platformer
@@ -66,7 +66,7 @@ That is, a game can say it is multiply features.
   * A kind of RPG but everything random,
   * Random map, random monster, random event, etx.
   * Progress is completely deleted immediately when die
-  * The First roguelike games are rogue?Åhack?Åmoria?Ålarn?Åomega
+  * The First roguelike games are rogue„ÄÅhack„ÄÅmoria„ÄÅlarn„ÄÅomega
   * Famous Roguelike games are angband, ADOM, TOME, Lunatic Dawn, ELONA
 * Roguelite:
   * everything random, but part of progress are remained when die
@@ -79,7 +79,7 @@ That is, a game can say it is multiply features.
   * The common feature of TRPG is that there is a game hoster
   * Other players is get information from game hoster
   * Usually TRPG is unlimited possibilities as long as you have enough imagination
-* CRPG(Class/Computer Role Playing Game)Ôº?
+* CRPG(Class/Computer Role Playing Game)Ôºö
   * Able to play TRPG on computer, that is why call CRPG
   * However, there are many different kinds of RPGs on computer, CPRG is not suitable now
   * In my opinion, the better name should be WRPG (Western RPG)
@@ -91,28 +91,28 @@ That is, a game can say it is multiply features.
   * The famous one is Dragon Quest, we can see it is deeply affected by TRPG 
   * Other famous JRPG are Final Fantasy, Atelier series, Persona, 
   * The best JRPG is Chrono Trigger
-* SRPG(Strategy Role Playing Game)Ôº?
+* SRPG(Strategy Role Playing Game)Ôºö
   * RPG with strategy, usually turn-based (real-time is RTS)
   * Famous SRPG are Fire Emblem, Ogre Battle
 * Online RPG:
   * In 1990, some RPG is able to play online but a room only have few people.
   * For example, the limit of player in a room is 8 at Diablo II 
   * Usually the goal in not to see the ending of the story
-* MMORPG(massively multiplayer online RPG)Ôº?
+* MMORPG(massively multiplayer online RPG)Ôºö
   * The server is able to contain hundard thousands players
   * There is no storying ending
   * Keep increasing missions, events
 * Mobile RPG:
   * Like MMORPG, the storying in game never end.
-* Sandbox/Nonlinear/OpenWorldÔº?
+* Sandbox/Nonlinear/OpenWorldÔºö
   * A game can do many purpose, lots of feature can play
   * This is like Meta just another name of VR, while both WRPG and Roguelike already has this feature
-* GalgameÔº?
+* GalgameÔºö
   * Like Interactive film, there is many dialog options to achieve different ending of the story
   * Usually lots of 2D hand-drawing CG, many galgame has Full Audio of dialog
 * Visual Novel:
   * Like galgame but no audio
-* RTS(Real-time strategy)Ôº?
+* RTS(Real-time strategy)Ôºö
   * Need to manage resource to defeat rival in real-time 
   * The famous RTS games are Dune, StarCraft, Warcraft, Age of Empires
   * You cannot not see what happen on entire map, so you need to use your unit to explore the region
@@ -122,7 +122,7 @@ That is, a game can say it is multiply features.
 * MOBA(multiplayer online battle arena)
   * Evolution from RTS, simplify the number of unit
   * Need to coorperate with teammate
-* Incremental gamesÔº?
+* Incremental gamesÔºö
   * Usually is a kind of casual game, just increasing items
 
 ## Recommand Youtube Channel
@@ -135,4 +135,3 @@ tags:
   - [[Game]]
   
 ---
-

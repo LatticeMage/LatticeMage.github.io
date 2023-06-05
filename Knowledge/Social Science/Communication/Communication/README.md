@@ -3,7 +3,7 @@ layout: default
 ---
 # Communication
 
-## ä»¥ä??ºAIå¯«ç??‡ç?
+## ä»¥ä¸‹ç‚ºAIå¯«çš„æ–‡ç« 
 Effective communication is key to building relationships and understanding others, even when you are not able to directly access their thoughts. Here are a few strategies you can try when communicating with others in order to better understand their perspectives:
 * Ask open-ended questions: Asking open-ended questions, rather than closed-ended questions that can be answered with a simple "yes" or "no," can encourage others to share more about their thoughts and feelings.
 * Practice active listening: Active listening involves paying attention to what the other person is saying, making eye contact, and providing nonverbal cues that show you are listening, such as nodding or making small sounds of understanding. By actively listening to others, you may be able to better understand their perspective.

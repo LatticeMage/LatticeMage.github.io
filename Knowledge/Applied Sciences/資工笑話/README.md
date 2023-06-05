@@ -4,7 +4,7 @@ layout: default
 # è³‡å·¥ç¬‘è©±
 
 ## 
-Bogosort ?´å??’å?æ³?
+Bogosort çŒ´å­æ’åºæ³•
 
 
 ##
@@ -22,8 +22,7 @@ https://twitter.com/PR0GRAMMERHUM0R/status/1630070248555569154
 tags:
   - [[in-joke]]
   - [[Engineering]]
-  - [[Dunning?“Kruger effect]]
+  - [[Dunningâ€“Kruger effect]]
   
 ---
-
 

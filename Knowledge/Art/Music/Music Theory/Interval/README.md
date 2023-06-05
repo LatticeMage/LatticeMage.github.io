@@ -5,7 +5,7 @@ layout: default
 
 
 ## [Interval](https://en.wikipedia.org/wiki/Interval_(music))
-[?��??�以?��?一次�??�音程�?稱�?](https://www.youtube.com/watch?v=QLDktqMxgmY)
+[八分鐘以內，一次搞懂音程名稱！](https://www.youtube.com/watch?v=QLDktqMxgmY)
 
 distance of pitch
 
@@ -30,6 +30,6 @@ Semitone|intervals|intervals
 ---
 tags:
   - [[Music Theory]]
-  - [[NiceChord+ (好�?�?)]]
+  - [[NiceChord+ (好和弦+)]]
   
 ---

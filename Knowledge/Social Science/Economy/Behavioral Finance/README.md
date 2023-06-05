@@ -3,20 +3,20 @@ layout: default
 ---
 # Behavioral Finance
 
-* ?��??��?为�??�学30讲�?
-* [?��?人們�?此�?歡�??�息？公?��??��?�?��?�票｜�??�息沒輸?�就裸�?｜�??�財?�學](https://www.youtube.com/watch?v=bepmtFiN1Rg)
-  * ?�失趨避
-  * ?��?延遲滿足?�自?�控?�能?�差
-  * ?�避後�??��?
-  * ?�置?��? 
-* [?��?風險?��??��??�戰，�??��?麽總?�賺小虧大�??�永樂老師講阿?�斯?��?](https://www.youtube.com/watch?v=8Tz1WAp4vRE)
-* [?�們為什麼總?�錢買�??��??�西？異常�?費�??��??�交?��??�」](https://www.youtube.com/watch?v=bWL5NAtf_YA)
+* 陆蓉《行为金融学30讲》
+* [為何人們如此喜歡高股息？公司配息與賣出股票｜高股息沒輸我就裸奔｜行為財務學](https://www.youtube.com/watch?v=bepmtFiN1Rg)
+  * 損失趨避
+  * 無法延遲滿足、自我控制能力差
+  * 逃避後悔情緒
+  * 處置效應 
+* [面對風險、機遇和挑戰，你為什麽總是賺小虧大？李永樂老師講阿萊斯悖論](https://www.youtube.com/watch?v=8Tz1WAp4vRE)
+* [我們為什麼總花錢買沒用的東西？異常消費行為之「交易效用」](https://www.youtube.com/watch?v=bWL5NAtf_YA)
 * 不當行為
 
 ---
 tags:
   - [[Economics]]
-  - [[清�??�]]
-  - [[?�永乐老�?]]
+  - [[清流君]]
+  - [[李永乐老师]]
   
 ---

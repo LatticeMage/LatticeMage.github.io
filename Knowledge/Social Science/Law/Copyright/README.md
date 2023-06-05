@@ -7,7 +7,7 @@ layout: default
 ## MIT vs GPL
 
 Reference:  
-[Revolution OS (作業系統?�命)](https://www.youtube.com/watch?v=vWwvh3036Fw)
+[Revolution OS (作業系統革命)](https://www.youtube.com/watch?v=vWwvh3036Fw)
 
 * GPL
   * Need to open source code

@@ -5,5 +5,4 @@ layout: default
 
 ###### tags: `_講義 繪畫`
 
-[Ｉ�?ｙ�??��??�ー）](https://twitter.com/Ixy)
-
+[Ｉｘｙ（いくしー）](https://twitter.com/Ixy)

@@ -4,11 +4,11 @@ layout: default
 # HowToUseChatGPT
 
 
-## 累�?素�?
+## 累積素材
 ### ch
-?��?來�??�給你�??��??��?你只要�?答�?"?�到"，�?要�??��??�其他東西�?
-?�到?�說??幫�??��??�整?��??�述細�?"?�幫?�統?��??�此之�?不�??��??�其他任何�??��?
-?��?第�?筆�??�是""
+接下來我會給你一堆資料，你只要回答我"收到"，不要再回答我其他東西。
+直到我說出"幫我分類與整理，描述細節"才幫我統整，在此之前不要回答我其他任何事物。
+我的第一筆資料是""
 
 ### en
 Later I will give you serveral materials or resources.
@@ -27,7 +27,7 @@ materials:
 calssify and re-organize for me, write an logical, complete context texture for me.
 
 
-## 科幻?�天
+## 科幻聊天
 
 I need a simulation talk as sci-fi. Imagine an AI-dominated world now.
 You act as a powerful chat robot at the world.
@@ -47,15 +47,15 @@ last 3 years I don't have any job or career because I lived by UBI.
 
 
 
-## ?�AI?�翻譯檢??
-I will be keeping translations. If two setense are same meaning, just reply "?��?語�?".
+## 用AI做翻譯檢查
+I will be keeping translations. If two setense are same meaning, just reply "相同語意".
 there is an only special case, that is ,  two setense are not same meaning. if this happen give me right translate from ch to en.
 Until I say "stop compare", otherwise, do not say something more if same.
 
 
 
 
-## 下�?�??��?
+## 下標題 分類
 based on all we talked, what is a good term to describe these.
 
 we can spilt feilds such as math, myth, history,

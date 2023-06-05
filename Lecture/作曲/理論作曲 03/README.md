@@ -1,9 +1,9 @@
 ---
 layout: default
 ---
-# 璎涚京 ?嗚?浣滄洸 03
+# 璎涚京 鐞嗚珫浣滄洸 03
 
-###### tags: `_璎涚京 ?嗚?浣滄洸`
+###### tags: `_璎涚京 鐞嗚珫浣滄洸`
 
 [12-bar blues](
 https://www.youtube.com/watch?v=WId0K_X0MHc)

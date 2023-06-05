@@ -52,4 +52,3 @@ tags:
 * GPU resource
   * dx11: SRV, RTV......
   * dx12: Heap
-

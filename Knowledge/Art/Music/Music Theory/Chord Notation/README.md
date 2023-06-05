@@ -45,11 +45,11 @@ X 2nd|P4|M6
 Xm 1st|M3|M6
 Xm 2nd|P4|m6
 
-[?��??�以?��?一次�??��??��??�代?�弦�??！](https://www.youtube.com/watch?v=I0y2LY4sPZA)
+[十分鐘以內，一次搞懂所有的現代和弦代號！](https://www.youtube.com/watch?v=I0y2LY4sPZA)
 
 ## [Figured Bass](https://en.wikipedia.org/wiki/Figured_bass)
 
-* [?��?低音！](https://www.youtube.com/watch?v=_I5EPcOykrc)
+* [數字低音！](https://www.youtube.com/watch?v=_I5EPcOykrc)
 
 Chord | Figured Bass
 -|-
@@ -65,7 +65,6 @@ Xm 2nd|6<br>4
 tags:
   - [[Music Theory]]
   - [[Figured Bass]]
-  - [[NiceChord+ (好�?�?)]]
+  - [[NiceChord+ (好和弦+)]]
   
 ---
-

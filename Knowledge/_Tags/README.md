@@ -8,23 +8,23 @@ layout: default
 	* [SteamTools](/Knowledge/ACGN/Game/SteamTools)
 	* [Arcanum](/Knowledge/Humanities/Language/English/Vocabulary/Arcanum)
 	* [DungeonsAndDesktops](/Knowledge/Humanities/Language/English/Vocabulary/DungeonsAndDesktops)
-	* [?��??�ウ????�](/Knowledge/Humanities/Language/Japanese/Vocabulary/?��??�ウ?????
+	* [サノバウィッチ](/Knowledge/Humanities/Language/Japanese/Vocabulary/サノバウィッチ)
 * ACGN
 	* [Game Designer](/Knowledge/ACGN/Game/Game%20Designer)
 	* [Game Designing](/Knowledge/ACGN/Game/Game%20Designing)
 	* [ACGN YT](/Knowledge/Art/Youtuber/ACGN%20YT)
-* 綺�? Game Thinkers
+* 綺麗 Game Thinkers
 	* [Game Designer](/Knowledge/ACGN/Game/Game%20Designer)
 	* [ACGN YT](/Knowledge/Art/Youtuber/ACGN%20YT)
-* Gamker?�壳官方频�?
+* Gamker攻壳官方频道
 	* [Game Designer](/Knowledge/ACGN/Game/Game%20Designer)
 	* [ACGN YT](/Knowledge/Art/Youtuber/ACGN%20YT)
-	* [追�?極致?��?義](/Knowledge/Humanities/Philosophy/追�?極致?��?�?
+	* [追求極致的意義](/Knowledge/Humanities/Philosophy/追求極致的意義)
 * Extra Credits
 	* [Game Designer](/Knowledge/ACGN/Game/Game%20Designer)
 	* [Game Designing](/Knowledge/ACGN/Game/Game%20Designing)
 	* [ACGN YT](/Knowledge/Art/Youtuber/ACGN%20YT)
-* ?�訶???�戲編�??��???
+* 摩訶聖 遊戲編劇聊遊戲
 	* [Game Designer](/Knowledge/ACGN/Game/Game%20Designer)
 	* [Game Designing](/Knowledge/ACGN/Game/Game%20Designing)
 	* [ACGN YT](/Knowledge/Art/Youtuber/ACGN%20YT)
@@ -45,20 +45,20 @@ layout: default
 * Rouguelike
 	* [Cult of the Lamb](/Knowledge/ACGN/Game/Rouguelike/Cult%20of%20the%20Lamb)
 	* [ELONA](/Knowledge/ACGN/Game/Rouguelike/ELONA)
-	* [?��??�ィ?�ク?�ー?�](/Knowledge/ACGN/Game/Rouguelike/?��??�ィ?�ク?�ー??
+	* [ルナティックドーン](/Knowledge/ACGN/Game/Rouguelike/ルナティックドーン)
 * RPG
 	* [Cult of the Lamb](/Knowledge/ACGN/Game/Rouguelike/Cult%20of%20the%20Lamb)
 * Open World
 	* [ELONA](/Knowledge/ACGN/Game/Rouguelike/ELONA)
-	* [?��??�ィ?�ク?�ー?�](/Knowledge/ACGN/Game/Rouguelike/?��??�ィ?�ク?�ー??
-* ?�孫?��???
-	* [?��??�ィ?�ク?�ー?�](/Knowledge/ACGN/Game/Rouguelike/?��??�ィ?�ク?�ー??
+	* [ルナティックドーン](/Knowledge/ACGN/Game/Rouguelike/ルナティックドーン)
+* 老孫聊遊戲
+	* [ルナティックドーン](/Knowledge/ACGN/Game/Rouguelike/ルナティックドーン)
 	* [ACGN YT](/Knowledge/Art/Youtuber/ACGN%20YT)
 * in-joke
 	* [資工笑話](/Knowledge/Applied%20Sciences/資工笑話)
 * Engineering
 	* [資工笑話](/Knowledge/Applied%20Sciences/資工笑話)
-* Dunning?�Kruger effect
+* Dunning–Kruger effect
 	* [資工笑話](/Knowledge/Applied%20Sciences/資工笑話)
 	* [Some Coding Arctile](/Knowledge/Applied%20Sciences/Technology/Programming/Some%20Coding%20Arctile)
 * Algorithm
@@ -67,9 +67,9 @@ layout: default
 	* [Traditional AI](/Knowledge/Applied%20Sciences/Algorithm/Traditional%20AI)
 	* [HowToUseChatGPT](/Knowledge/Applied%20Sciences/Technology/HowToUseChatGPT)
 	* [Prompt](/Knowledge/Applied%20Sciences/Technology/Prompt)
-	* [一?�只不�??��??��?簾](/Knowledge/Humanities/Philosophy/一?�只不�??��??��?�?
+	* [一切只不過是藍色窗簾](/Knowledge/Humanities/Philosophy/一切只不過是藍色窗簾)
 	* [Conpetitive Product Analysis](/Knowledge/Social%20Science/Economy/Conpetitive%20Product%20Analysis)
-	* [世�??��?被輾壓�??�覺](/Knowledge/Social%20Science/Psychology/世�??��?被輾壓�??�覺)
+	* [世界冠軍被輾壓的感覺](/Knowledge/Social%20Science/Psychology/世界冠軍被輾壓的感覺)
 * Drawing
 	* [CSPHotKey](/Knowledge/Applied%20Sciences/Technology/CSPHotKey)
 	* [Anthropotomy](/Knowledge/Art/Drawing/Anthropotomy)
@@ -77,7 +77,7 @@ layout: default
 	* [Copy](/Knowledge/Art/Drawing/Copy)
 	* [Croquis](/Knowledge/Art/Drawing/Croquis)
 	* [Perspective](/Knowledge/Art/Drawing/Perspective)
-	* [?��??�](/Knowledge/Art/Drawing/?��???
+	* [抖抖村](/Knowledge/Art/Drawing/抖抖村)
 	* [繪師](/Knowledge/Art/Drawing/繪師)
 * Technology
 	* [CSPHotKey](/Knowledge/Applied%20Sciences/Technology/CSPHotKey)
@@ -95,12 +95,12 @@ layout: default
 	* [Knowledge Management](/Knowledge/Applied%20Sciences/Technology/Knowledge%20Management)
 * Markdown
 	* [Knowledge Management](/Knowledge/Applied%20Sciences/Technology/Knowledge%20Management)
-* ?�石谈芯
+* 老石谈芯
 	* [Knowledge Management](/Knowledge/Applied%20Sciences/Technology/Knowledge%20Management)
 	* [Productivity Tools](/Knowledge/Applied%20Sciences/Technology/Productivity%20Tools)
 	* [Science YT](/Knowledge/Art/Youtuber/Science%20YT)
 	* [Mental Toughness](/Knowledge/Social%20Science/Psychology/Mental%20Toughness)
-* ?�到Axton
+* 回到Axton
 	* [Knowledge Management](/Knowledge/Applied%20Sciences/Technology/Knowledge%20Management)
 * Music
 	* [Music Training Apps](/Knowledge/Applied%20Sciences/Technology/Music%20Training%20Apps)
@@ -113,14 +113,14 @@ layout: default
 	* [PostMetal](/Knowledge/Art/Music/Music%20Types/PostMetal)
 	* [PostRock](/Knowledge/Art/Music/Music%20Types/PostRock)
 	* [Progressive Metal](/Knowledge/Art/Music/Music%20Types/Progressive%20Metal)
-* ?�亦LYi
+* 林亦LYi
 	* [Productivity Tools](/Knowledge/Applied%20Sciences/Technology/Productivity%20Tools)
 	* [Science YT](/Knowledge/Art/Youtuber/Science%20YT)
-* ?��?Lion
+* 即凉Lion
 	* [Productivity Tools](/Knowledge/Applied%20Sciences/Technology/Productivity%20Tools)
 	* [Mental Toughness](/Knowledge/Social%20Science/Psychology/Mental%20Toughness)
 	* [Self-management](/Knowledge/Social%20Science/Psychology/Self-management)
-* 科�??�人毛巾Vincent
+* 科技旅人毛巾Vincent
 	* [Productivity Tools](/Knowledge/Applied%20Sciences/Technology/Productivity%20Tools)
 * MoneyXYZ
 	* [Prompt](/Knowledge/Applied%20Sciences/Technology/Prompt)
@@ -128,7 +128,7 @@ layout: default
 	* [Anti-capitalism](/Knowledge/Social%20Science/Anti-capitalism)
 	* [Lying Flat](/Knowledge/Social%20Science/Lying%20Flat)
 	* [Financial Independence](/Knowledge/Social%20Science/Economy/Financial%20Independence)
-* 空�??�CankingSketch
+* 空罐王CankingSketch
 	* [Prompt](/Knowledge/Applied%20Sciences/Technology/Prompt)
 * Programming
 	* [GraphicAPIs](/Knowledge/Applied%20Sciences/Technology/Programming/GraphicAPIs)
@@ -173,15 +173,15 @@ layout: default
 * Color
 	* [Chroma](/Knowledge/Art/Drawing/Chroma)
 	* [ColorSpace](/Knowledge/Natural%20Science/Physics/ColorSpace)
-* ?��???
+* 抖抖村
 	* [Chroma](/Knowledge/Art/Drawing/Chroma)
 	* [Copy](/Knowledge/Art/Drawing/Copy)
 	* [Croquis](/Knowledge/Art/Drawing/Croquis)
 	* [Perspective](/Knowledge/Art/Drawing/Perspective)
-	* [?��??�](/Knowledge/Art/Drawing/?��???
+	* [抖抖村](/Knowledge/Art/Drawing/抖抖村)
 	* [Art YT](/Knowledge/Art/Youtuber/Art%20YT)
 	* [Growing](/Knowledge/Social%20Science/Psychology/Growing)
-* ?�永乐老�?
+* 李永乐老师
 	* [Perspective](/Knowledge/Art/Drawing/Perspective)
 	* [Science YT](/Knowledge/Art/Youtuber/Science%20YT)
 	* [Game Theory](/Knowledge/Natural%20Science/Mathematics/Game%20Theory)
@@ -197,7 +197,7 @@ layout: default
 * Metal
 	* [Musician](/Knowledge/Art/Music/Musician)
 	* [Progressive Metal](/Knowledge/Art/Music/Music%20Types/Progressive%20Metal)
-* Yuki Matsui / ?��?祐貴
+* Yuki Matsui / 松井祐貴
 	* [Musician](/Knowledge/Art/Music/Musician)
 * Seiji Igusa
 	* [Musician](/Knowledge/Art/Music/Musician)
@@ -209,7 +209,7 @@ layout: default
 	* [Musician](/Knowledge/Art/Music/Musician)
 * Tommy Emmanuel
 	* [Musician](/Knowledge/Art/Music/Musician)
-* ?�尾?�ー?�ロ??
+* 押尾コータロー
 	* [Musician](/Knowledge/Art/Music/Musician)
 * Masaaki Kishibe Guitar Channel
 	* [Musician](/Knowledge/Art/Music/Musician)
@@ -237,7 +237,7 @@ layout: default
 	* [Musician](/Knowledge/Art/Music/Musician)
 * DEPAPEPE Official YouTube Channel
 	* [Musician](/Knowledge/Art/Music/Musician)
-* ????��??��?
+* 董舜文的頻道
 	* [Musician](/Knowledge/Art/Music/Musician)
 * Animenz Piano Sheets
 	* [Musician](/Knowledge/Art/Music/Musician)
@@ -255,7 +255,7 @@ layout: default
 	* [Musician](/Knowledge/Art/Music/Musician)
 * DISMENTOPIA Taiwan
 	* [Musician](/Knowledge/Art/Music/Musician)
-* NiceChord+ (好�?�?)
+* NiceChord+ (好和弦+)
 	* [Bass Line](/Knowledge/Art/Music/Music%20Theory/Bass%20Line)
 	* [Chord Notation](/Knowledge/Art/Music/Music%20Theory/Chord%20Notation)
 	* [Diatonic](/Knowledge/Art/Music/Music%20Theory/Diatonic)
@@ -270,7 +270,7 @@ layout: default
 	* [Chord Notation](/Knowledge/Art/Music/Music%20Theory/Chord%20Notation)
 * Chord Notation
 	* [Diatonic](/Knowledge/Art/Music/Music%20Theory/Diatonic)
-* Wen?��?�?
+* Wen吉他誌
 	* [Diatonic](/Knowledge/Art/Music/Music%20Theory/Diatonic)
 	* [Music Theroy YT](/Knowledge/Art/Youtuber/Music%20Theroy%20YT)
 * Lunamos
@@ -279,61 +279,61 @@ layout: default
 	* [ACGN YT](/Knowledge/Art/Youtuber/ACGN%20YT)
 * Jorbs
 	* [ACGN YT](/Knowledge/Art/Youtuber/ACGN%20YT)
-* ?�摸??Chumomo
+* 猪摸摸-Chumomo
 	* [ACGN YT](/Knowledge/Art/Youtuber/ACGN%20YT)
 * Art
 	* [Art YT](/Knowledge/Art/Youtuber/Art%20YT)
-* 马英俊And马�?�?
+* 马英俊And马帅气
 	* [Art YT](/Knowledge/Art/Youtuber/Art%20YT)
-* ?��?丟�??��?話�?�?
+* 錢丟丟文明神話講解
 	* [Art YT](/Knowledge/Art/Youtuber/Art%20YT)
 * Proko
 	* [Art YT](/Knowledge/Art/Youtuber/Art%20YT)
-* 齋藤?�葵?��??��?
+* 齋藤直葵插圖頻道
 	* [Art YT](/Knowledge/Art/Youtuber/Art%20YT)
-* ?��??�??993
+* 青蛙刀圣1993
 	* [Art YT](/Knowledge/Art/Youtuber/Art%20YT)
-* ?�是?�K ThatsOldKay
+* 這是老K ThatsOldKay
 	* [Art YT](/Knowledge/Art/Youtuber/Art%20YT)
-* Stand up, Brian! ?�恩站起來�?
+* Stand up, Brian! 博恩站起來！
 	* [Art YT](/Knowledge/Art/Youtuber/Art%20YT)
-* ?�蒻講幹�?
+* 蒟蒻講幹話
 	* [Art YT](/Knowledge/Art/Youtuber/Art%20YT)
-* ??���?
+* 連公子
 	* [Art YT](/Knowledge/Art/Youtuber/Art%20YT)
 * Competition
 	* [Competition YT](/Knowledge/Art/Youtuber/Competition%20YT)
-* 糕�?
+* 糕极
 	* [Competition YT](/Knowledge/Art/Youtuber/Competition%20YT)
-* 寻找中国?�夫
+* 寻找中国功夫
 	* [Competition YT](/Knowledge/Art/Youtuber/Competition%20YT)
 * 小六SixPoker
 	* [Competition YT](/Knowledge/Art/Youtuber/Competition%20YT)
 	* [Investing](/Knowledge/Social%20Science/Economy/Investing)
 	* [Investing2](/Knowledge/Social%20Science/Economy/Investing2)
-* ?�泥Ronnie
+* 肉泥Ronnie
 	* [Competition YT](/Knowledge/Art/Youtuber/Competition%20YT)
 	* [Investing](/Knowledge/Social%20Science/Economy/Investing)
-* ?�倫去?��? Allengoaround
+* 艾倫去哪兒 Allengoaround
 	* [Competition YT](/Knowledge/Art/Youtuber/Competition%20YT)
 	* [Investing](/Knowledge/Social%20Science/Economy/Investing)
-* 高�???
+* 高川格
 	* [Competition YT](/Knowledge/Art/Youtuber/Competition%20YT)
-* 小�??��?�?
+* 小小林圍棋
 	* [Competition YT](/Knowledge/Art/Youtuber/Competition%20YT)
 * 海峰棋院
 	* [Competition YT](/Knowledge/Art/Youtuber/Competition%20YT)
-* 大�??�老師
+* 大野狼老師
 	* [Competition YT](/Knowledge/Art/Youtuber/Competition%20YT)
 * Economy
 	* [Economy YT](/Knowledge/Art/Youtuber/Economy%20YT)
 	* [Self-management](/Knowledge/Social%20Science/Psychology/Self-management)
-* ?��??��???
+* 老王看世界
 	* [Economy YT](/Knowledge/Art/Youtuber/Economy%20YT)
 	* [Investing](/Knowledge/Social%20Science/Economy/Investing)
-* ?�乾??KuKanTieh
+* 股乾爹 KuKanTieh
 	* [Economy YT](/Knowledge/Art/Youtuber/Economy%20YT)
-* 清�???
+* 清流君
 	* [Economy YT](/Knowledge/Art/Youtuber/Economy%20YT)
 	* [Behavioral Finance](/Knowledge/Social%20Science/Economy/Behavioral%20Finance)
 	* [Investing](/Knowledge/Social%20Science/Economy/Investing)
@@ -344,22 +344,22 @@ layout: default
 	* [Outcome-oriented](/Knowledge/Social%20Science/Economy/Outcome-oriented)
 	* [UBI](/Knowledge/Social%20Science/Economy/UBI)
 	* [Mental Toughness](/Knowledge/Social%20Science/Psychology/Mental%20Toughness)
-* Gooaye ?��?
+* Gooaye 股癌
 	* [Economy YT](/Knowledge/Art/Youtuber/Economy%20YT)
 	* [Financial Independence](/Knowledge/Social%20Science/Economy/Financial%20Independence)
 	* [Investing](/Knowledge/Social%20Science/Economy/Investing)
 	* [Investing2](/Knowledge/Social%20Science/Economy/Investing2)
 * All-In Podcast
 	* [Economy YT](/Knowledge/Art/Youtuber/Economy%20YT)
-* ?�瑪?��?
+* 雷瑪莉歐
 	* [Economy YT](/Knowledge/Art/Youtuber/Economy%20YT)
 	* [Investing](/Knowledge/Social%20Science/Economy/Investing)
-* 美�?讲�???
+* 美投讲美股
 	* [Economy YT](/Knowledge/Art/Youtuber/Economy%20YT)
 	* [Investing](/Knowledge/Social%20Science/Economy/Investing)
-* M觀�?
+* M觀點
 	* [Economy YT](/Knowledge/Art/Youtuber/Economy%20YT)
-* Men's Game ?�物�?
+* Men's Game 玩物誌
 	* [Economy YT](/Knowledge/Art/Youtuber/Economy%20YT)
 	* [Business Model](/Knowledge/Social%20Science/Economy/Business%20Model)
 * Ryan Wu
@@ -370,26 +370,26 @@ layout: default
 	* [Self-management](/Knowledge/Social%20Science/Psychology/Self-management)
 * History
 	* [History YT](/Knowledge/Art/Youtuber/History%20YT)
-	* [歷史?�翻案](/Knowledge/Humanities/History/歷史?�翻�?
+	* [歷史的翻案](/Knowledge/Humanities/History/歷史的翻案)
 	* [Overfitting](/Knowledge/Humanities/Philosophy/Overfitting)
-* 天�?衛�?
+* 天狗衛視
 	* [History YT](/Knowledge/Art/Youtuber/History%20YT)
 * cheap
 	* [History YT](/Knowledge/Art/Youtuber/History%20YT)
-* 大�?寺卿
+* 大理寺卿
 	* [History YT](/Knowledge/Art/Youtuber/History%20YT)
 * Music Theroy
 	* [Music Theroy YT](/Knowledge/Art/Youtuber/Music%20Theroy%20YT)
-* 笑�??�LOL
+* 笑哈哈LOL
 	* [Music Theroy YT](/Knowledge/Art/Youtuber/Music%20Theroy%20YT)
 	* [Growing](/Knowledge/Social%20Science/Psychology/Growing)
-* 檸檬??Janet
+* 檸檬卷 Janet
 	* [Music Theroy YT](/Knowledge/Art/Youtuber/Music%20Theroy%20YT)
 	* [Growing](/Knowledge/Social%20Science/Psychology/Growing)
-* ?�田工�?�?
+* 成田工作室
 	* [Music Theroy YT](/Knowledge/Art/Youtuber/Music%20Theroy%20YT)
 	* [Growing](/Knowledge/Social%20Science/Psychology/Growing)
-* ?��??�讲?��?
+* 理科生讲音乐
 	* [Music Theroy YT](/Knowledge/Art/Youtuber/Music%20Theroy%20YT)
 * Jacob Collier
 	* [Music Theroy YT](/Knowledge/Art/Youtuber/Music%20Theroy%20YT)
@@ -412,54 +412,54 @@ layout: default
 * 維思維WeisWay
 	* [Psychology YT](/Knowledge/Art/Youtuber/Psychology%20YT)
 	* [DID](/Knowledge/Social%20Science/Psychology/DID)
-* 武�?红讲心�?
+* 武志红讲心理
 	* [Psychology YT](/Knowledge/Art/Youtuber/Psychology%20YT)
 	* [Bullying](/Knowledge/Social%20Science/Psychology/Bullying)
-* 馬大??
+* 馬大元
 	* [Psychology YT](/Knowledge/Art/Youtuber/Psychology%20YT)
-* ?��?�?
+* 冏星人
 	* [Psychology YT](/Knowledge/Art/Youtuber/Psychology%20YT)
 	* [Emotional Blackmail](/Knowledge/Social%20Science/Psychology/Emotional%20Blackmail)
-* 安慰记�???
+* 安慰记心理
 	* [Psychology YT](/Knowledge/Art/Youtuber/Psychology%20YT)
 * Science
 	* [Science YT](/Knowledge/Art/Youtuber/Science%20YT)
-* 超�?�?SuperY
+* 超級歪 SuperY
 	* [Science YT](/Knowledge/Art/Youtuber/Science%20YT)
 	* [Anti-capitalism](/Knowledge/Social%20Science/Anti-capitalism)
 	* [Financial Independence](/Knowledge/Social%20Science/Economy/Financial%20Independence)
 	* [UBI](/Knowledge/Social%20Science/Economy/UBI)
-* ?��?为�?
+* 眼见为识
 	* [Science YT](/Knowledge/Art/Youtuber/Science%20YT)
 	* [ColorSpace](/Knowledge/Natural%20Science/Physics/ColorSpace)
 * 妈咪说MommyTalk
 	* [Science YT](/Knowledge/Art/Youtuber/Science%20YT)
 * 3Blue1Brown
 	* [Science YT](/Knowledge/Art/Youtuber/Science%20YT)
-* ?��?調查??
+* 杜安調查團
 	* [Science YT](/Knowledge/Art/Youtuber/Science%20YT)
 * 科学声音
 	* [Science YT](/Knowledge/Art/Youtuber/Science%20YT)
-* ?�客湾Geekerwan
+* 极客湾Geekerwan
 	* [Science YT](/Knowledge/Art/Youtuber/Science%20YT)
-* 黃瑽寧醫師健康�???
+* 黃瑽寧醫師健康講堂
 	* [Science YT](/Knowledge/Art/Youtuber/Science%20YT)
-* ?��?鴿�??�學天地
+* 蒼藍鴿的醫學天地
 	* [Science YT](/Knowledge/Art/Youtuber/Science%20YT)
 * Strength Training
 	* [Strength Training YT](/Knowledge/Art/Youtuber/Strength%20Training%20YT)
-	* [彈�?帶可以練?��?](/Knowledge/Natural%20Science/Physiology/彈�?帶可以練?��?)
-* ?�天?��??��?上健身房
+	* [彈力帶可以練重量](/Knowledge/Natural%20Science/Physiology/彈力帶可以練重量)
+* 白天手術房晚上健身房
 	* [Strength Training YT](/Knowledge/Art/Youtuber/Strength%20Training%20YT)
 	* [Strength Training](/Knowledge/Natural%20Science/Physiology/Strength%20Training)
-* SBD Taiwan ?��?
+* SBD Taiwan 邱個
 	* [Strength Training YT](/Knowledge/Art/Youtuber/Strength%20Training%20YT)
 	* [Strength Training](/Knowledge/Natural%20Science/Physiology/Strength%20Training)
 	* [Growing](/Knowledge/Social%20Science/Psychology/Growing)
 	* [Mental Toughness](/Knowledge/Social%20Science/Psychology/Mental%20Toughness)
-* ?�人?��?
+* 健人蓋伊
 	* [Strength Training YT](/Knowledge/Art/Youtuber/Strength%20Training%20YT)
-* CYFIT?��?
+* CYFIT兆佑
 	* [Strength Training YT](/Knowledge/Art/Youtuber/Strength%20Training%20YT)
 	* [Strength Training](/Knowledge/Natural%20Science/Physiology/Strength%20Training)
 	* [Growing](/Knowledge/Social%20Science/Psychology/Growing)
@@ -470,29 +470,29 @@ layout: default
 	* [Arcanum](/Knowledge/Humanities/Language/English/Vocabulary/Arcanum)
 	* [DungeonsAndDesktops](/Knowledge/Humanities/Language/English/Vocabulary/DungeonsAndDesktops)
 * Japanese
-	* [?��??�ウ????�](/Knowledge/Humanities/Language/Japanese/Vocabulary/?��??�ウ?????
+	* [サノバウィッチ](/Knowledge/Humanities/Language/Japanese/Vocabulary/サノバウィッチ)
 * Chen Lily
-	* [語�?學�?點](/Knowledge/Humanities/Language/Linguistics/語�?學�?�?
+	* [語言學觀點](/Knowledge/Humanities/Language/Linguistics/語言學觀點)
 * Philosophy
-	* [ACGN?�是?�?��?尼�??�學](/Knowledge/Humanities/Philosophy/ACGN?�是?�?��?尼�??�學)
+	* [ACGN才是最接近尼采哲學](/Knowledge/Humanities/Philosophy/ACGN才是最接近尼采哲學)
 	* [Overfitting](/Knowledge/Humanities/Philosophy/Overfitting)
-	* [一?�只不�??��??��?簾](/Knowledge/Humanities/Philosophy/一?�只不�??��??��?�?
-	* [以人廢�?](/Knowledge/Humanities/Philosophy/以人廢�?)
-	* [任�?話�??�是?�景?��?](/Knowledge/Humanities/Philosophy/任�?話�??�是?�景?��?)
-	* [尼�??�學?�自?��??��?](/Knowledge/Humanities/Philosophy/尼�??�學?�自?��??��?)
-	* [?�治跟�??��??�](/Knowledge/Humanities/Philosophy/?�治跟�??��???
-	* [決�??�該?�慮誰](/Knowledge/Humanities/Philosophy/決�??�該?�慮�?
-	* [決鬥?��?素](/Knowledge/Humanities/Philosophy/決鬥?��?�?
-	* [?�現_vs_?��?](/Knowledge/Humanities/Philosophy/?�現_vs_?��?)
-	* [追�?極致?��?義](/Knowledge/Humanities/Philosophy/追�?極致?��?�?
-	* [?�只?��?度�??�差?�](/Knowledge/Humanities/Philosophy/?�只?��?度�??�差??
-	* [馬�??��??�主義�?點](/Knowledge/Humanities/Philosophy/馬�??��??�主義�?�?
+	* [一切只不過是藍色窗簾](/Knowledge/Humanities/Philosophy/一切只不過是藍色窗簾)
+	* [以人廢言](/Knowledge/Humanities/Philosophy/以人廢言)
+	* [任何話語都是背景問題](/Knowledge/Humanities/Philosophy/任何話語都是背景問題)
+	* [尼采哲學是自相矛盾的](/Knowledge/Humanities/Philosophy/尼采哲學是自相矛盾的)
+	* [政治跟宗教很像](/Knowledge/Humanities/Philosophy/政治跟宗教很像)
+	* [決策應該考慮誰](/Knowledge/Humanities/Philosophy/決策應該考慮誰)
+	* [決鬥的要素](/Knowledge/Humanities/Philosophy/決鬥的要素)
+	* [發現_vs_發明](/Knowledge/Humanities/Philosophy/發現_vs_發明)
+	* [追求極致的意義](/Knowledge/Humanities/Philosophy/追求極致的意義)
+	* [都只是程度上的差異](/Knowledge/Humanities/Philosophy/都只是程度上的差異)
+	* [馬克思資本主義終點](/Knowledge/Humanities/Philosophy/馬克思資本主義終點)
 	* [Financial Independence](/Knowledge/Social%20Science/Economy/Financial%20Independence)
 	* [Analytical Thinking](/Knowledge/Social%20Science/Psychology/Analytical%20Thinking)
 	* [Mental Toughness](/Knowledge/Social%20Science/Psychology/Mental%20Toughness)
 * Nietzsche
-	* [ACGN?�是?�?��?尼�??�學](/Knowledge/Humanities/Philosophy/ACGN?�是?�?��?尼�??�學)
-	* [尼�??�學?�自?��??��?](/Knowledge/Humanities/Philosophy/尼�??�學?�自?��??��?)
+	* [ACGN才是最接近尼采哲學](/Knowledge/Humanities/Philosophy/ACGN才是最接近尼采哲學)
+	* [尼采哲學是自相矛盾的](/Knowledge/Humanities/Philosophy/尼采哲學是自相矛盾的)
 * Life
 	* [Life Planning](/Knowledge/Humanities/Philosophy/Life%20Planning)
 * Bimanual Coordination
@@ -500,15 +500,15 @@ layout: default
 * Learned Helplessness
 	* [Overfitting](/Knowledge/Humanities/Philosophy/Overfitting)
 * Cthulhu
-	* [一?�只不�??��??��?簾](/Knowledge/Humanities/Philosophy/一?�只不�??��??��?�?
+	* [一切只不過是藍色窗簾](/Knowledge/Humanities/Philosophy/一切只不過是藍色窗簾)
 * Albert Einstein
-	* [一?�只不�??��??��?簾](/Knowledge/Humanities/Philosophy/一?�只不�??��??��?�?
+	* [一切只不過是藍色窗簾](/Knowledge/Humanities/Philosophy/一切只不過是藍色窗簾)
 * Wittgenstein
-	* [任�?話�??�是?�景?��?](/Knowledge/Humanities/Philosophy/任�?話�??�是?�景?��?)
+	* [任何話語都是背景問題](/Knowledge/Humanities/Philosophy/任何話語都是背景問題)
 * Karl Marx
-	* [馬�??��??�主義�?點](/Knowledge/Humanities/Philosophy/馬�??��??�主義�?�?
+	* [馬克思資本主義終點](/Knowledge/Humanities/Philosophy/馬克思資本主義終點)
 * Friedrich Nietzsche
-	* [馬�??��??�主義�?點](/Knowledge/Humanities/Philosophy/馬�??��??�主義�?�?
+	* [馬克思資本主義終點](/Knowledge/Humanities/Philosophy/馬克思資本主義終點)
 * Biology
 	* [Bimanual Coordination](/Knowledge/Natural%20Science/Biology/Bimanual%20Coordination)
 	* [Emotion](/Knowledge/Natural%20Science/Biology/Emotion)
@@ -519,7 +519,7 @@ layout: default
 	* [Meditation](/Knowledge/Natural%20Science/Biology/Meditation)
 	* [Brain](/Knowledge/Natural%20Science/Evolution/Brain)
 	* [Sleeping](/Knowledge/Natural%20Science/Evolution/Sleeping)
-* Better Leaf 好�?
+* Better Leaf 好葉
 	* [Meditation](/Knowledge/Natural%20Science/Biology/Meditation)
 	* [Financial Independence](/Knowledge/Social%20Science/Economy/Financial%20Independence)
 	* [Outcome-oriented](/Knowledge/Social%20Science/Economy/Outcome-oriented)
@@ -539,7 +539,7 @@ layout: default
 	* [Outcome-oriented](/Knowledge/Social%20Science/Economy/Outcome-oriented)
 	* [UBI](/Knowledge/Social%20Science/Economy/UBI)
 	* [Visionary Leadership](/Knowledge/Social%20Science/Economy/Visionary%20Leadership)
-	* [廠�?如�??�到?��??��??��??�性�??�](/Knowledge/Social%20Science/Economy/廠�?如�??�到?��??��??��??�性�???
+	* [廠商如何做到獨佔還有其外部性結果](/Knowledge/Social%20Science/Economy/廠商如何做到獨佔還有其外部性結果)
 * Mental Toughness
 	* [Game Theory](/Knowledge/Natural%20Science/Mathematics/Game%20Theory)
 	* [All-in](/Knowledge/Social%20Science/Economy/All-in)
@@ -552,15 +552,15 @@ layout: default
 * Physics
 	* [ColorSpace](/Knowledge/Natural%20Science/Physics/ColorSpace)
 	* [Strength Training](/Knowledge/Natural%20Science/Physiology/Strength%20Training)
-* ?��?師Ricky's Time
+* 營養師Ricky's Time
 	* [Strength Training](/Knowledge/Natural%20Science/Physiology/Strength%20Training)
 * Military
-	* [?�兵準�??��?](/Knowledge/Others/Military/?�兵準�??��?)
-* ?�地上滾?�工程師 Nic
+	* [當兵準備物品](/Knowledge/Others/Military/當兵準備物品)
+* 在地上滾的工程師 Nic
 	* [Career Planning](/Knowledge/Social%20Science/Career%20Planning)
 	* [Interview](/Knowledge/Social%20Science/Interview)
 	* [Mental Toughness](/Knowledge/Social%20Science/Psychology/Mental%20Toughness)
-* ?�酸�??�산�?
+* 胃酸人 위산맨
 	* [Lying Flat](/Knowledge/Social%20Science/Lying%20Flat)
 * Startup
 	* [All-in](/Knowledge/Social%20Science/Economy/All-in)
@@ -574,7 +574,7 @@ layout: default
 	* [All-in](/Knowledge/Social%20Science/Economy/All-in)
 * Sociology
 	* [All-in](/Knowledge/Social%20Science/Economy/All-in)
-* ?��? NingSelect
+* 陳寗 NingSelect
 	* [Business Model](/Knowledge/Social%20Science/Economy/Business%20Model)
 	* [Investing](/Knowledge/Social%20Science/Economy/Investing)
 	* [Outcome-oriented](/Knowledge/Social%20Science/Economy/Outcome-oriented)
@@ -588,11 +588,11 @@ layout: default
 	* [Investing Books](/Knowledge/Social%20Science/Economy/Investing%20Books)
 	* [Investing2](/Knowledge/Social%20Science/Economy/Investing2)
 	* [Mental Toughness](/Knowledge/Social%20Science/Psychology/Mental%20Toughness)
-* 好�?Bump
+* 好棒Bump
 	* [Investing](/Knowledge/Social%20Science/Economy/Investing)
-* ?��??�】Iku?�師?�房??
+* 【官方】Iku老師的房間
 	* [Outcome-oriented](/Knowledge/Social%20Science/Economy/Outcome-oriented)
-* ?�維?�啡
+* 思維咖啡
 	* [Outcome-oriented](/Knowledge/Social%20Science/Economy/Outcome-oriented)
 * Business
 	* [Visionary Leadership](/Knowledge/Social%20Science/Economy/Visionary%20Leadership)
@@ -600,16 +600,15 @@ layout: default
 	* [Copyright](/Knowledge/Social%20Science/Law/Copyright)
 * Lisence
 	* [Copyright](/Knowledge/Social%20Science/Law/Copyright)
-* ?�说?��??�总�?
+* 自说自话的总裁
 	* [DID](/Knowledge/Social%20Science/Psychology/DID)
-* ?�啾??
+* 啾啾鞋
 	* [Growing](/Knowledge/Social%20Science/Psychology/Growing)
-* 講日?��??�灣女�? Tiffany
+* 講日文的台灣女生 Tiffany
 	* [Self-management](/Knowledge/Social%20Science/Psychology/Self-management)
-* Shawna ?��??��??�常
+* Shawna 手写的小日常
 	* [Self-management](/Knowledge/Social%20Science/Psychology/Self-management)
 * Competitive
-	* [世�??��?被輾壓�??�覺](/Knowledge/Social%20Science/Psychology/世�??��?被輾壓�??�覺)
+	* [世界冠軍被輾壓的感覺](/Knowledge/Social%20Science/Psychology/世界冠軍被輾壓的感覺)
 * Go
-	* [世�??��?被輾壓�??�覺](/Knowledge/Social%20Science/Psychology/世�??��?被輾壓�??�覺)
-
+	* [世界冠軍被輾壓的感覺](/Knowledge/Social%20Science/Psychology/世界冠軍被輾壓的感覺)

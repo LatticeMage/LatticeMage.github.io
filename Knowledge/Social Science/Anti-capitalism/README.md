@@ -3,7 +3,7 @@ layout: default
 ---
 # Communication
 
-## ä»¥ä??ºAIå¯«ç??‡ç?
+## ä»¥ä¸‹ç‚ºAIå¯«çš„æ–‡ç« 
 Title: Breaking Free from Capitalism: The Benefits of a More Diverse and Interdisciplinary Approach to Learning and Personal Development
 
 Capitalism has been the dominant economic system for several centuries, but it has also been criticized for its many flaws and inequities. One of the main criticisms of capitalism is its emphasis on specialization and the over-reliance on a single skill set, which can limit individuals' ability to adapt to changes in society and the job market.
@@ -24,7 +24,6 @@ In conclusion, breaking free from the constraints of capitalism and embracing a 
 ---
 tags:
   - [[MoneyXYZ]]
-  - [[è¶…ç?æ­?SuperY]]
+  - [[è¶…ç´šæ­ª SuperY]]
   
 ---
-

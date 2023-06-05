@@ -33,4 +33,3 @@ Early 26th century: AI has made significant progress in the field of virtual and
 
 Mid 26th century: AI has revolutionized the field of transportation, with the development of advanced flying cars and other aerial vehicles.
 
-

@@ -1,12 +1,12 @@
 ---
 layout: default
 ---
-# 講義 繪畫 05 空�?幾�?
+# 講義 繪畫 05 空間幾何
 
 ###### tags: `_講義 繪畫`
 
 
-?��??�幾�?
+方塊畫幾何
 ![](https://i.pinimg.com/564x/f0/10/7b/f0107b27c222dda54a112b24a2501cec.jpg)
 
 ![](https://i.pinimg.com/564x/d1/6f/08/d16f08be8cd2fb868fb367b5c0ff96cd.jpg)
@@ -15,5 +15,5 @@ layout: default
 
 ![](https://i.pinimg.com/564x/fb/4c/a4/fb4ca445fa807259e6dd8f8cc5931fbd.jpg)
 
-複�?多�?�?
+複雜多邊形
 ![](https://i.pinimg.com/564x/dc/ff/66/dcff6615cffd32fb114996b4b654dc13.jpg)
