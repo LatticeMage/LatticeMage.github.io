@@ -1,4 +1,28 @@
----
+﻿---
 layout: default
 ---
-# Traditional AI  ?�?��?  Fuzzy Logic  位能/?�能  A* Search  Minimax Tree  機�??��??�斯網路  ?��?演�?�?    --- tags:   - [[Algorithm]]   - [[AI]]  ---
+
+# Traditional AI
+
+???
+
+Fuzzy Logic
+
+雿/?
+
+A* Search
+
+Minimax Tree
+
+璈????蝬脰楝
+
+?箏?瞍?瘜?
+
+
+
+---
+tags:
+  - [[Algorithm]]
+  - [[AI]]
+
+---

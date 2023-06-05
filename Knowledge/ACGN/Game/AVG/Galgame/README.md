@@ -1,4 +1,7 @@
----
+﻿---
 layout: default
 ---
-# Galgame  [GalgameMaker](./GalgameMaker/)  
+
+# Galgame
+
+[GalgameMaker](./GalgameMaker/)  

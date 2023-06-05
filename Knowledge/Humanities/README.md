@@ -1,4 +1,11 @@
----
+﻿---
 layout: default
 ---
-# Humanities  [History](./History/)   [Language](./Language/)   [Philosophy](./Philosophy/)   [?��?類書?�](./?��?類書??)   [窮�?世�?](./窮�?世�?/)  
+
+# Humanities
+
+[History](./History/)  
+[Language](./Language/)  
+[Philosophy](./Philosophy/)  
+[?芸?憿?孫(./?芸?憿??)  
+[蝒桀?銝?](./蝒桀?銝?/)  

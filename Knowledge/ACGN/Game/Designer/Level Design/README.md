@@ -1,4 +1,25 @@
----
+﻿---
 layout: default
 ---
-# Level Design  負責設�??�戲?�卡，�??��?說�??��?學系統而�??��??�要�?多�?UI/UX輔助??  好�??�卡設�??�身就是天然?��?學系統�?經典?��?子就??Valve?�《傳?��???Protal)   任天?�在?��?一?�是業�??��?竿�?  * ?�薦?�單   * ??D?�戲設�??�攻?��??�戲機制??�卡設�???�頭�???? * ?�薦?��?   * [?��??��??�】�?題系?��??��??�設�?Level Design??Indie-Guider](https://indie-guider.games/post/level-design/)   * [?�麼?��?你�??��??�新?�」們�?](https://medium.com/that-game-designer/%E6%80%8E%E9%BA%BC%E6%8B%9B%E5%BE%85%E4%BD%A0%E9%81%8A%E6%88%B2%E7%9A%84-%E6%96%B0%E6%89%8B-%E5%80%91-f43cc4b8bb6e) * ?�薦影�?   * [?��??��?GDC系�??�游?�关?�设计Blockmesh?�巧](https://www.youtube.com/watch?v=fZ2ueLnpRPM)   * [Design Club - Super Mario Bros: Level 1-1 - How Super Mario Mastered Level Design](https://youtu.be/ZH2wGpEZVgE)  --- tags:   - [[Game Designer]]    ---
+
+# Level Design
+
+鞎痊閮剛???嚗??砌?隤芸??急?摮貊頂蝯梯????閬?憭?UI/UX頛?? 
+憟賜??閮剛??祈澈撠望憭拍??摮貊頂蝯晞?蝬??摮停??Valve?????Protal)  
+隞餃予???銝?湔璆剔???蝡踴?
+
+* ?刻?詨
+  * ??D?閮剛??冽?伐??璈??閮剛???⊿閮????
+* ?刻??
+  * [???脤??潦?憿頂?????∟身閮?Level Design??Indie-Guider](https://indie-guider.games/post/level-design/)
+  * [?獐??雿??脩????](https://medium.com/that-game-designer/%E6%80%8E%E9%BA%BC%E6%8B%9B%E5%BE%85%E4%BD%A0%E9%81%8A%E6%88%B2%E7%9A%84-%E6%96%B0%E6%89%8B-%E5%80%91-f43cc4b8bb6e)
+* ?刻敶梁?
+  * [????GDC蝟餃??虜??∟挽霈、lockmesh?撌吞(https://www.youtube.com/watch?v=fZ2ueLnpRPM)
+  * [Design Club - Super Mario Bros: Level 1-1 - How Super Mario Mastered Level Design](https://youtu.be/ZH2wGpEZVgE)
+
+---
+tags:
+  - [[Game Designer]]
+  
+---
+

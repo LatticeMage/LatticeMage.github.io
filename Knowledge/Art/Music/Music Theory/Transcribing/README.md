@@ -1,4 +1,29 @@
----
+﻿---
 layout: default
 ---
-# Transcribing  ## Software Need * Track Spilter by AI * web downloader * spectral analysis * beat counter, tap bpm * (instrument)  ## Reference * ?��??��???[好�?弦�?你�??�琴Cover：�?何聽?�任何曲子�??��?編�??�琴?��?譜�?（以?�女神異?��?5 - Butterfly Kiss?�為例�?](https://youtu.be/n4SqhV_2QAY) * ?��??��???[WaveTone](https://ackiesound.ifdef.jp/)  ## Extra * ?��??��???[?�害?�人不�?訴�??��??�：用?�琴?�右踏板?�制?�振！](https://youtu.be/nLN8Gz9MJJs) * ?��??��???[一次�??�「�??��??��?](https://www.youtube.com/watch?v=0iJmDhNocaQ)   --- tags:   - [[Music Theory]]   - [[NiceChord+ (好�?�?)]]  ---
+
+# Transcribing
+
+## Software Need
+* Track Spilter by AI
+* web downloader
+* spectral analysis
+* beat counter, tap bpm
+* (instrument)
+
+## Reference
+* ??????[憟賢?撘行?雿??潛Cover嚗?雿?箔遙雿摮??嗅?蝺冽??潛?典?霅?嚗誑?戊蟡??5 - Butterfly Kiss?靘?](https://youtu.be/n4SqhV_2QAY)
+* ??????[WaveTone](https://ackiesound.ifdef.jp/)
+
+## Extra
+* ??????[?脣拿?犖銝?閮港????嚗?潛?頦?批?望嚗(https://youtu.be/nLN8Gz9MJJs)
+* ??????[銝甈⊥????喳???](https://www.youtube.com/watch?v=0iJmDhNocaQ)
+
+
+---
+tags:
+  - [[Music Theory]]
+  - [[NiceChord+ (憟賢?撘?)]]
+
+---
+

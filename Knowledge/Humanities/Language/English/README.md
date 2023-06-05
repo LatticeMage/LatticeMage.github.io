@@ -1,4 +1,7 @@
----
+﻿---
 layout: default
 ---
-# English  [Vocabulary](./Vocabulary/)  
+
+# English
+
+[Vocabulary](./Vocabulary/)  

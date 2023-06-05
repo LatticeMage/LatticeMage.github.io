@@ -1,4 +1,7 @@
----
+﻿---
 layout: default
 ---
-# Japanese  [Vocabulary](./Vocabulary/)  
+
+# Japanese
+
+[Vocabulary](./Vocabulary/)  

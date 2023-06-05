@@ -1,4 +1,8 @@
----
+﻿---
 layout: default
 ---
-# Law  [Copyright](./Copyright/)   [DRM=�???�害?�](./DRM=�???�害??)  
+
+# Law
+
+[Copyright](./Copyright/)  
+[DRM=甇???拿?(./DRM=甇???拿??)  

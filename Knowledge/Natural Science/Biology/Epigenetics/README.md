@@ -1,4 +1,16 @@
----
+﻿---
 layout: default
 ---
-# Epigenetics  * 大自?��?秘訣，�??��?�?�?   * [Homosexuality: It's about survival - not sex  James O'Keefe](https://youtu.be/4Khn_z9FPmU) * [?��?高�??�性傾?�、精神疾?��?一?�都?�基?�決定好?��?/ ?��??��? EP10 ?�基?��?人�??�親�??�歷?�》Siddhartha Mukherjee / 說書?��??�、遺?�學?�](https://youtu.be/x5aynJYhAXs)  --- tags:   - [[Evolution]]    ---
+
+# Epigenetics
+
+* 憭扯?嗥?蝘見嚗??拙?璅??
+  * [Homosexuality: It's about survival - not sex  James O'Keefe](https://youtu.be/4Khn_z9FPmU)
+* [?箏?擃??批?移蟡??銝??臬?捱摰末??/ ?訾??Ｗ? EP10 ???鈭粹??閬芸??風?脯iddhartha Mukherjee / 隤芣???柴?喳飛?(https://youtu.be/x5aynJYhAXs)
+
+---
+tags:
+  - [[Evolution]]
+  
+---
+

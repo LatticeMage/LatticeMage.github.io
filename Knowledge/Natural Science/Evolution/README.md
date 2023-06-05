@@ -1,4 +1,8 @@
----
+﻿---
 layout: default
 ---
-# Evolution  [Brain](./Brain/)   [Sleeping](./Sleeping/)  
+
+# Evolution
+
+[Brain](./Brain/)  
+[Sleeping](./Sleeping/)  

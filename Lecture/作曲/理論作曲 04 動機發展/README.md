@@ -1,4 +1,29 @@
----
+ï»¿---
 layout: default
 ---
-# è¬›ç¾© ?†è?ä½œæ›² 04  ###### tags: `_è¬›ç¾© ?†è?ä½œæ›²`  ## ?ºç??€å·? * ?•æ??¼å?   * [Motif](https://en.wikipedia.org/wiki/Motif_(music))   * [Developing](https://en.wikipedia.org/wiki/Developing_variation) * ?®æ?å¾?   * [Sequence]( https://en.wikipedia.org/wiki/Sequence_(music))   * [pattern]( https://en.wikipedia.org/wiki/Melodic_pattern)     * [Augmentation](https://en.wikipedia.org/wiki/Augmentation_(music))     * [Diminution](https://en.wikipedia.org/wiki/Diminution)   ## ?²é??€å·? * [Twelve-tone technique](https://en.wikipedia.org/wiki/Twelve-tone_technique) * å¤šæ?å¾?   * [Imitation](https://en.wikipedia.org/wiki/Imitation_(music))   * [Fugue](https://en.wikipedia.org/wiki/Fugue)     * [Stretto](https://en.wikipedia.org/wiki/Stretto) * Retrograde   * 
+
+# é›“î®å„” ?ï‰?é›¿î°«î­š 04
+
+###### tags: `_é›“î®å„” ?ï‰?é›¿î°«î­š`
+
+## ?ç®‡??Â€æ’Œ?
+* ?îŸ ??æ¾†?
+  * [Motif](https://en.wikipedia.org/wiki/Motif_(music))
+  * [Developing](https://en.wikipedia.org/wiki/Developing_variation)
+* ?æ ¼?æ•º?
+  * [Sequence](
+https://en.wikipedia.org/wiki/Sequence_(music))
+  * [pattern](
+https://en.wikipedia.org/wiki/Melodic_pattern)
+    * [Augmentation](https://en.wikipedia.org/wiki/Augmentation_(music))
+    * [Diminution](https://en.wikipedia.org/wiki/Diminution)
+
+
+## ?è„¤??Â€æ’Œ?
+* [Twelve-tone technique](https://en.wikipedia.org/wiki/Twelve-tone_technique)
+* æ†­î«±?æ•º?
+  * [Imitation](https://en.wikipedia.org/wiki/Imitation_(music))
+  * [Fugue](https://en.wikipedia.org/wiki/Fugue)
+    * [Stretto](https://en.wikipedia.org/wiki/Stretto)
+* Retrograde
+  * 

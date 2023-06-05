@@ -1,4 +1,7 @@
----
+﻿---
 layout: default
 ---
-# ACGN  [Game](./Game/)  
+
+# ACGN
+
+[Game](./Game/)  

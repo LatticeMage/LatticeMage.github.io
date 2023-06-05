@@ -7,22 +7,24 @@ git pull
 ./Knowledge.ps1
 ./Lecture.ps1
 
-$directories = @("./Knowledge", "./Lecture")
-$frontMatter = @'
+$prependText = @"
 ---
 layout: default
 ---
-'@
 
-foreach ($directory in $directories) {
-    $files = Get-ChildItem $directory -include *.md -Recurse
-    foreach ($file in $files) {
-        $content = Get-Content $file.FullName
-        $newContent = $frontMatter + "`n" + $content
-        Set-Content -Path $file.FullName -Value $newContent
+"@
+
+$folders = @("./Knowledge", "./Lecture")
+
+foreach($folder in $folders){
+    $markdownFiles = Get-ChildItem -Path $folder -Filter *.md -Recurse -File
+
+    foreach($file in $markdownFiles){
+        $content = Get-Content $file.FullName -Raw
+        $content = $prependText + "`n" + $content
+        $content | Out-File $file.FullName -Encoding utf8
     }
 }
-
 
 git add .
 git commit -m "upload"

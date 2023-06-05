@@ -1,4 +1,14 @@
----
+﻿---
 layout: default
 ---
-# Psychoanalysis  好想殺死?��??��?  ---   tags:   - [[Psychology]]   ---
+
+# Psychoanalysis
+
+憟賣畾箸香?嗆??色?
+
+---  
+tags:
+  - [[Psychology]]
+
+
+---

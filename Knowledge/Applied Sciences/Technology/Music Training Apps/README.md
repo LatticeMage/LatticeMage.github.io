@@ -1,4 +1,37 @@
----
+ï»¿---
 layout: default
 ---
-# Music Training Apps   * Android   * ?…â??…â???[Functional Ear Training](https://play.google.com/store/apps/details?id=com.kaizen9.fet.android)   * ?…â??…â???[Rhythm Trainer](https://play.google.com/store/apps/details?id=ru.demax.rhythmerr)   * ?…â??…â???[Zussie's Ear Training](https://play.google.com/store/apps/details?id=io.github.nabehide.zussie&hl=en&gl=US)   * ?…â??…â???Perfect Ear    * iOS   * Rhythm Trainer       * [Complete Rhythm Trainer](https://apps.apple.com/us/app/complete-rhythm-trainer/id1550799056)       * [Music Rhythm Trainer](https://apps.apple.com/tw/app/music-rhythm-trainer/id1319997438)   * Ear Training       * [Toned Ear: Ear Training](https://tonedear.com/)       * [Tone - Learn Perfect Pitch!](https://apps.apple.com/tw/app/tone-learn-perfect-pitch/id1139019670)  * Webs   * ?…â??…â???https://www.musictheory.net/exercises   * ?…â??…â???[4four.io](https://4four.io/)   * ?†â??†â???[Virtual Piano](https://www.onlinepianist.com/virtual-piano)      --- tags:   - [[Music]]   - [[Technology]]    ---
+
+# Music Training Apps
+
+
+* Android
+  * ?ï†¬??ï†¬???[Functional Ear Training](https://play.google.com/store/apps/details?id=com.kaizen9.fet.android)
+  * ?ï†¬??ï†¬???[Rhythm Trainer](https://play.google.com/store/apps/details?id=ru.demax.rhythmerr)
+  * ?ï†¬??ï†¬???[Zussie's Ear Training](https://play.google.com/store/apps/details?id=io.github.nabehide.zussie&hl=en&gl=US)
+  * ?ï†¬??ï†¬???Perfect Ear
+
+
+
+* iOS
+  * Rhythm Trainer
+      * [Complete Rhythm Trainer](https://apps.apple.com/us/app/complete-rhythm-trainer/id1550799056)
+      * [Music Rhythm Trainer](https://apps.apple.com/tw/app/music-rhythm-trainer/id1319997438)
+  * Ear Training
+      * [Toned Ear: Ear Training](https://tonedear.com/)
+      * [Tone - Learn Perfect Pitch!](https://apps.apple.com/tw/app/tone-learn-perfect-pitch/id1139019670)
+
+* Webs
+  * ?ï†¬??ï†¬???https://www.musictheory.net/exercises
+  * ?ï†¬??ï†¬???[4four.io](https://4four.io/)
+  * ?ï‰‰??ï‰‰???[Virtual Piano](https://www.onlinepianist.com/virtual-piano) 
+
+
+
+
+---
+tags:
+  - [[Music]]
+  - [[Technology]]
+  
+---
