@@ -1,7 +1,6 @@
-﻿---
+---
 layout: default
 ---
-
 # Psychology
 
 [Analytical Thinking](./Analytical Thinking/)  
@@ -16,4 +15,4 @@ layout: default
 [Risk-embracement](./Risk-embracement/)  
 [Self-management](./Self-management/)  
 [Sport Psychology](./Sport Psychology/)  
-[銝???鋡怨撫憯??死](./銝???鋡怨撫憯??死/)  
+[世�??��?被輾壓�??�覺](./世�??��?被輾壓�??�覺/)  

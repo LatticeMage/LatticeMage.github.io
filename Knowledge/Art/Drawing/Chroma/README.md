@@ -1,12 +1,11 @@
-ï»¿---
+---
 layout: default
 ---
-
 # Chroma
 
-* [?î¡½??î”… ?æ‹??è„£è”—
+* [?–æ??‘] ?©ç??²å½©
   * https://www.youtube.com/watch?v=ifGtg0AjRA8
-* ?î‘–renz???è„£è”—
+* ?Krenz???²å½©
   * https://youtu.be/XfHLXSaYL0I?t=2269
 
 
@@ -14,7 +13,7 @@ layout: default
 tags:
   - [[Drawing]]
   - [[Color]]
-  - [[?î¡½??î”…]
+  - [[?–æ??‘]]
   - [[Krenz's Artwork]]
   
 ---

@@ -1,7 +1,6 @@
-﻿---
+---
 layout: default
 ---
-
 # Color Space
 
 ## Mechanism
@@ -14,7 +13,7 @@ Thus, when there are lots of lights combined with different wavelength, human br
 However, if a wavelength of a light is combined with red and blue, the problem is that the color should not be green.  
 To deal with this problem, human brain create Magenta.
 
-Reference: [餈葵銝?銝?砌?摮蝝怨嚗?( ?潸?銝箄?)](https://www.youtube.com/watch?v=vv79wigS-4I)
+Reference: [这个世�?上根?��?存在紫色�?( ?��?为�?)](https://www.youtube.com/watch?v=vv79wigS-4I)
 
 Rod cell is sensitive to luminance.  
 When there is dark, rod cell can see boundary of objects.
@@ -73,6 +72,6 @@ tags:
   - [[Color]]
   - [[Biology]]
   - [[Physics]]
-  - [[?潸?銝箄?]]
+  - [[?��?为�?]]
   
 ---

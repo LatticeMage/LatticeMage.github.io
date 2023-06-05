@@ -1,7 +1,6 @@
-﻿---
+---
 layout: default
 ---
-
 # Evolution
 
 [Brain](./Brain/)  

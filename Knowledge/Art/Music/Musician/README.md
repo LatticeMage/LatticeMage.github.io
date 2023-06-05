@@ -1,7 +1,6 @@
-﻿---
+---
 layout: default
 ---
-
 # Musician
 
 ---
@@ -13,18 +12,18 @@ tags:
 ---
 
 ## Guitar
-* [Conny Bergh瓣ll - Revolution](https://youtu.be/9r9ghRna95I)
+* [Conny Berghäll - Revolution](https://youtu.be/9r9ghRna95I)
 * [Trace Bundy - Patanga](https://youtu.be/3DbjT8vFpro)
 
 ---
 tags:
-  - [[Yuki Matsui / ?曆?蟡眼]]
+  - [[Yuki Matsui / ?��?祐貴]]
   - [[Seiji Igusa]]
   - [[Satoshi Gogo]]
   - [[petterisariola]]
   - [[Jon Gomm]]
   - [[Tommy Emmanuel]]
-  - [[?澆偏?喋?踴?奭]
+  - [[?�尾?�ー?�ロ?�]]
   - [[Masaaki Kishibe Guitar Channel]]
   - [[mikedawesofficial]]
   - [[Tobias Rauscher]]
@@ -44,7 +43,7 @@ tags:
 ## Instrument
 ---
 tags:
-  - [[??????駁?]]
+  - [[????��??��?]]
   - [[Animenz Piano Sheets]]
   
 ---

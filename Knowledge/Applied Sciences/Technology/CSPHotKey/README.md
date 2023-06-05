@@ -1,33 +1,32 @@
-﻿---
+---
 layout: default
 ---
-
 # CSPHotKey
 
 
 Written by teacher Minu
 
-敹急?稅?
+快捷?�|?�能
 -|-
-Ctrl+Shift+暺?惜 | 蝘餃??圈??貊??惜
-Ctrl+U | 隤輯?Ｘ
-Ctrl+A | ?券
-Ctrl+D | ???詨?
-Ctrl+Z | 敺拙? Redo
-Ctrl+Shift+Z | ??敺拙? Undo
-Ctrl+Y | ??敺拙? Undo
-Ctrl+X | ?芯? Cut
-Ctrl+C | 銴ˊ Copy
-Ctrl+V | 鞎潔? Paste
-Ctrl+T | 霈耦 Transform
-Ctrl+Shift+T | ?芰霈耦 Free Transform
-Carl?lt+蝛箇??| ?恍蝮格 Zoom in/out
-Carl+alt | 蝑憭批?蝮格 Brush size
-Alt | ?貉 Eyedropper
-C | ??????
-H | ?怠?瘞游像?∪? Flip Horizontal
-蝛箇??| 蝘餃??恍 Hand
-R | ?怠???
+Ctrl+Shift+點選?�層 | 移�??��??��??�層
+Ctrl+U | 調色?�板
+Ctrl+A | ?�選
+Ctrl+D | ?��??��?
+Ctrl+Z | 復�? Redo
+Ctrl+Shift+Z | ?��?復�? Undo
+Ctrl+Y | ?��?復�? Undo
+Ctrl+X | ?��? Cut
+Ctrl+C | 複製 Copy
+Ctrl+V | 貼�? Paste
+Ctrl+T | 變形 Transform
+Ctrl+Shift+T | ?�由變形 Free Transform
+Carl?�Alt+空白??| ?�面縮放 Zoom in/out
+Carl+alt | 筆刷大�?縮放 Brush size
+Alt | ?�色 Eyedropper
+C | ?��??��???
+H | ?��?水平?��? Flip Horizontal
+空白??| 移�??�面 Hand
+R | ?��??��?
 
 
 ---

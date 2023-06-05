@@ -1,11 +1,10 @@
-﻿---
+---
 layout: default
 ---
-
 # Diatonic
 
 ## [Diatonic Scale](https://en.wikipedia.org/wiki/Diatonic_scale)
-[隞暻潭憭扯矽??隤選?](https://www.youtube.com/watch?v=T70L-t60j5c)
+[什麼是大調?��?調�?](https://www.youtube.com/watch?v=T70L-t60j5c)
 * Major scale
   * 1st ??Tonic (key note)
   * 2nd ??Supertonic
@@ -17,27 +16,27 @@ layout: default
   * 8th ??Tonic (Octave)
 
 ## [Minor scales](https://en.wikipedia.org/wiki/Minor_scale)
-[撠矽??蝔格芋撘??芰嚗??莎???撠??](https://www.youtube.com/watch?v=L2mY-jyFjUY)
+[小調?��?種模式�??�然／�??��??��?小音?��?](https://www.youtube.com/watch?v=L2mY-jyFjUY)
 * natural minor scale
 * harmonic minor scale
 * melodic minor scale
 
 ## Diatonic chords
-[?en??隤???敹飛????撘艾(https://www.youtube.com/watch?v=bj1dqClKMmE)  
+[?�Wen?��?誌】�??��?必學?�「�??��?弦」](https://www.youtube.com/watch?v=bj1dqClKMmE)  
 For example, in C major scale, we get:  
-**C - Dm - Em - F - G - Am - B簞**  
+**C - Dm - Em - F - G - Am - B°**  
 These sequence is form diatonic scale, and called diatonic chords.  
 And we know the root, thus we write roman symbol for any major scale  
-**I - ii - iii - IV - V - vi - vii簞**  
+**I - ii - iii - IV - V - vi - vii°**  
 
 For A harmonic minor scale, we get:  
-**Am - B簞 - C+ - D簞 - E - F - G簞**  
+**Am - B° - C+ - D° - E - F - G°**  
 Also, in roman symbol  
-**i - ii簞 - III+ - iv簞 - V - VI - vii簞**  
+**i - ii° - III+ - iv° - V - VI - vii°**  
 
 
 ## Inversion of Diatonic chords
-$$ III^6_4 , ii簞^4_3 , VI^4_3 $$
+$$ III^6_4 , ii°^4_3 , VI^4_3 $$
 
 
 
@@ -45,8 +44,8 @@ $$ III^6_4 , ii簞^4_3 , VI^4_3 $$
 tags:
   - [[Music Theory]]
   - [[Chord Notation]]
-  - [[NiceChord+ (憟賢?撘?)]]
-  - [[Wen??隤]
+  - [[NiceChord+ (好�?�?)]]
+  - [[Wen?��?誌]]
   
 ---
 

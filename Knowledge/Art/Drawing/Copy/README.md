@@ -1,15 +1,14 @@
-ï»¿---
+---
 layout: default
 ---
-
 # Copy
 
 
-* ç”‡?â…¡?ï„•ïŠ¬??
+* æ­?¢º?„è‡¨??
   * https://www.youtube.com/watch?v=GAx2YLX60_8
-* ?å†½î”¿
+* ?¨æ‘¹
   * https://youtu.be/kbKqIJcIUCw?t=329
-* ?îš¥?
+* ?“å?
   * https://www.youtube.com/watch?v=DUeVdI8cNPU
 
 
@@ -17,7 +16,7 @@ layout: default
 ---
 tags:
   - [[Drawing]]
-  - [[?î¡½??î”…]
+  - [[?–æ??‘]]
   - [[Krenz's Artwork]]
   
 ---

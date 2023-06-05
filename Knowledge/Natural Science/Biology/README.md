@@ -1,7 +1,6 @@
-﻿---
+---
 layout: default
 ---
-
 # Biology
 
 [Bimanual Coordination](./Bimanual Coordination/)  

@@ -1,7 +1,6 @@
-ï»¿---
+---
 layout: default
 ---
-
 # Djent
 
 ## Band
@@ -9,11 +8,11 @@ layout: default
 * Animals as Leaders
 * Intervals
 * Born Of Osiris
-  * M?ï‡ŒHINE
+  * M?†CHINE
 * VEIL OF MAYA
   * Aeris 
 * Sithu Aye
-  * Senpai EP II: The Noticing ?ï—º?é ›å‘·PIIåš—î«®î¾©?é¢¯??æ½¦???î¾ª?å–‹î¾£??
+  * Senpai EP II: The Noticing ?Œå?è¼©EPIIï¼šã‚¶?»ã??¼ã???‚·?³ã‚°??
 
 
 ## Youtuber

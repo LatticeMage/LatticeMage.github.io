@@ -1,7 +1,6 @@
-﻿---
+---
 layout: default
 ---
-
 # Chord Notation
 
 ## Distance
@@ -33,8 +32,8 @@ minor 7th| Xm7, Xm7
 Dominant 7th| X7
 Power Chord| X5
 Augmented triad| Xaug, X+
-Diminished triad| Xdim, x簞
-Half-dim 7th| Xm7b5, X繪
+Diminished triad| Xdim, x°
+Half-dim 7th| Xm7b5, Xø
 
 ## Inversion
 
@@ -46,11 +45,11 @@ X 2nd|P4|M6
 Xm 1st|M3|M6
 Xm 2nd|P4|m6
 
-[???誑?改?銝甈⊥??????曆誨?憐隞??嚗(https://www.youtube.com/watch?v=I0y2LY4sPZA)
+[?��??�以?��?一次�??��??��??�代?�弦�??！](https://www.youtube.com/watch?v=I0y2LY4sPZA)
 
 ## [Figured Bass](https://en.wikipedia.org/wiki/Figured_bass)
 
-* [?詨?雿嚗(https://www.youtube.com/watch?v=_I5EPcOykrc)
+* [?��?低音！](https://www.youtube.com/watch?v=_I5EPcOykrc)
 
 Chord | Figured Bass
 -|-
@@ -66,7 +65,7 @@ Xm 2nd|6<br>4
 tags:
   - [[Music Theory]]
   - [[Figured Bass]]
-  - [[NiceChord+ (憟賢?撘?)]]
+  - [[NiceChord+ (好�?�?)]]
   
 ---
 

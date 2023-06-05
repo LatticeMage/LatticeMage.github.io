@@ -1,7 +1,6 @@
-﻿---
+---
 layout: default
 ---
-
 # Analytical Thinking
 
 * Top-down:

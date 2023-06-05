@@ -1,7 +1,6 @@
-﻿---
+---
 layout: default
 ---
-
 # Circle of fifths
 
 

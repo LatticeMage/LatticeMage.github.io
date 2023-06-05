@@ -1,20 +1,19 @@
-ï»¿---
+---
 layout: default
 ---
-
 # Voice Leading
 
 ## [Voice Leading](https://en.wikipedia.org/wiki/Voice_leading)
 
 ## [Four-part harmony](https://en.wikipedia.org/wiki/Four-part_harmony)
-* [éœˆ?Google ?ï„‘çŠ–æ’Œäº¤î¨¨?æ‰¹æ¯€?ï†é¼ é›¿îº¢??ï—ºæ†åš—î¼¿?é˜è¹‚??ï“ƒ??î®‘ï€¸?ï—½î¼ˆ?æ”¹?](https://www.youtube.com/watch?v=HgnIJFwcyBk)
-* [éŠÂ€?å…¸è”£?ï‹¨??æ”¹??îµ¥??å–®?èŸé¤ƒ??ï·??ï—º??å…¸??è„¯Â€ïš›?åš—î»•(https://www.youtube.com/watch?v=2RGGuH14BUc)
+* [è®?Google ?„äººå·¥æ™º?§å·´?ˆå¹«ä½ é??Œå¼¦ï¼é?ä¾¿ä??Šè??›éƒ¨?Œè²?§ï?](https://www.youtube.com/watch?v=HgnIJFwcyBk)
+* [ä¸€?¨å½±?‡ä??§ï??æ??³æ?ç³»å??ƒç??Œå??¨å??²ã€é?ï¼](https://www.youtube.com/watch?v=2RGGuH14BUc)
 
 
 ---
 tags:
   - [[Music Theory]]
-  - [[NiceChord+ (æ†Ÿè³¢?æ’˜?)]]
+  - [[NiceChord+ (å¥½å?å¼?)]]
   
 ---
 

@@ -1,10 +1,9 @@
-﻿---
+---
 layout: default
 ---
+# 講義 ?��?作曲 03
 
-# 雓儔 ??雿 03
-
-###### tags: `_雓儔 ??雿`
+###### tags: `_講義 ?��?作曲`
 
 [12-bar blues](
 https://www.youtube.com/watch?v=WId0K_X0MHc)
@@ -23,5 +22,5 @@ https://www.youtube.com/watch?v=WId0K_X0MHc)
 [alda-lang](https://www.youtube.com/watch?v=B_hjtacHM3A)
 
 
-## AI雿
+## AI作曲
 [AIVA](https://www.youtube.com/channel/UCykVChITx5kqBoGkzfz8iZg)

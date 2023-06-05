@@ -1,7 +1,6 @@
-ï»¿---
+---
 layout: default
 ---
-
 # Overtone and Harmonic
 
 https://en.wikipedia.org/wiki/Overtone
@@ -9,12 +8,12 @@ https://en.wikipedia.org/wiki/Overtone
 https://en.wikipedia.org/wiki/Harmonic_series_(music)
 
 
-* [éŠÂ€ç”ˆâŠ¥??î¿–Â€ï—»??å–³??ïš¡?](https://youtu.be/0iJmDhNocaQ)
+* [ä¸€æ¬¡æ??‚ã€Œæ??³å??ï?](https://youtu.be/0iJmDhNocaQ)
 
 
 ---
 tags:
   - [[Music Theory]]
-  - [[NiceChord+ (æ†Ÿè³¢?æ’˜?)]]
+  - [[NiceChord+ (å¥½å?å¼?)]]
   
 ---

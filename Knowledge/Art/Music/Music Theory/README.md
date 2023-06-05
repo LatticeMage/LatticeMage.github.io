@@ -1,7 +1,6 @@
-﻿---
+---
 layout: default
 ---
-
 # Overview
 
 ## About Pitch, Chords, Rhythms
@@ -19,7 +18,7 @@ layout: default
   * A4 440Hz
   * Just Intonation
   * Equal temperament
-* Solf癡ge
+* Solfège
 * Overtone and Harmonic
 * Chord and Inversion
 * Figured Bass

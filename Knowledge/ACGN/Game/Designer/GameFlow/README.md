@@ -1,7 +1,6 @@
-﻿---
+---
 layout: default
 ---
-
 # GameFlow
 
 GameFlow is a model of player engagement and enjoyment in video games that was developed by game designer and researcher Marc LeBlanc. According to the GameFlow model, player enjoyment in a video game is determined by the balance between challenge and skill, which is often referred to as "flow."

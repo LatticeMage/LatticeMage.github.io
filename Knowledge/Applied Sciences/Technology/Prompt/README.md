@@ -1,25 +1,24 @@
-ï»¿---
+---
 layout: default
 ---
-
 # Prompt
 
 ## Websites
-* ?ï†¬??ï†¬??ï‡¤Prompt è»î¡¼?ç’…âˆª?åš—î«°?é›¿îŸŸ??î³‰è¼•ç¢ï‰î´µéŸï•œ??ç®î¨–](https://github.com/prompt-engineering/prompt-patterns)
-* ?ï†¬??ï‰‰???[?ï•Ÿîœ…?ï—»æ¥›ç˜£äº™?ç˜œî®îœ…Prompt?ïšš?é›¿îº ?ChatGPTéœˆï“ƒî¼†?îŒ®(https://h9856.gameqb.net/2023/03/01/fukatsu-prompt/)
-* ?ï†¬??ï†¬???[?? Awesome ChatGPT Prompts](https://prompts.chat/)
-* ?ï†¬??ï†¬???[PromptHero](https://prompthero.com/)
-* ?ï†¬??ï†¬??ï‡¤Learning Prompt](https://learningprompt.wiki/docs/%F0%9F%91%8B%20Welcome)
+* ?…â??…â??†[Prompt ç¼–å?æ¨¡å?ï¼šå?ä½•å??ç»´æ¡†æ¶èµ‹ä??ºå™¨](https://github.com/prompt-engineering/prompt-patterns)
+* ?…â??†â???[?‹ç”¨?Œæ·±æ´¥å?æ³›ç”¨Prompt?è?ä½ ç?ChatGPTè®Šè°?](https://h9856.gameqb.net/2023/03/01/fukatsu-prompt/)
+* ?…â??…â???[?? Awesome ChatGPT Prompts](https://prompts.chat/)
+* ?…â??…â???[PromptHero](https://prompthero.com/)
+* ?…â??…â??†[Learning Prompt](https://learningprompt.wiki/docs/%F0%9F%91%8B%20Welcome)
 
 ## Videos
-* ?ï†¬??ï†¬???[ChatGPTèî©•??ç®”?, é›¿îº¡ï?îš¤??? (?èŠ°ïƒ£éœ‚å‰›?è»î¡¾?)](https://youtu.be/KoT08Kno10A)
-* ?ï†¬??ï†¬???[?î“å¾èµî“??î•¬?é›¿îº?é›¿îŸè™?æ±‚ISCORD?æ€ ? #midjourney](https://youtu.be/uRapWGYNiBo)
+* ?…â??…â???[ChatGPTç»™ç??ºä?, ä½ èƒ½?“ä??? (?ªç„¶è¯­è?ç¼–ç?)](https://youtu.be/KoT08Kno10A)
+* ?…â??…â???[?ç©ºç½ç??‘æ?ä½ å?ä½•ä½¿?¨DISCORD?«å? #midjourney](https://youtu.be/uRapWGYNiBo)
 
 ---
 tags:
   - [[Technology]]
   - [[AI]]
   - [[MoneyXYZ]]
-  - [[è›ç®‡??ï“ankingSketch]]
+  - [[ç©ºç??‹CankingSketch]]
 
 ---

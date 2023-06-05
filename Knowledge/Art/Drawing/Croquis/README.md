@@ -1,25 +1,24 @@
-﻿---
+---
 layout: default
 ---
-
 # Croquis
 
 
-* pattern, ????
-  * [韐蝖???仿 !?唬犖??????蝏摰?](https://www.youtube.com/watch?v=qdBunZZJhXk)
-* 閫撖楝鈭?
-  * [?拍蝣??園?游??餅??凝蝏?瘜?](https://www.youtube.com/watch?v=Aj1ZAV8ZwR0)
-* ??
-  * [??單??賜憟賭犖雿??銝???銝??銋?撌株???憭改?](https://www.youtube.com/watch?v=Bn3e48G55us)
+* pattern, ?��??��?
+  * [负基础?��??�门 !?�人?��??�速�??��?绘画实�?](https://www.youtube.com/watch?v=qdBunZZJhXk)
+* 觀察路�?
+  * [?�用碎�??�间?��??��??�微练�?�?](https://www.youtube.com/watch?v=Aj1ZAV8ZwR0)
+* ?��?
+  * [?�口?��??�画好人体动?��?业�??��?业画?��?习�?差�??��?大�?](https://www.youtube.com/watch?v=Bn3e48G55us)
   * [Figure Drawing - Gesture]https://www.youtube.com/watch?v=xbE0vYgng00
-* [?神蝘?銝函洵銝?犖擃神??憭芸蝖穿?憒??????蝺(https://www.youtube.com/watch?v=sdYKz507ZAQ)
+* [?�速寫秘�?丨第一?�】人體速寫?��?太僵硬�?如�??�握?��??��?線](https://www.youtube.com/watch?v=sdYKz507ZAQ)
 
 
 
 ---
 tags:
   - [[Drawing]]
-  - [[???]
+  - [[?��??�]]
   - [[Krenz's Artwork]]
   
 ---

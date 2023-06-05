@@ -1,27 +1,26 @@
-﻿---
+---
 layout: default
 ---
-
 # Investing 3
 
-## 閬芋??
-* ?芸??瘚?
-  * [??極?愍(../Science/Technology/Productivity%20Tools.md)
+## 規模??
+* ?��??�產流�?
+  * [?�產?�工?�](../Science/Technology/Productivity%20Tools.md)
 
-## ?Ｗ??芯?
+## ?��??��?
 
-閬撠犖???芯?
+要面對人?��??��?
 
-閬??曆?瑼???瑼???瑕?
+要�??��?檔�??�、�?檔無?��??��?
 
-銝????臭誑雿輻???撘圾瘙?
+下�??��??�以使用?��??�方式解�?
 
-銝????臭誑雿輻?Ⅳ?撘???
+上�??��??�以使用?�碼?�方式�???
 
-蝺???啁??頞典 ???葫?芯?瞏格?
+緊盯?��??��??�趨勢 ?��??�測?��?潮�?
 
 
-## AI??
+## AI?��?
 When it comes to facing the future and making decisions about your career or investments, it is important to seek out opportunities that offer unlimited rewards and limited losses. This can be a challenging task, as no opportunity is completely risk-free and it can be difficult to predict the future with certainty. However, by following a few key strategies, you can increase your chances of finding opportunities that align with your goals and minimize your risk of loss.
 
 One way to pursue unlimited rewards and limited losses is to look for asymmetric risk-reward situations. This means seeking out opportunities where the potential rewards significantly outweigh the potential risks. For example, if you are considering a career move or an investment, you might look for opportunities that have the potential to bring in a high return on investment, but have a relatively low risk of loss. This can help to maximize your chances of success while minimizing the potential negative impact of any setbacks.
@@ -38,9 +37,9 @@ In summary, seeking out unlimited rewards and limited losses is an important goa
 ---
 tags:
   - [[Economics]]
-  - [[Gooaye ?∠?]]
-  - [[撠SixPoker]]
-  - [[蝒桀失璆菜炬]]
+  - [[Gooaye ?��?]]
+  - [[小六SixPoker]]
+  - [[窮奢極欲]]
   - [[Investing]]
   
 ---

@@ -1,18 +1,17 @@
-﻿---
+---
 layout: default
 ---
-
-# ??極??
+# ?�產?�工??
 
 ## References:
-* [餈?2銝芸極?瘀?撣桐???閫??桅????(https://www.youtube.com/watch?v=Zr4JU5OPIwc)
-* [?漲?郎銋??剁?甇??鈭箄??券?銋血??砍?](https://www.youtube.com/watch?v=mXkzYxoo2Z8)
-* [Google?∪極?賜隞暻潭????? 銝憭拙閬極雿?撠? ! ?澈?Google撌乩?摮詨???勗極雿?嚗極蝔葦#4?(https://www.youtube.com/watch?v=_OXKszvJE00)
-* [蝣??霈+蝑??渡???隞?隞塚?嚚洵鈭之?血極雿?App?澈](https://www.youtube.com/watch?v=peJKnbkJaF8)
+* [�?2个工?��?帮�??��?�?��?��??��??�](https://www.youtube.com/watch?v=Zr4JU5OPIwc)
+* [?�亦?�学习�??��?�??人�??��?书�??��?](https://www.youtube.com/watch?v=mXkzYxoo2Z8)
+* [Google?�工?�用什麼�??��??? 一天只要工�?小�? ! ?�享?�在Google工�?學到?��??�工作�?！【工程師#4?�](https://www.youtube.com/watch?v=_OXKszvJE00)
+* [碎�??�閱讀+筆�??��??�“�?仙”�?件�?｜第二大?�工作�?App?�享](https://www.youtube.com/watch?v=peJKnbkJaF8)
 
 
-## ?箸憟辣蝯?
-* 隞餃?/??蝞∠?撌亙
+## ?�本套件�?
+* 任�?/?��?管�?工具
   * Airtable
   * Asana
   * Clickup
@@ -20,7 +19,7 @@ layout: default
   * Monday
   * Trello
   * ......
-* ?辣???箏?蝞∠?撌亙
+* ?�件?��??��?管�?工具
   * Roam
   * Logseq
   * Evernote
@@ -29,19 +28,19 @@ layout: default
   * miro
   * overleaf(latex)
 
-## 隞餃?蝞∠?撌亙
-* 撣貉??
+## 任�?管�?工具
+* 常�??�能
   * Overview Dashboard
   * List View
   * Kanban View
   * Gantt View (Timeline)
   * Calendar View
-* 撣貉????
+* 常�??�??
   * status
   * priority
   * due date
 
-## ?典振獢嗅?擗?
+## ?�家桶�?�?
 * Notion
 * MS
   * Teams
@@ -57,12 +56,12 @@ layout: default
   * Jira
   * Bitbucket
   * Trello
-* 憌
+* 飛書
 
-## ?犖甇?雿輻
+## ?�人�?��使用
 * Management
-  * [?亥?摨怎恣?(/Knowledge/Technology/Knowledge%20Management/)
-  * 隞餃?蝞∠?
+  * [?��?庫管?�](/Knowledge/Technology/Knowledge%20Management/)
+  * 任�?管�?
     * Google Calendar
       * Read from other account
     * Airtable
@@ -71,8 +70,8 @@ layout: default
       * Grid View -> sorted with Priority
       * Kanban View -> sorted with Category
 * Multimedia
-  * 隤頧?摮?
-    * Google?單?頧?
+  * 語音轉�?�?
+    * Google?��?轉�?
   * Video Streaming
     * OBS
   * Sheet score
@@ -80,7 +79,7 @@ layout: default
   * DAW
     * Studio one 4
   * Video editor
-    * FFmpeg(??銝?鈭箏極?芰?)
+    * FFmpeg(?��?上�?人工?��?)
     * OpenShot
   * Drawing
     * Clip Studio Paint
@@ -89,7 +88,7 @@ layout: default
   * Browsers
     * Firefox
     * Chrome
-* ??
+* ?��?
   * Microsoft Word 2007
   * Microsoft PowerPoint 2007
   * Microsoft Excel 2007
@@ -101,19 +100,19 @@ layout: default
     * Virtualbox
     * Mint
     * VSCode
-* ?餃???
+* ?��???
   * HyRead Gaze X 10.3"
-    * Google Books(?航圾drm)
-    * Kobo??(?航圾drm)
-    * [DRM=甇???拿?(https://quantumnecro.blogspot.com/2021/10/drm.html)
+    * Google Books(?�解drm)
+    * Kobo?��?(?�解drm)
+    * [DRM=�???�害?�](https://quantumnecro.blogspot.com/2021/10/drm.html)
 
 
 ---
 tags:
   - [[Technology]]
-  - [[?漲LYi]]
-  - [[?喳?Lion]]
-  - [[?靚]]
-  - [[蝘??犖瘥溝Vincent]]
+  - [[?�亦LYi]]
+  - [[?��?Lion]]
+  - [[?�石谈芯]]
+  - [[科�??�人毛巾Vincent]]
   
 ---

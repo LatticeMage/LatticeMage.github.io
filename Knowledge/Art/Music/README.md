@@ -1,7 +1,6 @@
-﻿---
+---
 layout: default
 ---
-
 # Music
 
 [Drum](./Drum/)  

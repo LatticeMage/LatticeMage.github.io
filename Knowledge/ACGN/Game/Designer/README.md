@@ -1,7 +1,6 @@
-﻿---
+---
 layout: default
 ---
-
 # Designer
 
 [Game Balancing](./Game Balancing/)  

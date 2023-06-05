@@ -1,57 +1,56 @@
-﻿---
+---
 layout: default
 ---
+# 講義 繪畫 00
 
-# 雓儔 蝜芰 00
-
-###### tags: `_雓儔 蝜芰`
+###### tags: `_講義 繪畫`
 
 * [FB](https://www.facebook.com/QuantumNecro)
-* ??
-  * ?怎???
+* ?��?
+  * ?�畫?�目??
 
-## ?刻?
-[???](https://zh.wikipedia.org/zh-tw/%E8%97%8D%E8%89%B2%E6%99%82%E6%9C%9F_(%E6%BC%AB%E7%95%AB))
+## ?�薦?�畫
+[?�色?��?](https://zh.wikipedia.org/zh-tw/%E8%97%8D%E8%89%B2%E6%99%82%E6%9C%9F_(%E6%BC%AB%E7%95%AB))
 ##
-* 銝摰???
-  * [?啣?銝??啣??臬??寥??](https://www.youtube.com/watch?v=FAMxLOnZrtc)
-  * [?餅??交?賣??嗅嚗??箇???憪?RPG銝?瑞????餅??冽?包(https://www.youtube.com/watch?v=AIufILDRw5U)
-  * [??銝?敹?憭拍???蝏??撟湔?敹怠?蝥扳蝔”](https://www.youtube.com/watch?v=BBrRhJYiK9Q)
-* 撱箄降??
-  * [?renz?鼓?怠??銝蝭隤脣遣蝡?蝜芰摮貊??迤蝣箄??伐??敺迨銝粥敶楝 (銝?](https://www.youtube.com/watch?v=kbKqIJcIUCw)
-  * [?renz?鼓?怠??銝蝭隤脣遣蝡?蝜芰摮貊??迤蝣箄??伐??敺迨銝粥敶楝 (銝?](https://www.youtube.com/watch?v=XfHLXSaYL0I)
-* ?刻YT
+* 一定�??��?
+  * [?��?世�??��??��??�透�??](https://www.youtube.com/watch?v=FAMxLOnZrtc)
+  * [?��??�样?��??�入�??��??��?始�?RPG一?��??��??��??�攻?�](https://www.youtube.com/watch?v=AIufILDRw5U)
+  * [?��?不�?心�?天�???绘画??年�?快�?级日程表](https://www.youtube.com/watch?v=BBrRhJYiK9Q)
+* 建議?��?
+  * [?�Krenz?�繪?�地?��?一節課建立�?繪畫學�??�正確�??��??�新從此不走彎路 (�?](https://www.youtube.com/watch?v=kbKqIJcIUCw)
+  * [?�Krenz?�繪?�地?��?一節課建立�?繪畫學�??�正確�??��??�新從此不走彎路 (�?](https://www.youtube.com/watch?v=XfHLXSaYL0I)
+* ?�薦YT
   * [youtubers](https://wiki.posetmage.com/Knowledge/Art/Youtuber/Art%20YT/)
-  * [?渡????(https://wiki.posetmage.com/Knowledge/Art/Drawing/%E6%8A%96%E6%8A%96%E6%9D%91/)
+  * [?��??��??�](https://wiki.posetmage.com/Knowledge/Art/Drawing/%E6%8A%96%E6%8A%96%E6%9D%91/)
 
-##### tags: `_雓儔 蝜芰`
+##### tags: `_講義 繪畫`
 
-## ?刻隤脫
+## ?�薦課本
 https://www.eslite.com/product/1001116542609124
 
 
-蝺?
+線�?
 https://www.youtube.com/watch?v=455OAQbNaBM
 
 
-## ?航?批捆
-* ???
-* ?神?
-* ???
+## ?�能?�容
+* ?��??
+* ?�寫?
+* ?��??
 
 
 ## 
 
-* [敹急?琶(https://wiki.posetmage.com/Knowledge/Art/Drawing/CSPHotKey/)
-  * ?詨?
-    * ?詨??格??拇??典?撅?ctrl+shift+暺
-    * 獢??格???
-    * 銴ˊ
-    * ?脣"?曉之蝮桀???"
-    * shift???臭誑撟單?
-  * ?蔥?惜
-    * 暺?惜
-    * shift??
-    * ?賊??蝯?
-    * ?喲
-    * 蝯??豢???撅
+* [快捷?�](https://wiki.posetmage.com/Knowledge/Art/Drawing/CSPHotKey/)
+  * ?��?
+    * ?��??��??��??��?�?ctrl+shift+點選
+    * 框�??��???
+    * 複製
+    * ?�入"?�大縮�??��?"
+    * shift?��??�以平�?
+  * ?�併?�層
+    * 點選?�層
+    * shift?��?
+    * ?��??終�?
+    * ?�鍵
+    * 組�??��??��?�

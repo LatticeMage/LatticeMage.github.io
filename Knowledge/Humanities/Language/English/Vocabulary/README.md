@@ -1,7 +1,6 @@
-﻿---
+---
 layout: default
 ---
-
 # Vocabulary
 
 [Arcanum](./Arcanum/)  

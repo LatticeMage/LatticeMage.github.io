@@ -1,11 +1,10 @@
-﻿---
+---
 layout: default
 ---
-
-# 鞈極蝚店
+# 資工笑話
 
 ## 
-Bogosort ?游???瘜?
+Bogosort ?��??��?�?
 
 
 ##
@@ -23,7 +22,7 @@ https://twitter.com/PR0GRAMMERHUM0R/status/1630070248555569154
 tags:
   - [[in-joke]]
   - [[Engineering]]
-  - [[Dunning?ruger effect]]
+  - [[Dunning?�Kruger effect]]
   
 ---
 

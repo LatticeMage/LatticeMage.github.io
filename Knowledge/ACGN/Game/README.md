@@ -1,7 +1,6 @@
-﻿---
+---
 layout: default
 ---
-
 # Game
 
 [AVG](./AVG/)  

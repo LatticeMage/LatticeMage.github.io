@@ -11,7 +11,6 @@ $prependText = @"
 ---
 layout: default
 ---
-
 "@
 
 $folders = @("./Knowledge", "./Lecture")
@@ -20,11 +19,12 @@ foreach($folder in $folders){
     $markdownFiles = Get-ChildItem -Path $folder -Filter *.md -Recurse -File
 
     foreach($file in $markdownFiles){
-        $content = Get-Content $file.FullName -Raw
+        $content = Get-Content $file.FullName -Raw -Encoding default
         $content = $prependText + "`n" + $content
-        $content | Out-File $file.FullName -Encoding utf8
+        $content | Out-File $file.FullName -Encoding default
     }
 }
+
 
 git add .
 git commit -m "upload"

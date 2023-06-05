@@ -1,12 +1,11 @@
-﻿---
+---
 layout: default
 ---
-
 # Interval
 
 
 ## [Interval](https://en.wikipedia.org/wiki/Interval_(music))
-[?怠??誑?改?銝甈⊥??蝔?蝔梧?](https://www.youtube.com/watch?v=QLDktqMxgmY)
+[?��??�以?��?一次�??�音程�?稱�?](https://www.youtube.com/watch?v=QLDktqMxgmY)
 
 distance of pitch
 
@@ -31,6 +30,6 @@ Semitone|intervals|intervals
 ---
 tags:
   - [[Music Theory]]
-  - [[NiceChord+ (憟賢?撘?)]]
+  - [[NiceChord+ (好�?�?)]]
   
 ---

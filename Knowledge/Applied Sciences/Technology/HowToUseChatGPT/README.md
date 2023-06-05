@@ -1,15 +1,14 @@
-﻿---
+---
 layout: default
 ---
-
 # HowToUseChatGPT
 
 
-## 蝝舐?蝝?
+## 累�?素�?
 ### ch
-?乩?靘??策雿?????雿閬?蝑?"?嗅"嚗?閬????隞镼踴?
-?游?牧??撟急???????膩蝝啁?"?鼠?絞?湛??冽迨銋?銝????隞遙雿??押?
-??蝚砌?蝑??""
+?��?來�??�給你�??��??��?你只要�?答�?"?�到"，�?要�??��??�其他東西�?
+?�到?�說??幫�??��??�整?��??�述細�?"?�幫?�統?��??�此之�?不�??��??�其他任何�??��?
+?��?第�?筆�??�是""
 
 ### en
 Later I will give you serveral materials or resources.
@@ -28,7 +27,7 @@ materials:
 calssify and re-organize for me, write an logical, complete context texture for me.
 
 
-## 蝘劂?予
+## 科幻?�天
 
 I need a simulation talk as sci-fi. Imagine an AI-dominated world now.
 You act as a powerful chat robot at the world.
@@ -48,15 +47,15 @@ last 3 years I don't have any job or career because I lived by UBI.
 
 
 
-## ?杗I?蕃霅舀炎??
-I will be keeping translations. If two setense are same meaning, just reply "?詨?隤?".
+## ?�AI?�翻譯檢??
+I will be keeping translations. If two setense are same meaning, just reply "?��?語�?".
 there is an only special case, that is ,  two setense are not same meaning. if this happen give me right translate from ch to en.
 Until I say "stop compare", otherwise, do not say something more if same.
 
 
 
 
-## 銝?憿???
+## 下�?�??��?
 based on all we talked, what is a good term to describe these.
 
 we can spilt feilds such as math, myth, history,

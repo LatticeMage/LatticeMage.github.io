@@ -1,7 +1,6 @@
-﻿---
+---
 layout: default
 ---
-
 # Programming
 
 [GraphicAPIs](./GraphicAPIs/)  

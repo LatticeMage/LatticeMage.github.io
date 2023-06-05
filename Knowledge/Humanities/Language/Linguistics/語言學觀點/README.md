@@ -1,16 +1,15 @@
-﻿---
+---
 layout: default
 ---
-
-# 隤?摮貉?暺蔣??
-
-
-* [蝺渲?府????????嚗???隤?摮貉?暺蔣???// Chen Lily](https://youtu.be/9mkwwnUgCzQ)
-* [摮貉?閮銝?芋隞選?雿飛隤???敹菜迤蝣箏?嚗?// Chen Lily](https://youtu.be/vor6a_1hlJM)
-* [憒??迫蝧餉陌嚗?望???? ?? 隤?摮貉?暺???// Chen Lily](https://youtu.be/WxYnyqgO77M)
+# 語�?學�?點影??
 
 
-* [憒???摮詨?蝔株?閮?? How to learn multiple languages at the same time](https://youtu.be/7AY6N-ALUNw)
+* [練聽?�該?��??�」�??��??�」�?？�??��?語�?學�?點影?��??// Chen Lily](https://youtu.be/9mkwwnUgCzQ)
+* [學�?言不是?�模仿�?你學語�??��?念正確�?�?// Chen Lily](https://youtu.be/vor6a_1hlJM)
+* [如�??�止翻譯？用?��??�考�??�相 ?? 語�?學�?點�???// Chen Lily](https://youtu.be/WxYnyqgO77M)
+
+
+* [如�??��?學�?種�?言?? How to learn multiple languages at the same time](https://youtu.be/7AY6N-ALUNw)
 
 
 ---

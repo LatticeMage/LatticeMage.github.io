@@ -1,16 +1,15 @@
-﻿---
+---
 layout: default
 ---
-
-# Solf癡ge
+# Solfège
 
 ## Musical note name
 
-## [Solf癡ge](https://en.wikipedia.org/wiki/Solf%C3%A8ge)
-[???誑?改?銝甈⊥????隤踴??摰矽??](https://www.youtube.com/watch?v=cvu6A04S80U)
+## [Solfège](https://en.wikipedia.org/wiki/Solf%C3%A8ge)
+[?��??�以?��?一次�??�「唱?�」、「�?調」�??�固定調?��?](https://www.youtube.com/watch?v=cvu6A04S80U)
 ```
-## == ?
-bb == ?凌 
+## == ?��
+bb == ?�♭ 
 # = ??
 b = ??
 ```

@@ -1,7 +1,6 @@
-ï»¿---
+---
 layout: default
 ---
-
 # Instrument
 
 ---
@@ -10,7 +9,7 @@ tags:
 ---
 
 
-## ç”ˆâˆ©?éš?î­£æ‘®î“???
+## æ¬¡ä?ä»?›»å­æ???
 
 * seaboard
 * linnstrument
