@@ -11,15 +11,11 @@ LatticeMage是PosetMage的子品牌，這個頻道主軸是下個世代的思維
 。為了應對下一個世代，這個頻道會提供一人團隊創業思維、斜槓藍海策略、個人品牌定位等各種主題，用AI或其他工具輔助這些概念。
 可以觀看播放清單中的創業思維系列、個人成長系列，有任何想法或問題都歡迎在影片下方留言討論或者來信。
 
-## [YT - LatticeMage](http://youtube.com/@LatticeMage)
-
 ## [知識庫](./Knowledge)
 知識庫為創作用的參考區
 
 ## [上課教材](./Lecture)
 上課教材是1v1家教用的講義
-
-
 
 ## 主站 [PosetMage](http://posetmage.com/)
 * [About Me](http://posetmage.com/about/)
