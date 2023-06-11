@@ -8,6 +8,7 @@ layout: default
 [Company](./Economy/Company)  
 [Conpetitive Product Analysis](./Economy/Conpetitive Product Analysis)  
 [Financial Independence](./Economy/Financial Independence)  
+[Game Theory](./Economy/Game Theory)  
 [Investing Books](./Economy/Investing Books)  
 [Investing](./Economy/Investing)  
 [Investing2](./Economy/Investing2)  
