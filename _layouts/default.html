@@ -1,45 +1,114 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
-  <head>
-    <meta charset='utf-8'>
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    {% include head-custom.html %}
 
-{% seo %}
-  </head>
+<head>
+  <meta charset='utf-8'>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+  {% include head-custom.html %}
+  {% seo %}
+  <style>
+    .container {
+      display: flex;
+    }
 
-  <body>
+    .sidebar {
+      position: fixed;
+      width: 200px;
+      padding: 1em;
+      overflow: auto;
+      height: 100vh;
+    }
 
-    <header>
-      <div class="container">
-        <a id="a-title" href="{{ '/' | relative_url }}">
-          <h1>{{ site.title | default: site.github.repository_name }}</h1>
-        </a>
-        <h2>{{ site.description | default: site.github.project_tagline }}</h2>
+    .content {
+      margin-left: 210px;
+    }
 
-        <section id="downloads">
-          {% if site.show_downloads %}
-            <a href="{{ site.github.zip_url }}" class="btn">Download as .zip</a>
-            <a href="{{ site.github.tar_url }}" class="btn">Download as .tar.gz</a>
-          {% endif %}
-          <a href="{{ site.github.repository_url }}" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
-        </section>
-      </div>
-    </header>
+    /* Reduced line height and spacing for ToC items */
+    .sidebar p {
+      margin: 0;
+      padding: 0;
+      line-height: 1.2em;
+    }
+  </style>
+</head>
 
+<body>
+  <header>
     <div class="container">
+      <a id="a-title" href="{{ '/' | relative_url }}">
+        <h1>{{ site.title | default: site.github.repository_name }}</h1>
+      </a>
+      <h2>{{ site.description | default: site.github.project_tagline }}</h2>
+
+      <section id="downloads">
+        {% if site.show_downloads %}
+        <a href="{{ site.github.zip_url }}" class="btn">Download as .zip</a>
+        <a href="{{ site.github.tar_url }}" class="btn">Download as .tar.gz</a>
+        {% endif %}
+        <a href="{{ site.github.repository_url }}" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
+      </section>
+    </div>
+  </header>
+
+  <div class="container">
+    <div class="sidebar" id="toc"></div>
+    <div class="content">
       <section id="main_content">
         {{ content }}
       </section>
     </div>
+  </div>
 
-    <div style="height: 50px;">
-        <p align="center"><img src="https://posetmage.com/Images/Icon/LatticeMage_t.png" Height="32" /> 
-          <a href="/">LatticeMage</a>         
-          <img src="https://posetmage.com/Images/Icon/LatticeMage_t.png" Height="32" />
-        </p>        
-    </div>   
-  </body>
+  <div style="height: 50px;">
+    <p align="center"><img src="https://posetmage.com/Images/Icon/LatticeMage_t.png" Height="32" />
+      <a href="/">LatticeMage</a>
+      <img src="https://posetmage.com/Images/Icon/LatticeMage_t.png" Height="32" />
+    </p>
+  </div>
+
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      // Fetch all the headers
+      var headers = document.querySelectorAll('h1, h2, h3, h4, h5, h6');
+
+      // Prepare an empty object to store our ToC
+      var toc = [];
+
+      // Loop over the headers
+      headers.forEach(function(header, index) {
+        // Skip first two headers (site title and description)
+        if (index < 2) return;
+
+        // Give each header an id
+        var id = 'header-' + index;
+        header.id = id;
+
+        // Push the header to our ToC
+        toc.push({
+          id: id,
+          text: header.innerText,
+          tagName: header.tagName
+        });
+      });
+
+      // Prepare an empty string to build our ToC HTML
+      var tocHTML = '';
+
+      // Loop over our ToC
+      toc.forEach(function(tocItem) {
+        // Add an indent based on the header level
+        var indent = parseInt(tocItem.tagName.substring(1)) - 1;
+
+        // Add the item to the ToC HTML
+        tocHTML += '<p style="text-indent: ' + indent + 'em;"><a href="#' + tocItem.id + '">' + tocItem.text + '</a></p>';
+      });
+
+      // Inject our ToC into the div
+      document.getElementById('toc').innerHTML = tocHTML;
+    });
+  </script>
+</body>
+
 </html>
