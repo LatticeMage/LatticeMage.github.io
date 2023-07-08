@@ -16,6 +16,9 @@
     .sidebar {
       position: fixed;
       width: 200px;
+      padding: 1em;
+      overflow: auto;
+      height: 100vh;
     }
 
     .content {
@@ -43,31 +46,10 @@
   </header>
 
   <div class="container">
-    <div class="sidebar">
-      <ul class="sidebar-nav">
-        {% for header in content | split: "<h2>" %}
-        {% if forloop.index > 1 %}
-        {% assign header_parts = header | split: "</h2>" %}
-        {% assign header_text = header_parts[0] | strip_html | strip %}
-        {% assign header_id = header_text | slugify %}
-        <li><a href="#{{ header_id }}">{{ header_text }}</a></li>
-        {% endif %}
-        {% endfor %}
-      </ul>
-    </div>
+    <div class="sidebar" id="toc"></div>
     <div class="content">
       <section id="main_content">
-        {% for header in content | split: "<h2>" %}
-        {% if forloop.index > 1 %}
-        {% assign header_parts = header | split: "</h2>" %}
-        {% assign header_text = header_parts[0] | strip_html | strip %}
-        {% assign header_id = header_text | slugify %}
-        <h2 id="{{ header_id }}">{{ header_text }}</h2>
-        {{ header_parts[1] | prepend: "</h2>" }}
-        {% else %}
-        {{ header }}
-        {% endif %}
-        {% endfor %}
+        {{ content }}
       </section>
     </div>
   </div>
@@ -78,6 +60,45 @@
       <img src="https://posetmage.com/Images/Icon/LatticeMage_t.png" Height="32" />
     </p>
   </div>
+
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      // Fetch all the headers
+      var headers = document.querySelectorAll('h1, h2, h3, h4, h5, h6');
+
+      // Prepare an empty object to store our ToC
+      var toc = [];
+
+      // Loop over the headers
+      headers.forEach(function(header, index) {
+        // Give each header an id
+        var id = 'header-' + index;
+        header.id = id;
+
+        // Push the header to our ToC
+        toc.push({
+          id: id,
+          text: header.innerText,
+          tagName: header.tagName
+        });
+      });
+
+      // Prepare an empty string to build our ToC HTML
+      var tocHTML = '';
+
+      // Loop over our ToC
+      toc.forEach(function(tocItem) {
+        // Add an indent based on the header level
+        var indent = parseInt(tocItem.tagName.substring(1)) - 1;
+
+        // Add the item to the ToC HTML
+        tocHTML += '<p style="text-indent: ' + indent + 'em;"><a href="#' + tocItem.id + '">' + tocItem.text + '</a></p>';
+      });
+
+      // Inject our ToC into the div
+      document.getElementById('toc').innerHTML = tocHTML;
+    });
+  </script>
 </body>
 
 </html>
