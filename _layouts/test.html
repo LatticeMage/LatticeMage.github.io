@@ -24,6 +24,13 @@
     .content {
       margin-left: 210px;
     }
+
+    /* Reduced line height and spacing for ToC items */
+    .sidebar p {
+      margin: 0;
+      padding: 0;
+      line-height: 1.2em;
+    }
   </style>
 </head>
 
@@ -71,6 +78,9 @@
 
       // Loop over the headers
       headers.forEach(function(header, index) {
+        // Skip first two headers (site title and description)
+        if (index < 2) return;
+
         // Give each header an id
         var id = 'header-' + index;
         header.id = id;
