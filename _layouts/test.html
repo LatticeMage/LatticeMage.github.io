@@ -2,13 +2,30 @@
 layout: test
 ---
 
-<small>{{ page.date | date: "%-d %B %Y" }}</small>
-<h1>{{ page.title }}</h1>
-
-<p class="view">by {{ page.author | default: site.author }}</p>
-
-{{content}}
-
-{% if page.tags %}
-  <small>tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small>
-{% endif %}
+<div class="container">
+  <div class="sidebar">
+    <ul class="sidebar-nav">
+      {% for header in content | split: "<h2>" %}
+        {% if forloop.index > 1 %}
+          {% assign header_parts = header | split: "</h2>" %}
+          {% assign header_text = header_parts[0] | strip_html | strip %}
+          {% assign header_id = header_text | slugify %}
+          <li><a href="#{{ header_id }}">{{ header_text }}</a></li>
+        {% endif %}
+      {% endfor %}
+    </ul>
+  </div>
+  <div class="content">
+    {% for header in content | split: "<h2>" %}
+      {% if forloop.index > 1 %}
+        {% assign header_parts = header | split: "</h2>" %}
+        {% assign header_text = header_parts[0] | strip_html | strip %}
+        {% assign header_id = header_text | slugify %}
+        <h2 id="{{ header_id }}">{{ header_text }}</h2>
+        {{ header_parts[1] | prepend: "</h2>" }}
+      {% else %}
+        {{ header }}
+      {% endif %}
+    {% endfor %}
+  </div>
+</div>
