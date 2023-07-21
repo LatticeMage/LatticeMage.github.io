@@ -28,3 +28,7 @@ layout: default
 * 第二幕(pp.25-55) 
 * 第二幕(pp.55-85) 
 * 第三幕(pp.85-110)
+
+
+## 心得
+系統化是很困難的 ex: Jacob把negative model系統化
