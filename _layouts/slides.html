@@ -25,6 +25,13 @@ layout: default
     // Initially disable the Previous Slide button
     $('#prevSlide').prop('disabled', true);
 
+    // Populate ToC for slides
+    var tocHTML = "";
+    $('.slide').each(function(index) {
+        tocHTML += '<p><a href="#slide' + index + '">Slide ' + index + '</a></p>';
+    });
+    $('#toc').html(tocHTML);
+
     // When the Next Slide button is clicked
     $('#nextSlide').click(function() {
       // Hide current slide
@@ -68,9 +75,8 @@ layout: default
     // When a link in the table of contents is clicked
     $('#toc a').click(function(e) {
       e.preventDefault();
-      var target = $(this).attr('href');
-      var targetSlideNumber = $(target).data('slide');
-      if (targetSlideNumber !== undefined) {
+      var targetSlideNumber = parseInt($(this).attr('href').replace('#slide', ''));
+      if (!isNaN(targetSlideNumber)) {
         // Hide current slide
         $('.slide').eq(currentSlide).hide();
 
