@@ -30,6 +30,9 @@ site_favicon: favicon.ico
 # Build settings
 remote_theme: pages-themes/hacker@v0.2.0
 
+kramdown:
+  parse_block_html: true
+
 defaults:
   -
     scope:
