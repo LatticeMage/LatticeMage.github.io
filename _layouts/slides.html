@@ -28,7 +28,8 @@ layout: default
     // Populate ToC for slides
     var tocHTML = "";
     $('.slide').each(function(index) {
-        tocHTML += '<p><a href="#slide' + index + '">Slide ' + index + '</a></p>';
+        var slideTitle = $(this).find('h2').text();
+        tocHTML += '<p><a href="#slide' + index + '">' + slideTitle + '</a></p>';
     });
     $('#toc').html(tocHTML);
 
