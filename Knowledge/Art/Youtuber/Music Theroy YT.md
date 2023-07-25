@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Music Theroy YT
 
 ---

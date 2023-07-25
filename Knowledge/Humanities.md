@@ -1,7 +1,3 @@
----
-layout: default
----
-
 [History](./Humanities/History)  
 [Language](./Humanities/Language)  
 [Philosophy](./Humanities/Philosophy)  

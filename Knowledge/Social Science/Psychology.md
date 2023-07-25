@@ -1,7 +1,3 @@
----
-layout: default
----
-
 [Analytical Thinking](./Psychology/Analytical Thinking)  
 [Bullying](./Psychology/Bullying)  
 [DID](./Psychology/DID)  

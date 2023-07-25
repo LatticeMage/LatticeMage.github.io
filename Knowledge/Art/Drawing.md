@@ -1,7 +1,3 @@
----
-layout: default
----
-
 [Anthropotomy](./Drawing/Anthropotomy)  
 [Chroma](./Drawing/Chroma)  
 [Copy](./Drawing/Copy)  

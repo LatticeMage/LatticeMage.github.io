@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Game Theory
 
 game theory 分四象限  

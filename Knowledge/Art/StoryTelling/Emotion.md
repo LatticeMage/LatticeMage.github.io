@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Emotion
 
 * 故事的解剖

@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Epigenetics
 
 * 大自然的秘訣，生物多樣性

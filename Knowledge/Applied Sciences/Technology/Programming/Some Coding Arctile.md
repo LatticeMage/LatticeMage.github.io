@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Some Coding Arctile
 
 [程式初學者的失落之鑰 – “Computational Thinking”](http://blog.orangeapple.tw/posts/what-is-computational-thinking/)

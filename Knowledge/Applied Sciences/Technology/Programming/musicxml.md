@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # MusicXML
 
 https://docs.microsoft.com/zh-tw/dotnet/standard/serialization/how-to-deserialize-an-object

@@ -1,7 +1,3 @@
----
-layout: default
----
-
 * 故事設計由五個部分組成
   * 事件觸發 Inciting Incident
   * 漸進式困境

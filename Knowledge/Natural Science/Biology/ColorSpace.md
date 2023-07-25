@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Color Space
 
 ## Mechanism

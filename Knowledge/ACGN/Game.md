@@ -1,7 +1,3 @@
----
-layout: default
----
-
 [AVG](./Game/AVG)  
 [Designer](./Game/Designer)  
 [Game Classification](./Game/Game Classification)  

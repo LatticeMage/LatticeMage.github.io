@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Game Designing
 
 推薦影片：[國際發行商媒合會 – 獨立遊戲出海求生指南](https://youtu.be/mtObYJRb2ug?t=1900)

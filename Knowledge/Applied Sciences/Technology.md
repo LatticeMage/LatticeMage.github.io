@@ -1,7 +1,3 @@
----
-layout: default
----
-
 [Creation](./Technology/Creation)  
 [CSPHotKey](./Technology/CSPHotKey)  
 [Easy Domain](./Technology/Easy Domain)  

@@ -1,7 +1,3 @@
----
-layout: default
----
-
 [Game Balancing](./Designer/Game Balancing)  
 [Game Writer](./Designer/Game Writer)  
 [GameFlow](./Designer/GameFlow)  

@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Diatonic
 
 ## [Diatonic Scale](https://en.wikipedia.org/wiki/Diatonic_scale)

@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Game Classification
 
 ## Table Game

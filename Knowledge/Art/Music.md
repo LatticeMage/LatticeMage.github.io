@@ -1,7 +1,3 @@
----
-layout: default
----
-
 [Drum](./Music/Drum)  
 [Instrument](./Music/Instrument)  
 [Music Theory](./Music/Music Theory)  

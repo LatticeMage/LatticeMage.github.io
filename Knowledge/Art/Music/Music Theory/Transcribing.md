@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Transcribing
 
 ## Software Need

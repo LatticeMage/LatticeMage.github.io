@@ -1,7 +1,3 @@
----
-layout: default
----
-
 [ACGN才是最接近尼采哲學](./Philosophy/ACGN才是最接近尼采哲學)  
 [Life Planning](./Philosophy/Life Planning)  
 [Overfitting](./Philosophy/Overfitting)  

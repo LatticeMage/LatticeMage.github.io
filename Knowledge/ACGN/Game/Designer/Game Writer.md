@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Game Writer
 遊戲編劇可能會跟另一個職位放在一起: 敘事設計(Narrative Designer)
 

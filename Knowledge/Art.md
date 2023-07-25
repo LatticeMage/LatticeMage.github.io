@@ -1,7 +1,3 @@
----
-layout: default
----
-
 [Drawing](./Art/Drawing)  
 [Music](./Art/Music)  
 [StoryTelling](./Art/StoryTelling)  

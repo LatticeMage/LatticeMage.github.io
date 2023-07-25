@@ -1,7 +1,3 @@
----
-layout: default
----
-
 [AI溝通師](./Lecture/AI溝通師)  
 [Podcast](./Lecture/Podcast)  
 [作曲](./Lecture/作曲)  

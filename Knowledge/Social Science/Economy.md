@@ -1,7 +1,3 @@
----
-layout: default
----
-
 [All-in](./Economy/All-in)  
 [Behavioral Finance](./Economy/Behavioral Finance)  
 [Business Model](./Economy/Business Model)  

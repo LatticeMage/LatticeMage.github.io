@@ -1,7 +1,3 @@
----
-layout: default
----
-
 [Classical](./Music Types/Classical)  
 [Djent](./Music Types/Djent)  
 [Metal](./Music Types/Metal)  

@@ -1,7 +1,3 @@
----
-layout: default
----
-
 [ACGN YT](./Youtuber/ACGN YT)  
 [Art YT](./Youtuber/Art YT)  
 [Competition YT](./Youtuber/Competition YT)  

@@ -1,7 +1,3 @@
----
-layout: default
----
-
 [ACGN](./Knowledge/ACGN)  
 [Applied Sciences](./Knowledge/Applied Sciences)  
 [Art](./Knowledge/Art)  

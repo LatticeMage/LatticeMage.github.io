@@ -1,0 +1,32 @@
+---
+layout: default
+---
+
+<div id="slides">
+  {{ content }}
+</div>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+<script>
+  $(document).ready(function() {
+    var currentSlide = 0;
+    var totalSlides = $('.slide').length;
+
+    // Hide all slides except the first one
+    $('.slide').hide();
+    $('.slide').eq(currentSlide).show();
+
+    // When a link in the table of contents is clicked
+    $('#toc a').click(function(e) {
+      e.preventDefault();
+      var target = $(this).attr('href');
+      var targetSlideNumber = $(target).data('slide');
+      if (targetSlideNumber !== undefined) {
+        currentSlide = targetSlideNumber;
+        $('.slide').hide();
+        $('.slide').eq(currentSlide).show();
+      }
+    });
+  });
+</script>

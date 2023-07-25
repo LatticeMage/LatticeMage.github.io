@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Solfège
 
 ## Musical note name

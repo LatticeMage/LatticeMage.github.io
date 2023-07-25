@@ -1,7 +1,3 @@
----
-layout: default
----
-
 [Bimanual Coordination](./Biology/Bimanual Coordination)  
 [Brain Learning](./Biology/Brain Learning)  
 [ColorSpace](./Biology/ColorSpace)  

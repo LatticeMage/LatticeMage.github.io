@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Meditation
 
 ## 推薦書單

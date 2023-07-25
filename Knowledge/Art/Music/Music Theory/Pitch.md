@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Pitch
 
 ## Sound pitch

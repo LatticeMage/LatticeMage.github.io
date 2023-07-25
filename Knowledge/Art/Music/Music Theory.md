@@ -1,7 +1,3 @@
----
-layout: default
----
-
 [Bass Line](./Music Theory/Bass Line)  
 [Chord Notation](./Music Theory/Chord Notation)  
 [Circle of fifths](./Music Theory/Circle of fifths)  

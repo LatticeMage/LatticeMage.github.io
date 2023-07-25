@@ -1,7 +1,3 @@
----
-layout: default
----
-
 [Anti-capitalism](./Social Science/Anti-capitalism)  
 [Career Planning](./Social Science/Career Planning)  
 [Communication](./Social Science/Communication)  

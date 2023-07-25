@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Game Balancing
 
 數值企劃/數值策劃

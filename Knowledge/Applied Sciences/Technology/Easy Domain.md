@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Easy Domain
 我就爛架站法
 

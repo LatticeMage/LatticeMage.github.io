@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Career Planning
 
 ## 推薦影片

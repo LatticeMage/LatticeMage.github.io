@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # SteamTools
 
 https://steamspy.com/search.php

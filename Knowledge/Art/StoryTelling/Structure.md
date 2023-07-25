@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Structure
 
 最優秀的是少量作品可以大量分析

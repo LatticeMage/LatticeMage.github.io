@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Outcome-oriented
 
 ## Iku老師
