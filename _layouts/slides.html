@@ -44,6 +44,9 @@ layout: default
       // Show next slide
       $('.slide').eq(currentSlide).show();
 
+      // Scroll to top
+      window.scrollTo(0, 0);
+
       // Enable the Previous Slide button
       $('#prevSlide').prop('disabled', false);
 
@@ -63,6 +66,9 @@ layout: default
 
       // Show previous slide
       $('.slide').eq(currentSlide).show();
+
+      // Scroll to top
+      window.scrollTo(0, 0);
 
       // Enable the Next Slide button
       $('#nextSlide').prop('disabled', false);
@@ -86,6 +92,9 @@ layout: default
 
         // Show target slide
         $('.slide').eq(currentSlide).show();
+
+        // Scroll to top
+        window.scrollTo(0, 0);
 
         // Disable or enable the navigation buttons as necessary
         $('#prevSlide').prop('disabled', currentSlide === 0);
