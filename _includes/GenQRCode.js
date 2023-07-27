@@ -1,6 +1,6 @@
 // generateQRCode.js
 
-function generateQRCode(url) {
+function GenQRCode(url) {
     var qrcode = new QRCode(document.getElementById("qrcode"), {
         text: url,
         width: 300,
