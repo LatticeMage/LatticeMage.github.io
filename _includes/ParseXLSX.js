@@ -1,25 +1,20 @@
-const XLSX = require('xlsx');
+function parseXLSX(workbook) {
+    const worksheets = [];
 
-function ParseXLSX(workbook) {
-    // Get the sheet names
-    let sheetNames = workbook.SheetNames;
+    // Iterate over each worksheet in the workbook
+    for (let i = 0; i < workbook.SheetNames.length; i++) {
+        const worksheetName = workbook.SheetNames[i];
+        const worksheet = workbook.Sheets[worksheetName];
 
-    // Create an empty object to store the parsed data
-    let parsedData = {};
+        const jsonData = XLSX.utils.sheet_to_json(worksheet, {header: 1});
+        const rowCount = jsonData.length;
 
-    // Loop over each sheet
-    for(let i=0; i<sheetNames.length; i++) {
-        // Get the current sheet
-        let sheet = workbook.Sheets[sheetNames[i]];
-
-        // Convert the sheet to JSON
-        let sheetData = XLSX.utils.sheet_to_json(sheet);
-
-        // Add the sheet data to the parsedData object
-        parsedData[sheetNames[i]] = sheetData;
+        worksheets.push({
+            name: worksheetName,
+            data: jsonData,
+            rowCount: rowCount,
+        });
     }
 
-    return parsedData;
+    return worksheets;
 }
-
-module.exports = ParseXLSX;
