@@ -1,4 +1,4 @@
-// QRCodeFunc.js
+// generateQRCode.js
 
 function generateQRCode(url) {
     var qrcode = new QRCode(document.getElementById("qrcode"), {
