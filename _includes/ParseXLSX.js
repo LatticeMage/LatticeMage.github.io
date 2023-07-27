@@ -1,5 +1,6 @@
+// parseXLSX.js
 function parseXLSX(workbook) {
-    const worksheets = [];
+    const worksheetsInfo = [];
 
     // Iterate over each worksheet in the workbook
     for (let i = 0; i < workbook.SheetNames.length; i++) {
@@ -9,12 +10,9 @@ function parseXLSX(workbook) {
         const jsonData = XLSX.utils.sheet_to_json(worksheet, {header: 1});
         const rowCount = jsonData.length;
 
-        worksheets.push({
-            name: worksheetName,
-            data: jsonData,
-            rowCount: rowCount,
-        });
+        // Save the worksheet's title and row count
+        worksheetsInfo.push({ title: worksheetName, rowCount: rowCount });
     }
 
-    return worksheets;
+    return worksheetsInfo;
 }

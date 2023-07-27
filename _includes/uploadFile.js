@@ -1,5 +1,6 @@
-function uploadFile(elementId) {
-    const xlsxFile = document.getElementById(elementId).files[0];
+// uploadFile.js
+function uploadFile(inputID) {
+    const xlsxFile = document.getElementById(inputID).files[0];
     if (!xlsxFile) {
         alert('No file selected!');
         return;
@@ -8,8 +9,7 @@ function uploadFile(elementId) {
     const reader = new FileReader();
     reader.onload = function(e) {
         const data = new Uint8Array(e.target.result);
-        const workbook = XLSX.read(data, {type: 'array'});
-        return workbook;
+        return XLSX.read(data, {type: 'array'});
     };
     reader.readAsArrayBuffer(xlsxFile);
 }
