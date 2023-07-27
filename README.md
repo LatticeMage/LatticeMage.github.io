@@ -1,3 +1,1 @@
 # latticemage.github.io
-
-
