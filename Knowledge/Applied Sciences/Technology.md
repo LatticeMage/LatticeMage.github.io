@@ -8,4 +8,5 @@
 [Productivity Tools](./Technology/Productivity Tools)  
 [Programming](./Technology/Programming)  
 [Prompt](./Technology/Prompt)  
+[Self-own data](./Technology/Self-own data)  
 [人體工學椅,滑鼠](./Technology/人體工學椅,滑鼠)  
