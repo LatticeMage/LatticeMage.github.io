@@ -1,5 +1,6 @@
 [AVG](./Game/AVG)  
 [Designer](./Game/Designer)  
+[Extra Credits](./Game/Extra Credits)  
 [Game Classification](./Game/Game Classification)  
 [Game Designer](./Game/Game Designer)  
 [Game Designing](./Game/Game Designing)  
