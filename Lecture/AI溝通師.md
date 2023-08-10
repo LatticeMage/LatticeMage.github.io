@@ -1,7 +1,7 @@
 [AI Toolchain](./AI溝通師/AI Toolchain)  
 [AI溝通師 01](./AI溝通師/AI溝通師 01)  
 [AI溝通師 02](./AI溝通師/AI溝通師 02)  
-[SlideImages](./AI溝通師/SlideImages)  
+[Slides](./AI溝通師/Slides)  
 [Why Learn AI so Hard](./AI溝通師/Why Learn AI so Hard)  
 [分析問卷](./AI溝通師/分析問卷)  
 [增肥53](./AI溝通師/增肥53)  
