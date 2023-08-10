@@ -35,7 +35,7 @@ layout: default
     var tocHTML = "";
     $('.slide').each(function(index) {
         var slideTitle = $(this).find('h2').text();
-        tocHTML += '<p><a href="#slide' + index + '">' + slideTitle + '</a></p>';
+        tocHTML += '<p><a href="#slide' + index + '">' + '◇' + slideTitle + '</a></p>';
     });
     $('#toc').html(tocHTML);
 
