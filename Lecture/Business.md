@@ -1,2 +1,1 @@
-[flywheel](./Business/flywheel)  
-[test](./Business/test)  
+[Flywheel](./Business/Flywheel)  

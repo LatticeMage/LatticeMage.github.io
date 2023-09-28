@@ -4,6 +4,7 @@
 [Company](./Economy/Company)  
 [Conpetitive Product Analysis](./Economy/Conpetitive Product Analysis)  
 [Financial Independence](./Economy/Financial Independence)  
+[flywheel](./Economy/flywheel)  
 [Game Theory](./Economy/Game Theory)  
 [Investing Books](./Economy/Investing Books)  
 [Investing](./Economy/Investing)  
