@@ -1,1 +1,0 @@
-[GalgameMaker](./Galgame/GalgameMaker)  

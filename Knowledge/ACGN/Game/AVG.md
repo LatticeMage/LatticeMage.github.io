@@ -1,1 +1,0 @@
-[Galgame](./AVG/Galgame)  

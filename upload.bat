@@ -4,11 +4,6 @@ git remote set-url origin git@LM:LatticeMage/LatticeMage.github.io.git
 
 git pull
 
-./Knowledge.ps1
-./Lecture.ps1
-
-python ./page.py
-
 git add .
 git commit -m "upload"
 git push

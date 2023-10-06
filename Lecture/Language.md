@@ -1,1 +1,0 @@
-[Janpanese](./Language/Janpanese)  
