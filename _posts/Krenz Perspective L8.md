@@ -2,7 +2,7 @@
 layout: post
 title:  "Krenz Perspective L8"
 date:   2023-10-06 10:00:00 +0800
-permalink: /Krenz Perspective L8/
+permalink: /posts/Krenz Perspective L8/
 tags: [Visual Art]
 ---
 
