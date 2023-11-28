@@ -32,6 +32,7 @@ includes_dir: _shared/_includes
 header_pages:
   - About.md
   - Blog.md
+  - Tags.md
   - GPTs.md
   - Contact.md
 
