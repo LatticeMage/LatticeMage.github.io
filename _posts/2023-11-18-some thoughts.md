@@ -2,7 +2,7 @@
 layout: post
 title:  "some thoughts"
 date:   2023-11-18 10:00:00 +0800
-permalink: /posts/2023-11-18-some thoughts/
+tags: [Chat]
 ---
 
 ### art-music mapping

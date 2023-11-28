@@ -5,8 +5,6 @@ date:   2023-10-06 10:00:00 +0800
 tags: [Visual Art]
 ---
 
-# Krenz Perspective L8
-
 ## ① Your nickname:
 LatticeMage
 
