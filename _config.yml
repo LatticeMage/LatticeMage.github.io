@@ -21,34 +21,33 @@
 title: LatticeMage
 email: latticemage@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-   PosetMage sub-brand
+   "国士無双"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://lattice.posetmage.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 site_favicon: favicon.ico
 includes_dir: _shared/_includes
 
+#order
+header_pages:
+  - About.md
+  - Blog.md
+  - GPTs.md
+  - Contact.md
+
+
+
 # Build settings
-remote_theme: pages-themes/hacker@v0.2.0
+remote_theme: jekyll/minima
 
-collections:
-  directories:
-    output: true
-
-kramdown:
-  parse_block_html: true
-
-defaults:
-  -
-    scope:
-      path: ""
-    values:
-      layout: "default"
+minima:
+  skin: dark
 
 plugins:
   - jekyll-external-links
   - jekyll-feed
   - jekyll-redirect-from
+  - jekyll-category-pages
   - jekyll-remote-theme
   - jekyll-sitemap
   - jekyll-titles-from-headings
@@ -60,3 +59,15 @@ plugins:
 #
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
+#
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
