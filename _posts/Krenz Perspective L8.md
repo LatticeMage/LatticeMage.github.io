@@ -1,11 +1,12 @@
 ---
 layout: post
-title:  "Perspective"
+title:  "Krenz Perspective L8"
 date:   2023-10-06 10:00:00 +0800
-permalink: /posts/2023-10-06-Perspective/
+permalink: /Krenz Perspective L8/
+tags: [Visual Art]
 ---
 
-# PosetMage-LatticeMage-Perspective Issue 13-Homework Experience-L8
+# Krenz Perspective L8
 
 ## ① Your nickname:
 LatticeMage
