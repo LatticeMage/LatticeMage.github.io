@@ -1,13 +1,9 @@
 ---
 layout: post
-title:  "some thoughts"
+title:  "art-music mapping"
 date:   2023-11-18 10:00:00 +0800
-tags: [Chat]
+tags: [Art]
 ---
-
-### art-music mapping
-
-I understand that you're looking for a less formal and more casual style. Here's a condensed and informal version of your thoughts:
 
 🎨 Exploring Modern Art and Music 🎵
 

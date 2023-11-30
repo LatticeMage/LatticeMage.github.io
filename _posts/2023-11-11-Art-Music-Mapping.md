@@ -1,11 +1,9 @@
 ---
 layout: post
-title:  "Thinkings"
+title:  "Art-Music-Mapping"
 date:   2023-11-11 10:00:00 +0800
 tags: [Art]
 ---
-
-### art-music mapping
 
 The text draws parallels between the development of painting and music, focusing on their core concepts:
 
