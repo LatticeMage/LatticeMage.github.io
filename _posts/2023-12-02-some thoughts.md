@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "some thoughts"
-date:   2023-12-02 10:00:00 +0800
+date:   2023-12-01 10:00:00 +0800
 tags: [Entrepreneurship, Investing]
 ---
 
