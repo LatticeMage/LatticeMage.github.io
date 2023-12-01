@@ -18,10 +18,10 @@ latticemage@gmail.com
 Perspective 13th period
 
 ## ⑤ Works display:
-![](/_posts/krenz-pers/PerspectiveL8A.png)
+![](/images/krenz-pers/PerspectiveL8A.png)
 
 ## ⑥ Mind map/reference map:
-![](/_posts/krenz-pers/ref.jpg)
+![](/images/krenz-pers/ref.jpg)
 
 Because I saw artist using AI, I also wanted to experience this feeling. I also spelled some Stable Diffusion as a reference picture this time.
 
@@ -42,27 +42,27 @@ Taking this course is also a continuation of the AI ​​mentioned above. I oft
 As a former engineer, I used GPT coding extensively after GPT came out. Although most people without programming experience can write code with AI, those with a software background can better realize the potential of AI. This is also the main reason why I learn painting. Although people without experience can also use AI drawing, having domain knowledge can better exploit the potential of AI. So I also signed up for the composition class, and after the composition was completed, I also took the color class.
 
 For the L8 part, I wanted to think about what angle to choose at first. I wanted to add a little more challenge, so I chose an angle of 22.5° instead of 45°. The public version of the box was not very large, so I enlarged it with double, but it was still a little small. So the doors, windows, pillars, lockers, and control panels were all moved outwards.
-![](/_posts/krenz-pers/process00.png)
+![](/images/krenz-pers/process00.png)
 
 
 The tri-view drawing is actually useless for this assignment. After all, the K University class is modeling from the three-view perspective, but this assignment is the other way around. In fact, the object is placed in the air first, and then it goes back to fill in the three-view view. It is more like It's for teaching assistants to check.
-![](/_posts/krenz-pers/process01.jpg)
+![](/images/krenz-pers/process01.jpg)
 
 
 The teaching assistant at Node 1 commented that the door was too short and the objects were placed align axis, too boring. It would be better to put some oblique objects.  
 So Node 2 placed some books and scrolls slanted at an angle, the character also turned a slight angle, placed a slanted chair, and determined the viewing frame at the same time.
-![](/_posts/krenz-pers/process02.png)
+![](/images/krenz-pers/process02.png)
 
 The process of getting to Node 3 is a painful process of filling in details. There is a Node 2.5 in the middle and I asked the teaching assistant to do a point check. The teaching assistant suggested that the character will be out of focus when facing away. He also suggested some details that need to be added.
-![](/_posts/krenz-pers/process03.png)
+![](/images/krenz-pers/process03.png)
 
 The last node three process is the finishing action. Although it takes relatively little time, I am already very tired emotionally, especially since L8 took over from L7 immediately, and L7 is already very irritable. This feeling spreads to L8.
 
 After that, some mechanical details were added, such as the fixed lock of the machine. Because the structure of the tie rod area was unclear, gears were also drawn to complete the details. I encountered a problem in the middle. Drawing a small number of gears alone seemed too monotonous.
-![](/_posts/krenz-pers/process04.png)
+![](/images/krenz-pers/process04.png)
 
 So I made a clever way to borrow the concept of background pasting from L4. Here I also pasted a mechanical background to make it look 87% similar.
-![](/_posts/krenz-pers/process05.png)
+![](/images/krenz-pers/process05.png)
 
 
 
@@ -80,8 +80,8 @@ Complete the remaining two subjects of composition + color, and the goal is to h
 
 
 ## ⑩ Preschool works:
-![](/_posts/krenz-pers/origin1.jpg)
-![](/_posts/krenz-pers/origin2.jpg)
+![](/images/krenz-pers/origin1.jpg)
+![](/images/krenz-pers/origin2.jpg)
 
 
 ## at last:
