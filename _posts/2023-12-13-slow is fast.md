@@ -32,7 +32,7 @@ There’s an intriguing contrast between the methodical, hypothesis-driven appro
 
 ### The Power of Compounding in Life
 
-The concept of 複利 (compounding) has always struck a chord with me. It's the idea that small, consistent efforts, when compounded over time, lead to substantial outcomes. Whether it's skill development, relationships, or personal growth, the magic of compounding lies in its simplicity and the monumental impact of persistence.
+The concept of compounding has always struck a chord with me. It's the idea that small, consistent efforts, when compounded over time, lead to substantial outcomes. Whether it's skill development, relationships, or personal growth, the magic of compounding lies in its simplicity and the monumental impact of persistence.
 
 ### Closing Thoughts
 
