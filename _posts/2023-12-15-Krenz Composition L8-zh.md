@@ -21,17 +21,17 @@ latticemage@gmail.com
 
 ## ⑤ 作品展示：
 
-![](/images/krenz-comp/L8.png)
+![](/images/krenz-comp/L8.jpg)
 
 ## ⑥ 心智圖/參考圖：
 
 * 心智圖
   * 使用markmap去寫
-  * ![](/images/krenz-comp/L8%20markmap.png)
+  * ![](/images/krenz-comp/L8%20markmap.jpg)
 
 * 參考
   * 上透視課時使用Stable Diffusion生參考，這次剛好GPT4更新提供DALL·E 3，所以構成課L6和L8都用上了DALL·E 3
-  * ![](/images/krenz-comp/ref.png)
+  * ![](/images/krenz-comp/ref.jpg)
 
 
 ## ⑦ 繪畫&思考流程：
@@ -40,14 +40,14 @@ latticemage@gmail.com
 一開始還沒想到要做什麼主題，最早是延續L6，想做這次做一個天使審判長，然後接著想其他可能順便精靈矮人。  
 
 後來不小心想到天使長拿槍，精靈拿弓，就順便把Fate的職階放進來，順便把地水火風也放入之後，整個系列就定調了，因此構想上加速很多，就是對屬性+職階+種族去做排列組合湊出一套覺得滿意的搭配，加上為了系列概念，採用的公版也使用同一個版本。  
-![](/images/krenz-comp/L8%20cp0.png)
+![](/images/krenz-comp/L8%20cp0.jpg)
 
 反而是完成這個之後，才回去補寫心智圖。
 
 
 #### 選一張
 我原則上都會以嘗試新東西為主要方針，比如L4練習過風特效了，所以L6採用冰特效作為練習方向，  
-![](/images/krenz-comp/L6.png)
+![](/images/krenz-comp/L6.jpg)
 
 基於嘗試新東西的原則，水風相關都不考慮了，其實一開始還是想畫天使長，後來考量到羽毛L2也練過，加上L6也畫過了護板、肩部護甲相關的戰士系服裝，所以也不考慮，最後選用了Caster的主題。
 
@@ -55,7 +55,7 @@ latticemage@gmail.com
 
 一開始在思考兩側外部長條要放甚麼，試了一個十字架，為了估另一側的形狀，不小心試到在放置兩側十字架，斜向內指有更強的視覺導引效果，所以就定版了使用這個概念。
 
-![](/images/krenz-comp/cross.png)
+![](/images/krenz-comp/cross.jpg)
 
 
 順便延伸使用AI生成墓地的概念圖，把墳墓放入讓十字架豐富一點。
@@ -66,23 +66,23 @@ latticemage@gmail.com
 
 試了數輪失敗之後才想起來perspective是損失z軸訊息的純xy二維結果，不同大小的物體並沒有差別，大物體在遠處跟小物體在近處是會一樣的投射結果，因此最後的作法是直接把草稿中的墳墓的線直接拉透視線對齊即可。
 
-![](/images/krenz-comp/perspective.png)
+![](/images/krenz-comp/perspective.jpg)
 
 #### 加入外框
 一開始有放系列作規劃讓助教檢查主題，因此助教也建議做一個貫穿整個系列用的Banner，所以我也另外製作了塔羅牌外框
 
-![](/images/krenz-comp/border.png)
+![](/images/krenz-comp/border.jpg)
 
 #### 細化-粗邊
 老實說到這邊因為平日比較忙的因素，花的時間太少，因此最後收尾採用簡便的方式，外框直接使用塗區域自動上外框的功能。其實這個方式在作業一的時候就使用過，在把五條魚做分解在合併的時候，把魚上底色再用邊界功能，接起來的時候自動有粗外框。  
-![](/images/krenz-comp/trick1.png)
-![](/images/krenz-comp/trick2.png)
+![](/images/krenz-comp/trick1.jpg)
+![](/images/krenz-comp/trick2.jpg)
 
 
 #### 細化-收尾工作
 節點二給助教檢查之後做了一些微調，比如外框深淺、方圓對比。人物本身也稍微用線條做了方圓對比，再補上閉塞。
 
-![](/images/krenz-comp/L8.png)
+![](/images/krenz-comp/L8.jpg)
 
 ## ⑧ 心得：
 相比於透視課的機械式操作，構成課有許多擺放的自由度，構成課作業比較沒有重複性的感覺。  
