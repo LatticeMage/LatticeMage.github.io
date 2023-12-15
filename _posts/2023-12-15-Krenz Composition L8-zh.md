@@ -7,6 +7,8 @@ tags: [Visual Art]
 
 # PosetMage-LatticeMage-構成11期-作業心得-L8畢業作品
 
+本文連結：https://lattice.posetmage.com/2023/12/15/Krenz-Composition-L8-zh.html
+
 ## ① 你的昵稱：
 LatticeMage
 
@@ -81,8 +83,6 @@ latticemage@gmail.com
 
 #### 細化-收尾工作
 節點二給助教檢查之後做了一些微調，比如外框深淺、方圓對比。人物本身也稍微用線條做了方圓對比，再補上閉塞。
-
-![](/images/krenz-comp/L8.jpg)
 
 ## ⑧ 心得：
 相比於透視課的機械式操作，構成課有許多擺放的自由度，構成課作業比較沒有重複性的感覺。  
