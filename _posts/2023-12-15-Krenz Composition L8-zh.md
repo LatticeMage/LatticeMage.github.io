@@ -34,6 +34,8 @@ latticemage@gmail.com
 * 參考
   * 上透視課時使用Stable Diffusion生參考，這次剛好GPT4更新提供DALL·E 3，所以構成課L6和L8都用上了DALL·E 3
   * ![](/images/krenz-comp/ref.jpg)
+  * 邊框的部分剛好遇到AI額度上限，直接先到Pintrest找
+  * ![](/images/krenz-comp/ref2.jpg)
 
 
 ## ⑦ 繪畫&思考流程：
