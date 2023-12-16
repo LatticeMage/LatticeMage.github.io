@@ -1,9 +1,9 @@
 ---
 layout: page
-title: GPTs
-permalink: /GPTs/
+title: Media
+permalink: /Media/
 redirect_from:
-  - /gpts/
+  - /media/
 ---
 
 <style>
@@ -16,7 +16,7 @@ img {
 </style>
 
 
-## <img src="/Images/Icon/LatticeMage_t.png" Height="32" /> [LatticeMage](https://lattice.posetmage.com)
+## <img src="https://posetmage.com/Images/Icon/LatticeMage_t.png" Height="32" /> [LatticeMage](https://lattice.posetmage.com)
 * About LatticeMage
   * Well-rounded Interesting
     * [wiki page](https://knowledge.posetmage.com)
