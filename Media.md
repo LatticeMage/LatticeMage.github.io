@@ -32,5 +32,5 @@ img {
   * familiar with algorithm, c++17, python, computer graphics, computer vision
 
 ## Other Brands
-* <img src="https://posetmage.com/Images/Icon/PosetMage_t.png" Height="32" /> [LatticeMage](https://lattice.posetmage.com)
+* <img src="https://posetmage.com/Images/Icon/PosetMage_t.png" Height="32" /> [PosetMage](https://posetmage.com)
 * <img src="https://posetmage.com/Images/AIMage/LOGO.png" Height="32" /> [AI-Mage](https://ai.posetmage.com)
