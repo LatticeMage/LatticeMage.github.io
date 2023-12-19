@@ -29,7 +29,7 @@ I've been studying learning theories lately. From an evolutionary perspective, t
 
 The principle of knowledge learning is model compression. After seeing many scenarios, one finds a method that can explain them (a compressed model) and then applies it to new, unseen problems. The human brain, being knowledge-driven, is adept at abstract conceptual reasoning to adapt to new environments.
 
-For the next generation's education, perhaps we can encourage students to get used to encountering a wide range of content and to attempt compressive thinking. How to apply the fewest concepts to the most scenarios, and when encountering something new, to update the compressed model. I recall a Go YouTube channel where the creator initially found AI exciting. But after AI dominated human players, he struggled to find meaning in Go. After years of searching, his interpretation of Go became:
+For the next generation's education, perhaps we can encourage students to get used to encountering a wide range of content and to attempt compressive thinking. How to apply the fewest concepts to the most scenarios, and when encountering something new, to update the compressed model. I recall 高川格, a Go YouTube channel, where the creator initially found AI exciting. But after AI dominated human players, he struggled to find meaning in Go. After years of searching, his interpretation of Go became:
 
 'In the past, only what professional Go players said was the truth. Amateurs playing differently from professionals would be criticized. Humans can no longer defeat AI, and there's no need to pursue the truth anymore. Also, different AIs may support the same move on the board. But why play the game this way? You need to provide a reason, not an AI's reason, but your own.'
 
