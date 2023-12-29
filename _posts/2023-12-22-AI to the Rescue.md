@@ -2,7 +2,7 @@
 layout: post
 title:  "AI to the Rescue: Reinvigorating Human Research and Culture"
 date:   2023-12-22 10:00:00 +0800
-tags: [Brain]
+tags: [Tech]
 ---
 
 In the past, it was normal to graduate with a Ph.D. in four years, but now it often takes seven or eight years to complete one's studies. Humanity has entered a period of slow progress. This is evident in academia, where Ph.D. students spend years just studying the work of their predecessors. The surge in the number of research papers makes it challenging to produce cutting-edge theories at a rapid pace, as we have seen in fewer generations like Einstein's.
