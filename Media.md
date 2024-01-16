@@ -19,7 +19,7 @@ img {
 ## <img src="https://posetmage.com/Images/Icon/LatticeMage_t.png" Height="32" /> [LatticeMage](https://lattice.posetmage.com)
 * About LatticeMage
   * Well-rounded Interesting
-    * [notes](https://knowledge.posetmage.com)
+    * [notes](https://lattice.posetmage.com/notes)
     * watching lots of meterials and various media such as youtube, podcast, book, wiki to learn many feilds include science, tech, philosophy, Bio, Evo, Brain science.....
     * Listening many kinds of music include Djent, post-metal, progressive-metal, jazz, classical, guitar......
     * [Youtube](https://youtube.com/@LatticeMage)
