@@ -1,23 +1,19 @@
 ---
 layout: page
-title: Media
+title: About
 ---
 
 <style>
 img {
   border-radius: 50%; /* Creates the circle shape */
-  width: 50px; /* Width of the image */
-  height: 50px; /* Height of the image, should be the same as width */
   object-fit: cover; /* Ensures the image covers the area and maintains aspect ratio */
 }
 </style>
 
+As an "iterator" , I excel in making consistent, incremental improvements in both my personal and professional endeavors. This approach allows me to adapt and evolve continuously, ensuring that every project I undertake benefits from a dynamic and progressive mindset. My iterative method is characterized by a steady stream of small, impactful changes, reflecting a deep commitment to ongoing refinement and efficiency.
 
 ## <img src="https://posetmage.com/Images/Icon/LatticeMage_t.png" Height="32" /> [LatticeMage](https://lattice.posetmage.com)
 * About LatticeMage
-  * Well-rounded Interesting
-    * [notes](https://lattice.posetmage.com/notes)
-    * watching lots of meterials and various media such as youtube, podcast, book, wiki to learn many feilds include science, tech, philosophy, Bio, Evo, Brain science.....
     * Listening many kinds of music include Djent, post-metal, progressive-metal, jazz, classical, guitar......
     * [Youtube](https://youtube.com/@LatticeMage)
       * Startups, Economics, Investing, Resilience, One Person Company
