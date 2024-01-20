@@ -1,10 +1,8 @@
 ---
 layout: page
-title: Tags
-permalink: /Tags/
-redirect_from:
-  - /tags/
 ---
+
+# Tags
 
 <style>
   .tag-head {
