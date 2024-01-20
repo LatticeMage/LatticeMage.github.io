@@ -1,9 +1,6 @@
 ---
 layout: page
 title: Media
-permalink: /Media/
-redirect_from:
-  - /media/
 ---
 
 <style>
