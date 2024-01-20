@@ -2,8 +2,6 @@
 layout: page
 ---
 
-# Tags
-
 <style>
   .tag-head {
     margin: 1em 0 0; /* Adjust the margin-top value as needed */
