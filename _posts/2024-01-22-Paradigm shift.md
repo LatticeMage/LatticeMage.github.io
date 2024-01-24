@@ -5,6 +5,8 @@ date:   2024-01-22 10:00:00 +0800
 tags: [Paradigm Shift]
 ---
 
+# AI時代的典範轉移
+
 ## 什麼是典範轉移
 [典範轉移(Paradigm shift)](https://zh.wikipedia.org/zh-tw/%E5%85%B8%E7%AF%84%E8%BD%89%E7%A7%BB)、或叫做範式轉換，是Thomas Kuhn提出的一個概念，是科學的基本概念和實驗方式的根本性顛覆。
 
@@ -77,4 +79,25 @@ GPT出現之後，搜尋知識或資料的技術也將不再是最重要的技�
 
 AI繪圖也是解放，在過往學手繪會被說難以賺錢，但現在學手繪就會被大眾視為真的熱愛的興趣。
 
-各種AI工具的出現，應該是一種解放。
+各種AI工具的出現，是一種解放，所有人都可以被AI解放。
+
+
+## AI時代的心態 - 全局戰略比局部戰術還重要
+AI在很多地方證明了全局戰略比局部戰術還重要，圍棋AlphgGo下棋往往在局部吃虧是不在意的，化身AlphaStar去打星海也是，重點是大局的掌控。
+日麻LuckJ也是類似的表現，LuckJ並不在意一些牌張打出去的順序，它在意的是整體手牌的規劃需要爭一避四。
+
+Transformer的AI不管是語言還是影像辨識，也都展現了對於全局的理解比局部更重要。  
+當大家在笑AI繪圖不會畫手、透視畫錯的時候，證明了AI繪圖重點是第一眼好看，整體的好看比局部畫對更重要。
+
+要擺脫過往的思維是困難的，需要長時間的練習。
+
+
+
+
+
+#### 其他參考資料
+* [星海爭霸2 Alphastar 對職業選手，分析圍棋理論運用在電競](https://www.youtube.com/watch?v=7Zggz9H3c08)
+* [【小六德州撲克】全世界最強的德州撲克玩家就是他！強到被懷疑是AI人工智慧！？原來德州撲克是可以被破解的？](https://www.youtube.com/watch?v=gISt1BX-HAM)
+* [【日麻少年】手牌解析 #20 天鳳特桌最速十段日麻AI LuckyJ 打牌方式讓NAGA和少年都霧煞煞](https://www.youtube.com/watch?v=4XIfqDdMWLI)
+* [【小六德州撲克】全世界最強的德州撲克玩家就是他！強到被懷疑是AI人工智慧！？原來德州撲克是可以被破解的？](https://www.youtube.com/watch?v=gISt1BX-HAM)
+* [神经网络（八）计算机视觉中的transformer](https://www.youtube.com/watch?v=08J22Zs0F6Q)
