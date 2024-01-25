@@ -43,9 +43,9 @@ David還有提到另一個方式是曝冷，人體演化到目前為止，是能
 訓練容積和訓練強度都超過一個閾值之後，身體會接受到需要成長去面對更強壓力的訊號，就會形成細胞的替換，促進更多的分解合成。
 
 #### 其他參考資料
-[EP70 何老師N=1的飲食實驗](https://www.youtube.com/watch?v=p9KcpG5al-Q)
-[EP71 何老師N=1的飲食實驗 PART II](https://www.youtube.com/watch?v=mZlNUvOsfZE)
-[EP72 何老師N=1的飲食實驗 PART III](https://www.youtube.com/watch?v=_8H3h88uTfY)
+* [EP70 何老師N=1的飲食實驗](https://www.youtube.com/watch?v=p9KcpG5al-Q)
+* [EP71 何老師N=1的飲食實驗 PART II](https://www.youtube.com/watch?v=mZlNUvOsfZE)
+* [EP72 何老師N=1的飲食實驗 PART III](https://www.youtube.com/watch?v=_8H3h88uTfY)
 
 ## 反駁的理論
 以上的理論並非所有科學界都認同，也很推薦觀看[白天手術房晚上健身房](https://www.youtube.com/playlist?list=PL0rmRGdGRzOO6RMwDqxoOh-HdKBMhI8p4)，陳醫師會講解新的paper來呈現目前最新的研究結果和理論。
