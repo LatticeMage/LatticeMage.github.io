@@ -42,8 +42,13 @@ David還有提到另一個方式是曝冷，人體演化到目前為止，是能
 《抗老化，你需要大重量訓練》中提到骨骼、肌肉和神經系統，會對壓力起反應，但是這個壓力反應需要超過一個閾值，訓練強度閾值大概是70%1RM重量附近，大概是8RM~12RM或更重的範圍。
 訓練容積和訓練強度都超過一個閾值之後，身體會接受到需要成長去面對更強壓力的訊號，就會形成細胞的替換，促進更多的分解合成。
 
-## 反駁的理論
-以上的理論並非所有科學界都認同，也很推薦觀看[白天手術房晚上健身房](https://www.youtube.com/playlist?list=PL0rmRGdGRzOO6RMwDqxoOh-HdKBMhI8p4)，陳醫師會看很多新的paper來講解目前最新的研究結果。
+#### 其他參考資料
+[EP70 何老師N=1的飲食實驗](https://www.youtube.com/watch?v=p9KcpG5al-Q)
+[EP71 何老師N=1的飲食實驗 PART II](https://www.youtube.com/watch?v=mZlNUvOsfZE)
+[EP72 何老師N=1的飲食實驗 PART III](https://www.youtube.com/watch?v=_8H3h88uTfY)
 
-比如陳醫師就有提到反對斷食、支持少量多餐的paper，還有比如澱粉熱量佔比50%是比較合理的範圍之類等期刊研究。
+## 反駁的理論
+以上的理論並非所有科學界都認同，也很推薦觀看[白天手術房晚上健身房](https://www.youtube.com/playlist?list=PL0rmRGdGRzOO6RMwDqxoOh-HdKBMhI8p4)，陳醫師會講解新的paper來呈現目前最新的研究結果和理論。
+
+比如陳醫師就有提到支持少量多餐的paper，還有比如澱粉熱量佔比50%是比較合理的範圍之類等期刊研究。
 每個人對於不同的生活型態反應都不同，並不是任何人都適應各種方法。
