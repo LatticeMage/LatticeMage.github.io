@@ -22,8 +22,9 @@ title: LatticeMage
 email: latticemage@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
    "国士無双 一騎当千"
-baseurl: "" # the subpath of your site, e.g. /blog
+
 url: "https://lattice.posetmage.com" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
 
 social:
   - platform: envelope
@@ -39,14 +40,6 @@ social:
 site_favicon: favicon.ico
 includes_dir: _shared/_includes
 layouts_dir: _shared/_layouts
-
-#order
-header_pages:
-  - About.md
-  - Blog.md
-  - Tags.md
-  - Media.md
-  - Contact.md
 
 # Build settings
 remote_theme: jekyll/minima
