@@ -27,5 +27,7 @@ As an "iterator" , I excel in making consistent, incremental improvements in bot
     * [tiktok](https://www.tiktok.com/@latticemage)
 
 ## Other Brands
-* <img src="https://posetmage.com/Images/Icon/PosetMage_t.png" Height="32" /> [PosetMage](https://posetmage.com)
-* <img src="https://posetmage.com/Images/AIMage/LOGO.png" Height="32" /> [AI-Mage](https://ai.posetmage.com)
+* <a href="https://posetmage.com"><img src="https://posetmage.com/Images/Icon/PosetMage_t.png" Height="32" /> PosetMage</a>
+*  <a href="https://ai.posetmage.com"><img src="https://posetmage.com/Images/AIMage/LOGO.png" Height="32" /> AI-Mage</a>
+* <a href="https://alchemymage.posetmage.com"><img src="https://posetmage.com/Images/Icon/AlchemyMage_b.png" Height="32" /> 鍊金Mage</a>
+
