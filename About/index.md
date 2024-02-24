@@ -12,7 +12,7 @@ img {
 
 As an "iterator" , I excel in making consistent, incremental improvements in both my personal and professional endeavors. This approach allows me to adapt and evolve continuously, ensuring that every project I undertake benefits from a dynamic and progressive mindset. My iterative method is characterized by a steady stream of small, impactful changes, reflecting a deep commitment to ongoing refinement and efficiency.
 
-## <img src="https://posetmage.com/Images/Icon/LatticeMage_t.png" Height="32" /> [LatticeMage](https://lattice.posetmage.com)
+## <img src="https://posetmage.com/Images/Icon/LatticeMage_t.webp" Height="32" /> [LatticeMage](https://lattice.posetmage.com)
 * About LatticeMage
     * Listening many kinds of music include Djent, post-metal, progressive-metal, jazz, classical, guitar......
     * [Youtube](https://youtube.com/@LatticeMage)
@@ -27,7 +27,7 @@ As an "iterator" , I excel in making consistent, incremental improvements in bot
     * [tiktok](https://www.tiktok.com/@latticemage)
 
 ## Other Brands
-* <a href="https://posetmage.com"><img src="https://posetmage.com/Images/Icon/PosetMage_t.png" Height="32" /> PosetMage</a>
-*  <a href="https://ai.posetmage.com"><img src="https://posetmage.com/Images/AIMage/LOGO.png" Height="32" /> AI-Mage</a>
-* <a href="https://alchemy.posetmage.com"><img src="https://posetmage.com/Images/Icon/AlchemyMage_t.png" Height="32" /> 鍊金Mage</a>
+* <a href="https://posetmage.com"><img src="https://posetmage.com/Images/Icon/PosetMage_t.webp" Height="32" /> PosetMage</a>
+*  <a href="https://ai.posetmage.com"><img src="https://posetmage.com/Images/AIMage/LOGO.webp" Height="32" /> AI-Mage</a>
+* <a href="https://alchemy.posetmage.com"><img src="https://posetmage.com/Images/Icon/AlchemyMage_t.webp" Height="32" /> 鍊金Mage</a>
 
