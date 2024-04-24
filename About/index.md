@@ -12,15 +12,13 @@ img {
 
 As an "iterator" , I excel in making consistent, incremental improvements in both my personal and professional endeavors. This approach allows me to adapt and evolve continuously, ensuring that every project I undertake benefits from a dynamic and progressive mindset. My iterative method is characterized by a steady stream of small, impactful changes, reflecting a deep commitment to ongoing refinement and efficiency.
 
-## <img src="https://posetmage.com/Images/Icon/LatticeMage_t.webp" Height="32" /> [LatticeMage](https://lattice.posetmage.com)
-* About LatticeMage
-    * Listening many kinds of music include Djent, post-metal, progressive-metal, jazz, classical, guitar......
-    * [Youtube](https://youtube.com/@LatticeMage)
-      * Startups, Economics, Investing, Resilience, One Person Company
-    * [FB - LatticeMage](https://www.facebook.com/latticemage)
-  * familiar with algorithm, c++17, python, computer graphics, computer vision
-  * Learning Japanese
-    * [tiktok](https://www.tiktok.com/@latticemage)
+## LatticeMage
+* [Podcast](/Podcast/)
+* [Youtube](https://youtube.com/@LatticeMage)
+  * Startups, Economics, Investing, Resilience, One Person Company
+* [Facebook](https://www.facebook.com/latticemage)
+* [Threads](https://www.threads.net/@latticemage)
+
 
 ## Other Brands
 * <a href="https://posetmage.com"><img src="https://posetmage.com/Images/Icon/PosetMage_t.webp" Height="32" /> PosetMage</a>
