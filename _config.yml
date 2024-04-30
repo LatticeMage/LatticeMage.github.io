@@ -24,18 +24,23 @@ url: https://lattice.posetmage.com # the base hostname & protocol for your site,
 
 repository: latticemage/latticemage.github.io
 
-social:
-  - platform: envelope
-    url: mailto:lattice@posetmage.com
-  - platform: youtube
-    url: https://youtube.com/@latticemage
-  - platform: facebook
-    url: https://facebook.com/latticemage
-  - platform: twitter
-    url: https://twitter.com/latticemage
+
+kramdown:
+  parse_block_html: true
+  
+collections:
+  directories:
+    output: true
+
 
 # Build settings
 remote_theme: jekyll/minima
+
+exclude:
+  - _includes/.git/
+  - _layouts/.git/
+  - _layouts/page/.git/
+  - assets/.git/
 
 minima:
   skin: dark
@@ -49,6 +54,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-titles-from-headings
   - jekyll-seo-tag
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
