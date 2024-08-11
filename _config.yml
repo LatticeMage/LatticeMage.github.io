@@ -25,12 +25,12 @@ url: https://lattice.posetmage.com # the base hostname & protocol for your site,
 repository: latticemage/latticemage.github.io
 
 
-kramdown:
-  parse_block_html: true
-  
-collections:
-  directories:
-    output: true
+
+
+
+
+
+
 
 
 # Build settings
