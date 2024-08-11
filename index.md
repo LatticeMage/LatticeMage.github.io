@@ -15,7 +15,3 @@ LatticeMage is sub-brand from PosetMage, intresting on various feilds such as
   * Startups, Economics, Investing, Resilience, One Person Company
 * [Facebook](https://www.facebook.com/LatticeMage)
 * [Threads](https://www.threads.net/@latticemage)
-
-<div id="subbrands"></div>
-
-<script src="{{ '/assets/js/Sub_Brands.js' | relative_url }}"></script>
