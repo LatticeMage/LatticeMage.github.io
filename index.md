@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: base
 ---
 
 LatticeMage is sub-brand from PosetMage, intresting on physiology and psychology relate topics
