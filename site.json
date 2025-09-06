@@ -1,0 +1,13 @@
+{
+  "title": "LatticeMage",
+  "email": "latticemage@gmail.com",
+  "url": "https://lattice.posetmage.com",
+  "icon": "https://posetmage.com/Images/Icon/LatticeMage.svg",
+  "slogan": "奇跡ってのはタダじゃないんだ。希望を祈れば、それと同じ分だけの絶望が撒き散らされる。",
+  "navigation": [
+    { "title": "About", "url": "/About/" },
+    { "title": "Blog", "url": "/Blog/" },
+    { "title": "Notes", "url": "/Notes/" },
+    { "title": "Contact", "url": "/Contact/" }
+  ]
+}
